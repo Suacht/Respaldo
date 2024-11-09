@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,24_7
+https://playstream.surge.sh/ServidorC/IPTV/Premium/24_7.m3u
+#EXTINF:-1,24_7 II
+https://playstream.surge.sh/ServidorC/IPTV/Premium/24_7%20II.m3u
+#EXTINF:-1,CINE 24_7
+https://playstream.surge.sh/ServidorC/IPTV/Premium/CINE%2024_7.m3u
+#EXTINF:-1,CINE & SERIES
+https://playstream.surge.sh/ServidorC/IPTV/Premium/CINE%20%26%20SERIES.m3u
+#EXTINF:-1,CINE GOLDEN
+https://playstream.surge.sh/ServidorC/IPTV/Premium/CINE%20GOLDEN.m3u
+#EXTINF:-1,CINE UNIVERSAL
+https://playstream.surge.sh/ServidorC/IPTV/Premium/CINE%20UNIVERSAL.m3u
+#EXTINF:-1,CINE Y SERIES ESPAÑA
+https://playstream.surge.sh/ServidorC/IPTV/Premium/CINE%20Y%20SERIES%20ESPA%C3%91A.m3u
+#EXTINF:-1,CINEMA 24_7
+https://playstream.surge.sh/ServidorC/IPTV/Premium/CINEMA%2024_7.m3u
+#EXTINF:-1,INFANTILES
+https://playstream.surge.sh/ServidorC/IPTV/Premium/INFANTILES.m3u

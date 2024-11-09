@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,ADULTOS DS
+https://playstream.surge.sh/ServidorC/IPTV/General/ADULTOS%20DS.m3u
+#EXTINF:-1,CANALES XXX ADULTOS
+https://playstream.surge.sh/ServidorC/IPTV/General/CANALES%20XXX%20ADULTOS.m3u
+#EXTINF:-1,CULTURA
+https://playstream.surge.sh/ServidorC/IPTV/General/CULTURA.m3u
+#EXTINF:-1,DEPORTES LATINOS
+https://playstream.surge.sh/ServidorC/IPTV/General/DEPORTES%20LATINOS.m3u
+#EXTINF:-1,ENTRETENIMIENTO
+https://playstream.surge.sh/ServidorC/IPTV/General/ENTRETENIMIENTO.m3u
+#EXTINF:-1,FUTBÓL CHILE
+https://playstream.surge.sh/ServidorC/IPTV/General/FUTB%C3%93L%20CHILE.m3u
+#EXTINF:-1,FÚTBOL COLOMBIA
+https://playstream.surge.sh/ServidorC/IPTV/General/F%C3%9ATBOL%20COLOMBIA.m3u
+#EXTINF:-1,FÚTBOL PERÚ
+https://playstream.surge.sh/ServidorC/IPTV/General/F%C3%9ATBOL%20PER%C3%9A.m3u
+#EXTINF:-1,GALAVISIÓN
+https://playstream.surge.sh/ServidorC/IPTV/General/GALAVISI%C3%93N.m3u
+#EXTINF:-1,MÚSICA
+https://playstream.surge.sh/ServidorC/IPTV/General/M%C3%9ASICA.m3u
+#EXTINF:-1,NOTICIAS
+https://playstream.surge.sh/ServidorC/IPTV/General/NOTICIAS.m3u
+#EXTINF:-1,RELIGIOSOS DIRECTO
+https://playstream.surge.sh/ServidorC/IPTV/General/RELIGIOSOS%20DIRECTO.m3u
+#EXTINF:-1,STARZ CINEMA
+https://playstream.surge.sh/ServidorC/IPTV/General/STARZ%20CINEMA.m3u
+#EXTINF:-1,TELEMUNDOS
+https://playstream.surge.sh/ServidorC/IPTV/General/TELEMUNDOS.m3u
+#EXTINF:-1,TELENOVELAS
+https://playstream.surge.sh/ServidorC/IPTV/General/TELENOVELAS.m3u
+#EXTINF:-1,UNIMAS-UNIVISION-GALAVISION
+https://playstream.surge.sh/ServidorC/IPTV/General/UNIMAS-UNIVISION-GALAVISION.m3u
+#EXTINF:-1,UNIMAS-UNIVISION-GALAVISION 2
+https://playstream.surge.sh/ServidorC/IPTV/General/UNIMAS-UNIVISION-GALAVISION%202.m3u
+#EXTINF:-1,UNIVISION
+https://playstream.surge.sh/ServidorC/IPTV/General/UNIVISION.m3u

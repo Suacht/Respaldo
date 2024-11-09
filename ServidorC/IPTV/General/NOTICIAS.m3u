@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png" ,ARG: Canal 9 imagen del Nordeste DASH
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" ,NT: 24 HORASᴴᴰ ⁽ᵒᵖ²⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/677
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" ,NT: 24 HORASᴴᴰ ⁽ᵒᵖ³⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/678
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="" ,NT: 24 HORASᴴᴰ ⁽ᵒᵖ¹⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/676
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" ,NT: 24 HORASᴴᴰ ⁽ᵒᵖ⁴⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/679
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" ,NT: CNN CHILEᴴᴰ ⁽ᵒᵖ²⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/685
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" ,NT: CNN CHILEᴴᴰ ⁽ᵒᵖ¹⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/684
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" ,NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ²⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/681
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" ,NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ³⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/682
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" ,NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/680
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" ,NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ⁴⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/683
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" ,NT: CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ²⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/687
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" ,NT: CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ³⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/688
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" ,NT: CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ¹⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/686
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" ,NT: CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ⁴⁾
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/689
