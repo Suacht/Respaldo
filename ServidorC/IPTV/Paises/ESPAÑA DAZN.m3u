@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60354
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60359
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60358
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60357
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60362
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60361
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" ,DAZN 4 FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60364
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" ,DAZN 4 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60363
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN  F1 [Low Conx]
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60353
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN F1 FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60351
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN F1 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60350
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN F1 HD (50 FPS)
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60352
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN F1 SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60349
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN FHD 1
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60356
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" ,DAZN LA LIGA 3 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60270
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" ,DAZN LA LIGA 4 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60271
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LA LIGA UHD 4K
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60265
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" ,DAZN LALIGA 2 FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60269
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" ,DAZN LALIGA 2 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60268
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" ,DAZN LALIGA 2 SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60267
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="" ,DAZN LALIGA  FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60244
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LALIGA FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60263
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LALIGA HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60262
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LALIGA HD (H.265)
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60264
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LALIGA SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/60261
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,ES | DAZN 1 FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/12361
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,ES | DAZN 2 FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/12362
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,ES | DAZN 3
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/12364
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" ,ES | DAZN 4 FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/12363

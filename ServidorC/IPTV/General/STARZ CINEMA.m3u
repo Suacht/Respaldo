@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="" ,CINE| Starz Cinema HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/664
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzComedy.us.png" ,CINE| Starz Comedy HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/665
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Starz.us.png" ,CINE| Starz East HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/666
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEdge.us.png" ,CINE| Starz Edge HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/667
+#EXTINF:-1 tvg-logo="" ,CINE| Starz Encore Black HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/668
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" ,CINE| Starz Encore Classic HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/669
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" ,CINE| Starz Encore Family HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/670
+#EXTINF:-1 tvg-logo="" ,CINE| Starz Encore HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/671
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" ,CINE| Starz Encore Suspense HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/672
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" ,CINE| Starz Encore Western HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/673
+#EXTINF:-1 tvg-logo="" ,CINE| Starz HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/674
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzWest.us.png" ,CINE| Starz West HD_1080P
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/675

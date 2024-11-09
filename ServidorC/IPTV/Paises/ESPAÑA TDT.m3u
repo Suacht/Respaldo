@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" ,7 TeleValencia
+https://github.com/Suacht/Respaldo/raw/main/9E9557EFCEBB43A89CEC8FBD3C500247022/0G1NTJGD/index.m3u8
+#EXTINF:-1 tvg-logo="" ,7 tv murcia FHD
+https://github.com/Suacht/Respaldo/raw/main/principal/smil:principal.smil/chunklist_w1013198667_b3300000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" ,ES | 24 Horas HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236491
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" ,ES | 24 Horas SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236490
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" ,ES | Antena 3 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236483
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" ,ES | Antena 3 SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236482
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" ,ES | BeMad HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236493
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" ,ES | BeMad SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236492
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" ,ES | BOING HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236533
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" ,ES | BOING SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236532
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" ,ES | CLAN TVE HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236535
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" ,ES | CLAN TVE SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236534
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" ,ES | Cuatro HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236485
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" ,ES | Cuatro SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236484
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" ,ES | DISNEY CHANNEL FHD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236531
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" ,ES | DISNEY CHANNEL SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" ,ES | Divinity HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236495
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" ,ES | Divinity SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236494
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" ,ES | DKiss HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236497
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" ,ES | DKiss SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236496
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" ,ES | Dmax HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236499
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" ,ES | Dmax SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236498
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" ,ES | El Toro TV HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236501
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" ,ES | El Toro TV SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" ,ES | Energy HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236503
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" ,ES | Energy SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236502
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" ,ES | FDF HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236505
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" ,ES | FDF SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236504
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" ,ES | Gol Play HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236507
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" ,ES | Gol Play SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236506
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" ,ES | La 1 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236479
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="" ,ES | LA 1 SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236478
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" ,ES | La 2 HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236481
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" ,ES | LA 2 SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236480
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" ,ES | La Sexta HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236489
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" ,ES | La Sexta SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236488
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" ,ES | Mega HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236509
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" ,ES | Mega SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236508
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WWxwTv/NEGOTV.png" ,ES | Negocios HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236511
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WWxwTv/NEGOTV.png" ,ES | Negocios SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236510
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" ,ES | Neox HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236513
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" ,ES | Neox SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236512
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" ,ES | Nova HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236515
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" ,ES | Nova SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236514
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" ,ES | PARAMOUNT NETWORK HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236537
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" ,ES | PARAMOUNT NETWORK SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236536
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" ,ES | REAL MADRID TV HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236539
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" ,ES | REAL MADRID TV SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236538
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" ,ES | Telecinco HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236487
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" ,ES | Telecinco SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236486
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" ,ES | Teledeporte HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236517
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" ,ES | Teledeporte SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" ,ES | TEN HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236519
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" ,ES | TEN SD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236518
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" ,ES | Trece HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236520
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" ,ES | Trece HD
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/236521
+#EXTINF:-1 tvg-logo="" ,ES: 3/24 DASH
+https://github.com/Suacht/Respaldo/raw/main/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" ,ES: 9 la loma tv
+https://github.com/Suacht/Respaldo/raw/main/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/629_Alcarria_TV.png" ,ES: ALCARRIA TV HD
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-logo="" ,ES: ALICANTI TV HD
+https://github.com/Suacht/Respaldo/raw/main/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/601_Bon_Dia.png" ,ES: BON DIA DASH
+https://github.com/Suacht/Respaldo/raw/main/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFP3pZEp9t4_5_vVZPmsSaTusxnyWI0dUouQ&s" ,ES: CANAL 4 MANCHA CENTRO DASH
+https://github.com/Suacht/Respaldo/raw/main/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2023/11/logo-canal4-digital@150.webp" ,ES: CANAL 4 TENERIFE DASH
+https://github.com/Suacht/Respaldo/raw/main/Directo4/Directo4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal10.cat/img/logocom.png" ,ES: CANAL 10 EMPORDA DASH
+https://github.com/Suacht/Respaldo/raw/main/escala/directe.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lWNviqg8vTv5Gj7UbrEPbJ1K4U453rJD8WsSWZaFq4SxDYuzlIizXpmMB8ognPL0teE&usqp=CAU" ,ES: CANAL 25 TV DASH
+https://github.com/Suacht/Respaldo/raw/main/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/602_Canal_33_Madrid.png" ,ES: CANAL 33 MADRID DASH
+https://github.com/Suacht/Respaldo/raw/main/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9i39S-tpgHTSLOZrOHz1r8RZ8oDK9XHLUjtqueY&usqp=CAE&s" ,ES: CANAL 56 DASH
+https://github.com/Suacht/Respaldo/raw/main/directe/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" ,ES: Canal Diocesano DASH
+https://github.com/Suacht/Respaldo/raw/main/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0h9yvWI-7WhW3erzWuBe0Dts5xpLY-UDpvmTTprR6gO5KbE9DK_GbsCabKCaPUgL1QBfyE4Q=s900-c-k-c0x00ffffff-no-rj" ,ES: CANAL DOÑANA DASH
+https://github.com/Suacht/Respaldo/raw/main/live/division-alm.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7K9oydryRIxJ70a7Zoj_29Z_hQC4jmOeWA&s" ,ES: CANAL MALAGA RTV DASH
+https://github.com/Suacht/Respaldo/raw/main/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/632_Canal_Parlamento___Madrid.png" ,ES: CANAL PARLAMENTO DASH
+https://github.com/Suacht/Respaldo/raw/main/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3DgERA1TopbuAg4mERo0H62-KPMbqAXG9g&s" ,ES: CANAL SAN ROQUE DASH
+https://github.com/Suacht/Respaldo/raw/main/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Dp8E-VqEJyNYdTgmfnDb63EuR-IGuQFREKD1tqjDo3K89EOdE-I10GFZlygNuVZ3ln58LPpjeSM=s900-c-k-c0x00ffffff-no-rj" ,ES: CANAL SIERRA DE CADIZ DASH
+https://github.com/Suacht/Respaldo/raw/main/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.canaltaronja.cat/osona/wp-content/uploads/2016/12/logo-nou.png" ,ES: Canal Taronja Osona, Moianès i Lluçanès DASH
+https://github.com/Suacht/Respaldo/raw/main/canaltaronja/osona/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/612_Extremadura.png" ,ES: EXTREMADURA DASH
+https://github.com/Suacht/Respaldo/raw/main/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
+#EXTINF:-1 tvg-logo="" ,ES: TELECANARIAS 2
+https://github.com/Suacht/Respaldo/raw/main/mediavodv2/resources/TE_STECACA/mp4/7/2/1729274523527.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16294505
+#EXTINF:-1 tvg-logo="" ,ES: TVE Catalunya
+https://github.com/Suacht/Respaldo/raw/main/mediavodv2/resources/SHO_L-APRO/mp4/7/2/1729270243327.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16294073
+#EXTINF:-1 tvg-logo="" ,ES: Á PUNT DASH
+https://github.com/Suacht/Respaldo/raw/main/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="" ,Ibiza Global TV (only event)
+https://github.com/Suacht/Respaldo/raw/main/hls/ibgrlive.m3u8
+#EXTINF:-1 tvg-logo="" ,La 8 Mediterraneo FHD
+https://github.com/Suacht/Respaldo/raw/main/hls/8TV.m3u8
+#EXTINF:-1 tvg-logo="" ,Melilla tv HD
+https://github.com/Suacht/Respaldo/raw/main/tvmelilla/live-fake-ori_high/chunks.m3u8
+#EXTINF:-1 tvg-logo="" ,RTVCE FHD
+https://github.com/Suacht/Respaldo/raw/main/rtvcelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,TV RIOJA HD
+https://github.com/Suacht/Respaldo/raw/main/riojatv/riojatvlive/chunklist_w514421644.m3u8

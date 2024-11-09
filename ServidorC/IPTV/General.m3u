@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,ADULTOS DS
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/ADULTOS%20DS.m3u
+#EXTINF:-1,CANALES XXX ADULTOS
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/CANALES%20XXX%20ADULTOS.m3u
+#EXTINF:-1,CULTURA
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/CULTURA.m3u
+#EXTINF:-1,DEPORTES LATINOS
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/DEPORTES%20LATINOS.m3u
+#EXTINF:-1,ENTRETENIMIENTO
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/ENTRETENIMIENTO.m3u
+#EXTINF:-1,FUTBÓL CHILE
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/FUTB%C3%93L%20CHILE.m3u
+#EXTINF:-1,FÚTBOL COLOMBIA
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/F%C3%9ATBOL%20COLOMBIA.m3u
+#EXTINF:-1,FÚTBOL PERÚ
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/F%C3%9ATBOL%20PER%C3%9A.m3u
+#EXTINF:-1,GALAVISIÓN
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/GALAVISI%C3%93N.m3u
+#EXTINF:-1,MÚSICA
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/M%C3%9ASICA.m3u
+#EXTINF:-1,NOTICIAS
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/NOTICIAS.m3u
+#EXTINF:-1,RELIGIOSOS DIRECTO
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/RELIGIOSOS%20DIRECTO.m3u
+#EXTINF:-1,STARZ CINEMA
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/STARZ%20CINEMA.m3u
+#EXTINF:-1,TELEMUNDOS
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/TELEMUNDOS.m3u
+#EXTINF:-1,TELENOVELAS
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/TELENOVELAS.m3u
+#EXTINF:-1,UNIMAS-UNIVISION-GALAVISION
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/UNIMAS-UNIVISION-GALAVISION.m3u
+#EXTINF:-1,UNIMAS-UNIVISION-GALAVISION 2
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/UNIMAS-UNIVISION-GALAVISION%202.m3u
+#EXTINF:-1,UNIVISION
+https://github.com/Suacht/Respaldo/raw/main/ServidorC/IPTV/General/UNIVISION.m3u
