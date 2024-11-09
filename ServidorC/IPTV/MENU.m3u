@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,General
-https://playstream.surge.sh/ServidorC/IPTV/General.m3u
-#EXTINF:-1,Paises
-https://playstream.surge.sh/ServidorC/IPTV/Paises.m3u
-#EXTINF:-1,Premium
-https://playstream.surge.sh/ServidorC/IPTV/Premium.m3u
