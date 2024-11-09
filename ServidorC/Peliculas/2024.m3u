@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,VOD CAM 2024
+https://playstream.surge.sh/ServidorC/Peliculas/2024/VOD%20CAM%202024.m3u
+#EXTINF:-1,VOD ESTRENOS 2024
+https://playstream.surge.sh/ServidorC/Peliculas/2024/VOD%20ESTRENOS%202024.m3u
+#EXTINF:-1,VOD ESTRENOS SUBTITULADOS
+https://playstream.surge.sh/ServidorC/Peliculas/2024/VOD%20ESTRENOS%20SUBTITULADOS.m3u
