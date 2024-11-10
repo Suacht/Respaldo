@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TE0ymzucRjNRWiWujEldNhPDiB.jpg" group-title="Temporada 1",1
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91910.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qV3FYBBHvCfXgmeri5LnHPTLgUc.jpg" group-title="Temporada 2",1
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91940.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWzX3RBFGHEiSA826Dy1XFIqlb4.jpg" group-title="Temporada 1",2
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91911.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ4cM5Q1C08uGNAiBnSms8iZ3Sh.jpg" group-title="Temporada 2",2
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91941.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ARA4vHkb7d1MIeu3O00PsSHfwf.jpg" group-title="Temporada 1",3
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91912.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3G09f15JSWYBZ0KyaZkNSCYO7u.jpg" group-title="Temporada 2",3
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91942.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7E2CLO2Snxx0mr18qlXhCeLxjUp.jpg" group-title="Temporada 1",4
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91913.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI0s6ZZ7rEjWKTKM2oU3eAZobZp.jpg" group-title="Temporada 2",4
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91943.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmT72RSD2cwmqaYLz1UnYjeSI1.jpg" group-title="Temporada 1",5
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91914.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8svOOQ43j9ui426h8HcAjIyKJhR.jpg" group-title="Temporada 2",5
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91944.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J4KcNBWcZyUFEPYQ2C1eCBELz8.jpg" group-title="Temporada 1",6
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91915.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AwmTlvwnAHNjeiLBXvv7y4G8Mz.jpg" group-title="Temporada 1",7
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/91916.mkv
+
