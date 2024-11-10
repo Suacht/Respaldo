@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8Dl_PDb05mZarlxKTf7gBE8Ry-KUt6dNfWrE_9toK9mxyY_vFh9J4jsObh4_aUdr8Uc&usqp=CAU" group-title="" ,AR | America TV *
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/263318.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/a971381f3be9221fe41edf2e12c2480b.png" ,AR | CRONICA TV
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/324798.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZJojCYoO7yIoeoYbq3Jt9hni5XaMnHuOgYd7RSG7IHO0jAWx3p6p9LK4NdI6bFoE4.jpg" ,AR | DirectV Sports SD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/294584.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbx5jMoUwnNu_x7a9cUkyPTTmMXRvrOyAIMYLPVKGJZlYZqvLq_t_imSmqkv3kOpnI.jpg" ,AR | El Nueve SD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/265945.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaP0CvpKoBDDMj_IXqHVlj0Cv4iTpl8QEUcPxTcLI9LmBWd5DfKhn0t2XaJNM4gaaw.png" ,AR | El trece SD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/265950.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaKpr7KhgJdZnHIgYVSEX2YQJZlcATEzjtQ7t3F9xxDF14Zf52UXLfqE7aNv3MesUk.png" ,AR | Telefe SD*
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/265947.m3u

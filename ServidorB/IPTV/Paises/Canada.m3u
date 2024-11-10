@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/3dbdd5967ecf1a9be6608d390828c015.png" group-title="" ,CA | A&E
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360454.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmabfW4jbEl-aJ1Kzb5iSlWJDwiitabKheogMb1inZw85zahh4KEiuXDAVJSArxX5Vs.png" ,CA | AMC
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360457.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbYj-hRQg2pDd2IxDUz0LG18g32rqY8dObvVpxsdNUyhgbAm_zyeZ6DGRO2RBTnVAk.png" ,CA | CP24
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360456.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/a5562e4547a39fcaa6ed5235a1923b56.png" ,CA | FX
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360464.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaRMXjUeZtzx1BprbvprgQ-9z3lHuyjMG5kuAG1FSmpAKR2PuDdfJoTFW9YVeQ0oRM.png" ,CA | GLOBAL CALGARY
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360463.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/ea90b57d480f57e016a3e1ed9ae8713f.png" ,CA | GLOBAL VANCOUVER
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360462.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" ,CA | H2
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360461.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/a6e4a9db864869243bb13335800d9731.png" ,CA | HBO
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360459.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiMhdmy_gFDLltjWEq0lPqPJ1PP4JhCgMPjRb6fR-Dn5ON2o6dlZTQ97zidyBD90UY.png" ,CA | HBO 2
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360460.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/709b35bb89ff97a59ac68851bb1262cd.png" ,CA | LIFE TIME MOVIE NETWORK
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360458.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/690827602234514b5dcab67e0ad4c2af.png" ,CA | TSN 4
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/360455.m3u
