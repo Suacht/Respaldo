@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://tv.proyectox.vip:8080/images/30f75007dbb6039849879b6346c672c6.jpg" group-title="Temporada 1",1
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/19582.mkv
+
+#EXTINF:-1 tvg-logo="http://tv.proyectox.vip:8080/images/50d5db77a7a1a45310fec941b41a64f2.jpg" group-title="Temporada 1",2
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/19583.mkv
+
+#EXTINF:-1 tvg-logo="http://tv.proyectox.vip:8080/images/6587e87c6712aa6010aedd4d4f097b83.jpg" group-title="Temporada 1",3
+http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/19584.mkv
+
