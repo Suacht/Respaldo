@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg" group-title="Temporada 1",1
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/68448.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg" group-title="Temporada 2",1
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/260812.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg" group-title="Temporada 1",2
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/68449.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg" group-title="Temporada 2",2
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/265339.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trvQgNJdoVoTJNLoSVR6goqlKZf.jpg" group-title="Temporada 1",3
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/68450.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg" group-title="Temporada 1",4
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/68451.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciYRv08dxwk1idonANAUKEXZHI6.jpg" group-title="Temporada 1",5
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/68452.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lExmqddOuKqtXbxzSKqwQZLxh7C.jpg" group-title="Temporada 1",6
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/68453.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg" group-title="Temporada 1",7
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/68454.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndiiSM8sWMclfS123YaVIBOtsw.jpg" group-title="Temporada 1",8
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/68455.mkv
+
