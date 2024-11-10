@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/r3SDXWQxc5PqZ5yvcwerJq2DgEe.jpg" group-title="Temporada 1",1
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/256306.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg" group-title="Temporada 1",2
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257733.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/j4E7fEAPaVlM9u4P90I2Q3BtogF.jpg" group-title="Temporada 1",3
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/260653.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cig3XdGMpGWUQkajoGSQU9Fry1W.jpg" group-title="Temporada 1",4
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/265324.mp4
+
