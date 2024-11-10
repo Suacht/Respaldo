@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" ,LA_HD:RD_ANTENA  7
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31308
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_CDN2
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31299
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_CDN 37
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31300
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_COLOR VISION 9
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31302
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_DIGITAL 15
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31301
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_MICORVISION
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31307
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_TELECENTRO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31304
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_TELEMICRO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31306
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_TELEUNION
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31303
+#EXTINF:-1 tvg-logo="" ,LA_SD:RD_TELEUNIVERSO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/31305

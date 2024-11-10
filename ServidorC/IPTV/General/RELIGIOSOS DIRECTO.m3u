@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" ,Alcance TV | MX
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74283
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/189_Aleluya_TV.png" ,Aleluya TV | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74284
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/864_Alerta_TV.png" ,Alerta TV | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74285
+#EXTINF:-1 tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-maria-argentina/fb_cover.jpg" ,ARG: RADIO MARIA TV HD
+https://5f700d5b2c46f.streamlock.net/maria720/maria720/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/176_Asomavision.png" ,Asomavision | EC
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74286
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/825_Avivame_TV.jpg" ,Avivame TV | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74287
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1078_Canal_6___Viento_Recio_Internacional.png" ,Canal 6 - Viento Recio Internacional | AR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74288
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" ,Canal Diocesano DASH
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/158_Canal_Dios_Te_Ve.jpg" ,Canal Dios Te Ve | HN
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74289
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/185_CCI_Channel.png" ,CCI Channel | HN
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74290
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1514_CESTV.png" ,CESTV | CL
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74291
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/861_Cielo_TV_Cristiana.png" ,Cielo TV Cristiana | DO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74292
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/851_Conectados_Con_Dios_TV.png" ,Conectados Con Dios TV | GT
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74293
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/196_Cristiana_TV.png" ,Cristiana TV | ES
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74294
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/822_Cristo_Libera.jpg" ,Cristo Libera | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74295
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/874_Cristovision.jpg" ,Cristovision | CO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74296
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/160_Dios_Te_Ve_Kids.png" ,Dios Te Ve Kids | HN
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74297
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/bg_logo_m3u.png" ,Ebenezer TV | HN
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74298
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/179_El_Viviente_TV.png" ,El Viviente TV | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74299
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1411_Enlace.png" ,Enlace | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74300
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/173_Escuchame_Radio.png" ,Escuchame Radio | CL
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74301
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/872_ESNE.jpg" ,ESNE | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74302
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" ,EWTN en Español DASH
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/873_EWTN.jpg" ,EWTN | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74303
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/162_Extrema_TV.png" ,Extrema TV | CR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74304
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/824_Faro_de_Santidad_TV.jpg" ,Faro de Santidad TV | PR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74305
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcJ6VMT.png" ,Fatwa TV
+https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/540_Gospel_Movies_Television.jpg" ,Gospel Movies Television | BR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74306
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXFS7Fi.png" ,Hope Channel
+https://ythls.armelin.one/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1462_Inminente_TV.png" ,Inminente TV | AR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74307
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/840_JBN_Internacional.jpg" ,JBN Internacional | HN
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74308
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/177_Jehova_TV.png" ,Jehova TV | HN
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74309
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/182_Jesus_TV.png" ,Jesus TV | DO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74310
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/690_JN19.png" ,JN19 | PE
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74280
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png" ,La Fe Mueve Montanas | DO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74311
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/192_Luz_Naciente_TV.png" ,Luz Naciente TV | CR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74312
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/186_Mana_del_Cielo_TV.png" ,Mana del Cielo TV | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74313
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/866_Manantial_de_Adoracion_TV.png" ,Manantial de Adoración TV | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74314
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/821_Master_Video_Pro.png" ,Master Video Pro | PR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74315
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/183_MCN_Television.jpg" ,MCN Television | GT
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74316
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/950_MCRT_Cristiana.png" ,MCRT Cristiana | CA
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74279
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/823_Mision_TV.jpg" ,Mision TV | HN
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74317
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1165_MVT_TV.png" ,MVT TV | CO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74318
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/197_Nacion_TV_Internacional.png" ,Nacion TV Internacional | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74319
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/165_Nuevo_Tiempo.png" ,Nuevo Tiempo | BR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74320
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/862_Oasis_TV.jpg" ,Oasis TV | CO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74321
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/207_Orbe_21.jpg" ,Orbe 21 | AR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74322
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/166_Presencia_Television.png" ,Presencia Television | GT
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74323
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/892_Radio_Baeza.png" ,Radio Baeza | CL
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74281
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/826_Radio_TV_Cristo_Viene.jpg" ,Radio TV Cristo Viene | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74324
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" ,Rede Vida | BR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74325
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/191_Renuevo_TV.png" ,Renuevo TV | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74326
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/863_Restauracion_TV_Houston.png" ,Restauracion TV Houston | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74327
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/194_Rhema_TV.png" ,Rhema TV | GT
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74328
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/180_RVida_TV.png" ,RVida TV | DO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74329
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/178_Salvacion_TV.png" ,Salvacion TV | PR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74330
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1536_Sinai_TV.png" ,Sinai TV | PE
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74331
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1308_Sonido_Nazaret.png" ,Sonido Nazaret | CL
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74332
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1003_Sublime_Gracia_TV.png" ,Sublime Gracia TV | AR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74333
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/198_TBN_Espana.png" ,TBN España | ES
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74334
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" ,Tele Familia | CO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74335
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/184_Television_Celestial.png" ,Television Celestial | AR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74336
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" ,TV Aparecida | BR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74337
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1483_TV_Apostolos.png" ,TV Apostolos | BR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74338
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/841_TV_CRET.jpg" ,TV CRET | SV
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74339
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1390_TV_Emanuel.png" ,TV Emanuel | CL
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74340
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/537_TV_Evangelizar.png" ,TV Evangelizar | BR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74341
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/181_TV_Gracia.png" ,TV Gracia | CO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74342
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/566_TV_Rede_Gospel.jpg" ,TV Rede Gospel | BR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74343
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/175_TV_Unidos.png" ,TV Unidos | SV
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74344
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/563_TV_Universal.jpg" ,TV Universal | BR
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74345
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/190_Urbancris_TV.png" ,Urbancris TV | DO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74346
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/193_Urbancrist2_Worship.png" ,Urbancrist2 Worship | DO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74347
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uo7x-iJfe-PaqLaTmA16USLIBVBr_fd0XrTjlFEc0mCHhkLAQ6V1xyP4qK_ZRKBNKI8" ,Vatican News DASH
+https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/867_Victoria_TV_Bakersfield.jpg" ,Victoria TV Bakersfield | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74348
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/995_Vida_Nueva_TV.png" ,Vida Nueva TV | CL
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74282
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/843_Vida_Television.png" ,Vida Television | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74349
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/161_Vida_TV.png" group-title="" ,Vida TV ✪ | CL
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74278
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/195_Viva_Cristo_TV.png" ,Viva Cristo TV | US
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74350
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/846_XTO_TV.png" ,XTO TV | BO
+http://ultrapremium.cloud:8080/59cera47tu42wa22/29wuma93weme45/74351
