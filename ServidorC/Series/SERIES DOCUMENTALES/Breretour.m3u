@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8a952c172329b099e14ab3e50777520c8743e59cf9deb8f5af3ee95413cf7da2.jpg" group-title="Temporada 1",1
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/246294.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8a952c172329b099e14ab3e50777520c8743e59cf9deb8f5af3ee95413cf7da2.jpg" group-title="Temporada 1",2
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/246295.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8a952c172329b099e14ab3e50777520c8743e59cf9deb8f5af3ee95413cf7da2.jpg" group-title="Temporada 1",3
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/246296.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8a952c172329b099e14ab3e50777520c8743e59cf9deb8f5af3ee95413cf7da2.jpg" group-title="Temporada 1",4
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/246297.mp4
+

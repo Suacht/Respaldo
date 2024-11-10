@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adAVvsMQWTPR4X2FqTGkKZwFe4e.jpg" group-title="Temporada 1",1
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/53760.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0bQb82lJ4Hgdyju8n2PsnrUACf.jpg" group-title="Temporada 1",2
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/53761.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdnQ2rYjWQn2ZS2oWY1DIDC7xZI.jpg" group-title="Temporada 1",3
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/53762.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLZDnCaX9ReDkKP0liPMGcHIrQ6.jpg" group-title="Temporada 1",4
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/53763.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srPsmJsU7YuB6lQk4IJYnlyis7V.jpg" group-title="Temporada 1",5
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/53764.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFKQvjh7ilFuFDvB3riKzieuyul.jpg" group-title="Temporada 1",6
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/53765.mkv
+
