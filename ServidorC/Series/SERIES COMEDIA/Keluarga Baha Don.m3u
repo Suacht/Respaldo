@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",1
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257443.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",1
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257462.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",1
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257471.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",2
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257452.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",2
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257461.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",2
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257470.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",3
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257451.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",3
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257460.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",3
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257469.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",4
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257450.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",4
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257459.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",4
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257468.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",5
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257449.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",5
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257458.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",5
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257467.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",6
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257448.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",6
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257457.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",6
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257466.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",7
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257447.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",7
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257456.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",7
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257465.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",8
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257446.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",8
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257455.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",8
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257464.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",9
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257445.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",9
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257454.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",9
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257463.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 1",10
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257444.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 2",10
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257453.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u07fDxHbGmDTlhRZREyDaIVj5Kp.jpg" group-title="Temporada 3",10
+http://ultrapremium.cloud:8080/series/59cera47tu42wa22/29wuma93weme45/257472.mp4
+
