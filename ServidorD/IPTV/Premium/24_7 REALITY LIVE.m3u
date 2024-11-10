@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/GH_Chile_2023.png/revision/latest?cb=20230815160616&path-prefix=es" group-title="" ,Gran Hermano CL-24 Hrs (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/45676
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/GH_Chile_2023.png/revision/latest?cb=20230815160616&path-prefix=es" ,Gran Hermano CL-Cam 1 (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/45677
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/GH_Chile_2023.png/revision/latest?cb=20230815160616&path-prefix=es" ,Gran Hermano CL-Cam 2 (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/45678
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/GH_Chile_2023.png/revision/latest?cb=20230815160616&path-prefix=es" ,Gran Hermano CL-Cam 3 (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/45679
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/GH_Chile_2023.png/revision/latest?cb=20230815160616&path-prefix=es" ,Gran Hermano CL-Multicámara (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/45680
