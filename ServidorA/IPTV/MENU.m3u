@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Deportes
-https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/Deportes.m3u
+http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorA&genero=IPTV&online=Deportes.m3u
 #EXTINF:-1,General
-https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/General.m3u
+http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorA&genero=IPTV&online=General.m3u
 #EXTINF:-1,Paises
-https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/Paises.m3u
+http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorA&genero=IPTV&online=Paises.m3u
 #EXTINF:-1,Premium
-https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/Premium.m3u
+http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorA&genero=IPTV&online=Premium.m3u

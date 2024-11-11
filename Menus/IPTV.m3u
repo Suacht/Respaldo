@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bXq8Xzw/PREMIUM1-1.jpg",Premium 1
-https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/MENU.m3u
+http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorA&genero=IPTV&online=MENU.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZdGdxB4/PREMIUM2-1.jpg",Premium 2
-https://github.com/Suacht/Respaldo/raw/master/ServidorB/IPTV/MENU.m3u
+http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorB&genero=IPTV&online=MENU.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QMp0Yb6/PREMIUM3-1.jpg'",Premium 3
-https://github.com/Suacht/Respaldo/raw/master/ServidorC/IPTV/MENU.m3u
+http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorC&genero=IPTV&online=MENU.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kH6tyzv/Premium4.jpg",Premium 4
-https://github.com/Suacht/Respaldo/raw/master/ServidorD/IPTV/MENU.m3u
+http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorD&genero=IPTV&online=MENU.m3u
