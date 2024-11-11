@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrjnCgR/mexico.png",Latino 1
-https://github.com/Suacht/Respaldo/raw/main/ServidorF/Peliculas/Latino.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrjnCgR/mexico.png",Latino 2 (NUM - L)
-https://github.com/Suacht/Respaldo/raw/main/ServidorF/Peliculas/NUML.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrjnCgR/mexico.png",Latino 3 (M - Z)
-https://github.com/Suacht/Respaldo/raw/main/ServidorF/Peliculas/MZ.m3u
