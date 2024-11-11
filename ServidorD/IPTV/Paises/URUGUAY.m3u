@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png" ,URU-A+V (TV)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8514
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" ,URU-Canal 4 (TV)(1080)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8525
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" ,URU-Canal 4 - Montecarlo (T)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8526
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" ,URU-Canal 4 Monte Carlo (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8527
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" ,URU-Canal 4 Montecarlo (T)(HQ)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8528
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" ,URU-Canal 4 Montecarlo (Z)(LQ)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8529
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" ,URU-Canal 10 (L)(HQ)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8515
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" ,URU-Canal 10 (M)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8516
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" ,URU-Canal 10 (T)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8518
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" ,URU-Canal 10 HD (TV)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8519
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" ,URU-Canal 12 (TV)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8520
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" ,URU-Canal 12 La Tele (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8521
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" ,URU-Canal 12 La Tele (T)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8522
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" ,URU-Canal 12 La Tele (T)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8524
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" ,URU-Canal 12 La Tele (TV)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8523
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" ,URU-Directv Sports 1 UY (TV)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8530
+#EXTINF:-1 tvg-logo="" ,URU-La Red Uruguay (TV)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8531
+#EXTINF:-1 tvg-logo="" ,URU-PPV 1 - (e)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94287
+#EXTINF:-1 tvg-logo="" ,URU-PPV 1 - (e)(1080)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/94286
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png" ,URU-TNU (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8532
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qohNCdLBKdM/X2phVOtEdBI/AAAAAAAABcE/tBZm9UpeJxszBxcf7YTix5HlohHhypuqQCLcBGAsYHQ/w200-h200/25Tv%2Bciudad.png" ,URU-TV Ciudad (TV)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8533
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" ,URU-VTV (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8534
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" ,URU-VTV (M)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8536
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" ,URU-VTV (M)(1080)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8535
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" ,URU-VTV (T)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8538
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" ,URU-VTV Plus (L)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8539
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" ,URU-VTV Plus (T)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8541
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" ,URU-VTV Plus (TV)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8543
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" ,URU-VTV Plus (TV)(1080)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8542
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" ,URU-VTV Plus (Z)(720)
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8540

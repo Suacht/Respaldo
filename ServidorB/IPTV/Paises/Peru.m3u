@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBil6yTiJgbyul3myZxZYoBfV7ALL9lqHS4H1w8An_JamYTceiSdyJyB9x3SWEYmanU.png" ,PE  | TV Peru
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1349.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbRRX3Ug6nqxciOo1DpO0DCv0dNuNmA0pHiqeiRBtpvbFOIXCYDjtQZ7XkHc7X6G8s.png" ,PE | AMERICA TV
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1347.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbOorhVvsT5y0ldD06OHYANKW6A5kNSEqhp1Yr33NIsBvSNmyiS5d6ohQ5ZiTASAZA.png" ,PE | America TV HD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/241144.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/e3c43621c46a3070fbbbb521648c8f58.jpg" ,PE | ATV
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/295220.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZw46nPSV6UOcN7p4vQFlIeT8YzPTh9SWWK284b9XzzMLVHtNJ0ME0g5ZwBSjil4MI.jpg" ,PE | ATV +
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1348.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmagrdwqctsXXiAmECEuto7XbYg9zVWpLDD6EBx_YWVeXkmRVoW1rUbTvuK4gjskpIU.png" ,PE | CANAL N
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1343.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYGmL0ud-9ylPJNZKAHVL6D1-Z1ThFI8Uwi5TxBw3g06ZiAjMYjM8HfF4cbqGQ021g.png" ,PE | Dtv Spots HD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/241148.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBjcV8tG-aTFJij5nVzPNGJKJCfUMscHNI0e67MlRkAQyn4QJiy4PPLGj7pnW813q4M.jpg" ,PE | Gol Peru FHD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/241143.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBjcV8tG-aTFJij5nVzPNGJKJCfUMscHNI0e67MlRkAQyn4QJiy4PPLGj7pnW813q4M.jpg" ,PE | Gol Peru HD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/226713.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBjcV8tG-aTFJij5nVzPNGJKJCfUMscHNI0e67MlRkAQyn4QJiy4PPLGj7pnW813q4M.jpg" ,PE | Gol Peru SD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/295720.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiieeHpQ8xZd_G4DPHLzoPvE5XeXwJobFTC2kvw6RIck5YxQKmDdDieiF8N8bIu3ak.jpg" group-title="" ,PE | LATINA
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1340.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/43257aded1792d381b4459cd7a61831e.jpg" ,PE | Latina HD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/241147.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/866f7ce1786f572e0e06397335398531.png" ,PE | LATINA*
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/264790.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZqslv4a4huRSRRJfpMOln9ej9_v0DSsDawhvjfrq5BEj5l9qZ53LVSpAryVgSAYSY.png" ,PE | Liga 1
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/304161.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBin_L_Fg07NOajipm8lLrlxqkgMxWtuBc3a0zu_YuL8nd7d4mYpDJ33hDqMJYJD7m4.png" ,PE | Liga 1 MAX
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/304162.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZRe-uhIbkSYoPpdusTNDMTCyncuEu9C7A6ErBXq7NCFSfCTtw_MDk3_LQpLFK0_WQ.png" ,PE | Liga 1 MAX 2
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/304163.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgNwirJNshOrm5MF1Tsljl7AC2YU5vnOZ_KHKhei60OcfFEl9ejZM-XxpriKPN2RSA.png" ,PE | Liga 1 MAX 3
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/308973.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYY3LvmbVfDTdY9uKMKEz4-aC8onTuUO-vQGZNkdNbDYW_EnzeOTYDcyGCLTwI4WpU.png" ,PE | Movistar Deportes *
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/264713.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/c2e57587a9fceb5af3473f6933f4d444.png" ,PE | PANAMERICANA
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1346.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbXuemWeSn0ZUqdLgYygQ5j_Rx2iwP3p73qHbQuIggbKw7srrZiSQivyucG1qA4rw0.jpg" ,PE | Panamericana HD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/241145.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYyw6USJ_Ddbgl-HacFZmEzeqPEu4jN-hnMlHBzLI4x6Sls2WrkoBaa-u-Hn7-5jd4.jpg" ,PE | Peru Magico
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/289714.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ6uJBgYOwYL5JwVVt3B3Q2TFJoEOjtjy5ouEGBgxcb1xRdRl9NomrPJHIJu0SP60E.jpeg" ,PE | Peru Magico HD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/241149.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBix8gOFXbYXWBMI6JS32PcfBSMbrw6oaQqEeerRoVVCPIRDJGgwyiZmMN0Cp7jVr9k.jpg" ,PE | RPP
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/226532.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBg1Inj6qePCRUvzxYmWfTzX_kG79Cvd8zYLDmc2Hyg_Ne9rZqXVe85KJbpF9ZiAvvE.jpg" ,PE | Willax
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/267128.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/893cf5feb9656eed929f000b59d27260.png" ,PE | Willax 3
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/267129.m3u

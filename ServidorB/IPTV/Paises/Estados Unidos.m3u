@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/3dbdd5967ecf1a9be6608d390828c015.png" ,US | A&E
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1508.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLO51KomS2QZAAW9lkQeDbFTB-xNQu6jDuLAeuPS0DycKoAJ7j" ,US | ABC
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/20707.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgFN65kgVyyQRTz3Hbk9r5ln1_Z44MyUdiKqNmtBghDu5mT4bCdpvFtWiClM1h0eA8.png" ,US | ABC Los Angeles
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/279603.m3u
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/62/WPLG_Local_10_ABC.png/revision/latest?cb=20200209020430" ,US | ABC Miami
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/266865.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="" ,US | AMC
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/244.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/b669b09fc82fa387de2df839a546db22.jpg" ,US | AXS TV
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/262199.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT4ufBqdoX0miedRI4iQhwlBr55fN-Z-0JT2SsS1NCTOSBbYc4" ,US | BBC America
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/20743.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/4fea3689172d681e5220a51714d76b4d.png" ,US | Cartoon Network
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/315.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/d6addcc45206aa09b0034a6e96f5a862.jpeg" ,US | Cartoonito
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/20744.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStG-CAhsvh1SDcuG_9-PBdlN6cw2tRhEPF8E6bq11rtS64Jalb" ,US | CBS
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/20732.m3u
+#EXTINF:-1 tvg-logo="" ,US | CBS Cleveland
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396919.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYLBaPDGdir9tLAHtagL21mlHTxxemtL_m8Co2FK0VsenD_GtxDHXaw2Pi-6H6UJbI.jpg" ,US | CBS Houston
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/36911.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS Houston
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396910.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS LA
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396905.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS Las Vegas
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396914.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmadqUowml-so-m8jWaJpObhWWA3D53fkJhnN3wqyRCQMAsAH4nxKulu-NIffXXURdw.jpg" ,US | CBS MIAMI
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/22670.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS New York
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396911.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS Sacramento
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396916.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS San Antonio
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396912.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS San Diego
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396915.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS Spark
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396921.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorDd2-MiJNUrJ8wmp4G9V4_9XyjY_MrsxKOchiOSrY69PjjykC5_wcrQRWLZ44gyiYs.png" ,US | CBS Virginia
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396918.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/7334fa93b1ca52c9c0d26ee59cada4b4.png" ,US | Cine Sony
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/271806.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/c791971ffa02ab4685d4f282a5d91d28.png" ,US | Cinemax
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/346.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/c791971ffa02ab4685d4f282a5d91d28.png" ,US | Cinemax East
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/325.m3u
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_240.png?itok=JFho4q51" ,US | CNBC
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/252.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/b8770dbaa7579b25fc663cdf1a5cf433.png" ,US | CNN
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/261288.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/b8770dbaa7579b25fc663cdf1a5cf433.png" ,US | CNN
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/405037.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaDSAAADQ3-HvQXJPJqeyBuJs0AMGaTvm5BvMvvl7ccQ1oLitrSf8TLyfnCyigE5_I.png" ,US | Comedy Central
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/254.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbmrLl2GFHG-P0hUQ6H3aFvKd3eGBwhHTCfrpt3UeqLmacBAu1Q8FxoXmqmvHuRjW8.png" ,US | Cooking Channel
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/22663.m3u
+#EXTINF:-1 tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2012/04/destination-america-logo-200x200.jpg?426102" ,US | Destination America
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/257.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaQnImaFHoQGIqh4P7dQwMQ-oa61PEIHdZZlck6yKEtnPy4axgrMEs3navuP5Ro7OA.png" ,US | Discovery
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/312.m3u
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/tinycards/image/4d87be4e9c459a778d6c15cf7a1815db" ,US | Discovery Familia
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/311.m3u
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.mamiinnovativemedia.com/wp-content/uploads/2011/09/dfamilia.png?fit=300%2C283" ,US | Discovery Familia Español
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/232627.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdL4Of3Rk0Vxk5p3TFQlIBsJu-P8FekRtmwv9f4BtqCeLIrgF7&s" ,US | Discovery Family
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/258.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY9tet5yQqGbVRCTuNH3QFnnUBKdwPI1dSm_B31XqHXibcNPzoOaKkJC9KdvsfUrTI.png" ,US | Discovery ID
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/245.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/b444b69067ef45b80df37ba028005cd1.png" ,US | Discovery Science
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/260.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbZ_NGv-k0K6UOBH-PawjHP1kNdvFszexzhW1EJLFWunaxCZ1MWoA518wp3I_Jrvl0.png" ,US | Disney Channel
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/316.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbV8o9xW81mGshhxelNldxwUtzsh9X_v8bs0VSsdcaRj9QCiJGN2g007RcE99ewwn0.png" ,US | Disney Jr
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/317.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/44e537ebed9344429592f2a44a84241a.png" ,US | Disney XD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/318.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/a01945d4b5c867d4b22c1ee08a7bc492.png" ,US | E!
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/295.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZB_enVME14B9fLok7dgC4s2RzawIJfEzsDCKoBLNGJ7FWcQtMj4MUOIdY9T9NogNg.png" ,US | Food Network
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/262.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYjBCkEsZd6yJFpkHIN_yNHT4FwpW6FKNtgd2HB0lX6o19NWERDDc-mlYO6f5st108.png" ,US | Fox News
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/20705.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZjdaDnXhkk5Ksg-fTPxxZGA-E3KSei1gXNc_satVW_gnK1RbENg1-43RjN3fT_gis.jpg" ,US | Fox NY
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/20706.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorBOrZ6PNjfhpCg_ZgvB9cOPdlvDrh7Yz6AbIU7unH6Jc3hZUAGJhoyjYb0UlvhNkZA.png" ,US | FOX Orlando
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396954.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYBt8kzZtijQC8BprZxXjlwAKI5Gh7gHxii4j6sQEYQpYRzUSEZemAByDz6zvWukfA.png" ,US | FX
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/266.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYBt8kzZtijQC8BprZxXjlwAKI5Gh7gHxii4j6sQEYQpYRzUSEZemAByDz6zvWukfA.png" ,US | FXX
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/267.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYtYfU48EY-K3H46KR3jLv4x_Q2onz0C6xZdmEnjnKuNoiTur8ARj79fCEqjz1Anhs.png" ,US | Galavision
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/297.m3u
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/GSN_Master_Minds.svg/revision/latest/scale-to-width-down/250?cb=20210630094525" ,US | Game Show Network
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/399979.m3u
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_3k0ewlbq/def_height/1500/def_width/1500/version/100011/type/2/q/100" ,US | Hallmark
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/270.m3u
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/5886/brand.gif?itok=A3IBi8Ry" ,US | Hallmark Drama
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/271.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/a6e4a9db864869243bb13335800d9731.png" ,US | HBO
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/344.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/75c40e671adfb958c91dea238fb1b555.png" ,US | HBO Comedy
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/20733.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIlAKM8aEj2lJSEx_K73z6PVLfp4W0YoOTnfmL4hhG4jmOFiP&s" ,US | HBO East
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/338.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZr85LFZ1DNjNW0O7LvMQPJ6E3Tikj2am4MM_HmdfWoyxqkZ5Aw0J5gnrzvt_qqXsw.png" ,US | HBO Family
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/9630.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBjSpyJnJZYRkvv_ffvCnXnUFYRFMG_ZMuSxAB56KQkiBiqhbZSg4yWU2o-puREqvPg.png" ,US | HBO Latino
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/345.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/7ad54b36f94452ea968572728fd1c69c.png" ,US | HBO Signature
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/342.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/7ad54b36f94452ea968572728fd1c69c.png" ,US | Hbo Signature
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/9631.m3u
+#EXTINF:-1 tvg-logo="+|ttps://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_2_west_small.gif" ,US | HBO West
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/22669.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/712f3ae7d02a6f0c4f8808e12580a6ce.jpg" ,US | HBO ZONE
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/339.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZtRB-VENuzUf5iZd6ePhVanvG5lWZkvka8WaQZvw6M4D8pm17YUPoER0B32AZoEl0.png" ,US | HGTV
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/43175.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZtRB-VENuzUf5iZd6ePhVanvG5lWZkvka8WaQZvw6M4D8pm17YUPoER0B32AZoEl0.png" ,US | HGTV HD
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/43174.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/559f0f212b642b3e2c79a3f0a89912e1.png" ,US | History Channel
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/273.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDGtk9FImTtEs9bXqmQ0ugX7918tt12Vn0SMXBvoLSx0XNKFWk&usqp=CAU" ,US | HLN
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/226520.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbBVjp6y750_IDzItjsU6RXt1QhtyTsfQqaFaRu2J0-uN3K1iyDpiOtL9UuJidkmXs.png" ,US | ION Televisión
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/266857.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZHKvx_6IPOraqkFRnCX64vGi1EID6BgfyV-lUzvSiNV4TTk39c6DuHOxnxxvEr6PU.png" ,US | Lifetime
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/275.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbz7hmBzJW2f5E9_AzFm7qlw2w3yU5xeYnbgDub0Hpie3D9gX1jTFLqyhqeePNbMb0.png" ,US | Nat Geo
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/277.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ_vq0FWRjZoj5385Ta2DPC_5KsjI5y1lWsnB9vdAa_jIl_FgM21A0jx92CIsaW1XU.png" ,US | Nat Geo Wild
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/278.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmalFtxK62zLuz3-i4lDeh2bnzHeccaxU38Zi5N7OkuCasbNld95DL3mbubl7bdvmcw.png" ,US | NBC
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/37072.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjKUUdiUi3SqmJ8BqusIywcZ8iSePYtA_X4H7pmWj4-CjEmQRZDp6AU16waMoBilQH.png" ,US | NBC Columbus
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396930.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjKUUdiUi3SqmJ8BqusIywcZ8iSePYtA_X4H7pmWj4-CjEmQRZDp6AU16waMoBilQH.png" ,US | NBC Houston
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396933.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjKUUdiUi3SqmJ8BqusIywcZ8iSePYtA_X4H7pmWj4-CjEmQRZDp6AU16waMoBilQH.png" ,US | NBC Las Vegas
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396924.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjKUUdiUi3SqmJ8BqusIywcZ8iSePYtA_X4H7pmWj4-CjEmQRZDp6AU16waMoBilQH.png" ,US | NBC Louisville
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396928.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjKUUdiUi3SqmJ8BqusIywcZ8iSePYtA_X4H7pmWj4-CjEmQRZDp6AU16waMoBilQH.png" ,US | NBC New York
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396934.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjKUUdiUi3SqmJ8BqusIywcZ8iSePYtA_X4H7pmWj4-CjEmQRZDp6AU16waMoBilQH.png" ,US | NBC Orlando
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396923.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjKUUdiUi3SqmJ8BqusIywcZ8iSePYtA_X4H7pmWj4-CjEmQRZDp6AU16waMoBilQH.png" ,US | NBC Phoenix
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396927.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjKUUdiUi3SqmJ8BqusIywcZ8iSePYtA_X4H7pmWj4-CjEmQRZDp6AU16waMoBilQH.png" ,US | NBC Sacramento
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396926.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/64006b8b3072bec9695db850de279336.jpeg" ,US | NBC Universo
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/314590.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/CePpbbHew0WfOJfAVkoHt2By1ygL1phhCFfTOMcvorBOrZ6PNjfhpCg_ZgvB9cOPdlvDrh7Yz6AbIU7unH6Jc3hZUAGJhoyjYb0UlvhNkZA.png" ,US | New York
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/396947.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/xJEiC2F8k_pm1iCBELMaq_-voUTr9lGOOxzom7pc64JiU0PUcSpVt7pt03rhIWAPWA9PdZ1KylJfsXw-HkphbsG-kM-tyZM6yyUANFpgjQc.png" ,US | Nick
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/319.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYVGGvFNqzUZ1fxaO-68ScRtWx-ew2X5qGN9ipem5xLxaeaYBdWhdRGtuxXpFhs-1o.png" ,US | Nick Jr
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/320.m3u
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1159.1405279210.png" ,US | Nicktoons
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/321.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/c88e9518f232f8bfe6eb5324d5c959d5.png" ,US | OuterMax
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/266858.m3u
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni5Y8tj4DlfeXtK7EZ3eGI22G7ZcKBvkf1l2dTpjg=s900-c-k-c0x00ffffff-no-rj" ,US | OUTSIDE TV
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/260640.m3u
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQEYmNzAjIMwzg/company-logo_200_200/0?e=2159024400&v=beta&t=_I4m8rkFO2YPGTu-CvLgu5-dJKx8zGR7WGLQZrZeAg4" ,US | Own Channel
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/22666.m3u
+#EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=OXYGEN_HD&productId=ENTOD&sourceType=colorHybrid" ,US | Oxygen
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/267864.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaA8RONuCw5zGmdOITzELzC4lJfTlE_f7YRak45Ggv_7pLLYLVs3O-GA-RuqYep5_g.png" ,US | PAC 12 Network
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/265957.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBivxIGLr_hiuN4be7pI3MkpHrWaUICOMfp-SFDrEZlay6Q4nNIdBuhDn5RcuT3CyE8.png" ,US | Paramount
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1293.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/e7dbee5fab44db176998ba09b387f561.jpg" ,US | PBS KIDS
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/281.m3u
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/3140/brand.gif?itok=a12N8_Pi" ,US | Showtime
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/331.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBilmv_K5pu3ygNCJJaO2BHFnt9Mr0iD3l3ZAJgKCM70nY3axjO9IxsPGyd3pql-PLA.jpg" ,US | Showtime 2
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/332.m3u
+#EXTINF:-1 tvg-logo="https://nlciptv.com/wp-content/uploads/2018/03/Showtime-Extreme-HD.jpg" ,US | Showtime Extreme
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/334.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaF2JVKC48K8_fHAS1q2rPGTDR_aP_wZsaAMV1iCgXlQjR-bbP1j8_KtnMSbly0UKE.jpg" ,US | Showtime Next
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/266860.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbFl4xfrNdjdbLUqLodBKuoZrdicd4HSuZXoeOKRi373mcJipMK_O49eShlAtvb6WU.png" ,US | Starz Black
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/337.m3u
+#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_encore_westerns_200.gif" ,US | Starz Encore Western
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/335.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYCKyQI-o9lKStf9hoiqDNbEHu-byFKUZrZzpfKLGNdyKUx94hSwAU0_jBmtvkS1NU.png" ,US | Starz West
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/266862.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/9c51ecdc14cb074ae6b6f21ef320af25.png" ,US | Sundance
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/1470.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/e06fe0e616040ead9314a10dfd3bc1bb.png" ,US | SyFy
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/285.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/11fc105dd70d87df8ba94f1fef6f79a4.png" ,US | TBS
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/286.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhffv3SYxHu6jDZlRCgeeO0m0L7DFSZgDbY1Xi4B_nsiZ2DzJFHJE8d1KZP5lRVeYA.png" ,US | Telemundo Chicago
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/299.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhffv3SYxHu6jDZlRCgeeO0m0L7DFSZgDbY1Xi4B_nsiZ2DzJFHJE8d1KZP5lRVeYA.png" ,US | Telemundo Houston
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/298.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhffv3SYxHu6jDZlRCgeeO0m0L7DFSZgDbY1Xi4B_nsiZ2DzJFHJE8d1KZP5lRVeYA.png" ,US | Telemundo LA
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/361616.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhffv3SYxHu6jDZlRCgeeO0m0L7DFSZgDbY1Xi4B_nsiZ2DzJFHJE8d1KZP5lRVeYA.png" ,US | Telemundo Miami
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/301.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhffv3SYxHu6jDZlRCgeeO0m0L7DFSZgDbY1Xi4B_nsiZ2DzJFHJE8d1KZP5lRVeYA.png" ,US | Telemundo Texas
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/302.m3u
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0019/8575/brand.gif?itok=wSMvjlqB" ,US | The Weather Channel
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/288.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/c954e0b4aa841eeb143b20d4bcdfeef5.png" ,US | ThrillerMAX
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/266863.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbwZIoLY5Mz7q2AB9CSwXr_OYnZPj5hglpqP1Hc2-kWT__gregPSh8vBg-uDZisAJA.png" ,US | TLC
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/289.m3u
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/logo_-_diego_artier_horizontal_0.png?itok=_f8idt48" ,US | Travel Channel
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/290.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZr-4Pt7cN38-4Ltz2lIL_zcw3JWfbWLsgr3SbksD8e59V7tKUxpPL47DNRdorB_Sw.png" ,US | Tru TV
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/22662.m3u
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhWm1AcI7NUJJBr_FiNeg8rJnmlOA83ZKmMBcKOig=s900-c-k-c0x00ffffff-no-rj" ,US | TvLand
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/261993.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY7OFQvuRx6k5qmjPZJy0_c3PhGfPpeBizF5z_L6ehVXIVXqrGPi-EnXvrdYiDJgEo.png" ,US | Unimas
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/238385.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/a49c61ad9f5101d3e1f856df5d725d20.png" ,US | Universal Kids
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/322.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZXwRb0YDnwocnsA1HiqoZbPwUW44WHTFxtJXpVba_o24PNCrlC1Rmuq5D4WrC_xk4.png" ,US | Univision
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/303.m3u
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/c0c6a843b787e3af887c5e61f5a16d3f.png" ,US | USA Network
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/4941.m3u
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/5130/brand.gif?itok=zU8R2trx" ,US | USA Network*
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/301196.m3u
+#EXTINF:-1 tvg-logo="http://199.127.60.3:8080//images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaU3O1NfxEKK3QOXBGV7yCcun49xQmog8yJ7_Fov7wQIAvNnWpxcLjNBovBuBiEtB4.png" ,US | Viceland
+http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/266856.m3u
