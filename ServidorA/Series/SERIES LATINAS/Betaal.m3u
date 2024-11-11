@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FyxMUuvH0IeNLonDxigYdotPDw.jpg" group-title="Temporada 1",1
+http://aorusxtv.xyz:8080/play/WsjpVQY7KQV-fW3uiCRakxxCdVXMG3sLPSE-FINOU_qVgb9lEYL_FZZsoNI3IUir
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnNu9ix2g9DXPq7uqRDyeD2RK9.jpg" group-title="Temporada 1",2
+http://aorusxtv.xyz:8080/play/WsjpVQY7KQV-fW3uiCRakxxCdVXMG3sLPSE-FINOU_qkCmMNfxevsWG9dFcDm0i5
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKT6j5QaGO7YRBqJAsxJdgLaJ3O.jpg" group-title="Temporada 1",3
+http://aorusxtv.xyz:8080/play/WsjpVQY7KQV-fW3uiCRakxxCdVXMG3sLPSE-FINOU_qbvUnLtJPDlw6o4Ypwnh3k
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vokPNIgiFWgStFUbdHieJ5hkivY.jpg" group-title="Temporada 1",4
+http://aorusxtv.xyz:8080/play/WsjpVQY7KQV-fW3uiCRakxxCdVXMG3sLPSE-FINOU_o5KmgnOQMkAkNr8s8gaeYw
+

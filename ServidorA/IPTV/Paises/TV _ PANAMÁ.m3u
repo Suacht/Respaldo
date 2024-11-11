@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/01db50_0fd6cb3412d64ed49dc3f6c87be8e6f0~mv2.jpg/v1/fit/w_2500,h_1330,al_c/01db50_0fd6cb3412d64ed49dc3f6c87be8e6f0~mv2.jpg" group-title="" ,PA | BOCAS TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-IBbTcHUA8YpzrgxeRFxldha6YLIVBiyWee0F--ut7S/ts
+#EXTINF:-1 tvg-logo="https://ensegundos.com.pa/wp-content/uploads/2018/01/tvn2-3.jpg" ,PA | CANAL 2 TVN
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90pzlU42YMcfneU-ciKlsZp2_CA2tTJckbUThAYWR6I3/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9hVpjQl98idu6xkCQKFFDLJAL9VZH5ZE3w&usqp=CAU" ,PA | CANAL +23
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu964WjF4hXjGDakgk1M0Z1qGxYikufRIedQPLOEhPegCl/ts
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngIPYImkw25E0cUs3_NRaAHGrTydOQtYSzfON-d=s900-c-k-c0x00ffffff-no-rj" ,PA | ECO TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xv1jTj0qHnfmun-mEyrWdKdib7arkrVaCMiOaUIpfyj/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuBZgOHMPm7kK3ww5Di_SeTf76KTCtLYOA&usqp=C" ,PA | NEX TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92AW_iRz8HjGDmIb9RinepsQEAtnqPR8t4w7z_5AFEtQ/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuBZgOHMPm7kK3ww5Di_SeTf76KTCtLYOA&usqp=C" ,PA | NEX TV CANAL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93-2mvCLhfp1uhByGfx-4vAXHNefFraRL1AnqdO9HF55/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/RPC_(2010).png/revision/latest/scale-to-width-down/220?cb=20210906023856&path-prefix=es" ,PA | RPC CANAL 4
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-b2jxRSN6QYCspDRY_n6a0awTPC1b5S8VUsEtYIbhIv/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" ,PA | TELEMETRO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_WyR9rnLRHgOCDfQxlFQuuY16AgFyUuOhl4aQFnzRCe/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png" ,PA | TVMAX CANAL 9
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xXdAAYXc3UGAAr5Zgq6ZkIe0rwDuEWb9YUWXGKMD64u/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,PLANETA  FM
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99WUUBZD0LD5stg8V7akjSK7aZ3LCQjaFiKjNXFbO3tO/ts
+#EXTINF:-1 tvg-logo="https://ensegundos.com.pa/wp-content/uploads/2018/01/tvn2-3.jpg" ,PN/ Canal 2 TVN FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95BcHzdkJFp51L6XEE_3n1LFXCvrlKSHk7-m9ABtGUA4/ts
+#EXTINF:-1 tvg-logo="http://lista.tvq.lat:8080/images/651565f5fee1dc0fefc81835cd08c12c.jpg" ,PN/ Canal 2 tvn HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-eV3IMdwefP7xBeQbE_ED9RIQZiDqsFSDFTAHyZDkjT/ts
+#EXTINF:-1 tvg-logo="http://lista.tvq.lat:8080/images/651565f5fee1dc0fefc81835cd08c12c.jpg" ,PN/ Canal 2 tvn HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97Uf5aebGH802AC5VGXDQxOoOe2DT76vJvJ1TSFT5H4z/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9hVpjQl98idu6xkCQKFFDLJAL9VZH5ZE3w&usqp=CAU" ,PN/ Canal +23 FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98qwfngtUxY1yMIoTHIk7oIH2iyTQ2Jqrt0aIvAVjp7K/ts
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngIPYImkw25E0cUs3_NRaAHGrTydOQtYSzfON-d=s900-c-k-c0x00ffffff-no-rj" ,PN/ ECO TV HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-RfF_E4KmoI6jVUtuv99mA7Rwp8fKFIVGZcExCwbUxd/ts
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngIPYImkw25E0cUs3_NRaAHGrTydOQtYSzfON-d=s900-c-k-c0x00ffffff-no-rj" ,PN/ ECO TV HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yAuj6KF7NncQlsKxDAEbsftkxY1xqayXNoENpxg-I4x/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuBZgOHMPm7kK3ww5Di_SeTf76KTCtLYOA&usqp=C" ,PN/ NEX TV Canal 21
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97MstYYzObEEhLLKbVlvNUOyBVtec0I0LrOn1BVON9hj/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuBZgOHMPm7kK3ww5Di_SeTf76KTCtLYOA&usqp=C" ,PN/ NEX TV HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_k71NHsgh3QvsdohxTvldBMn6foRXopWHTXUPvjGGc6/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/RPC_(2010).png/revision/latest/scale-to-width-down/220?cb=20210906023856&path-prefix=es" ,PN/ RPC Canal 4 FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zjd7PglpOrekRh0GSVBqJ3hXehq0n9QVAgkih2c2vtA/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/RPC_(2010).png/revision/latest/scale-to-width-down/220?cb=20210906023856&path-prefix=es" ,PN/ RPC Canal 4 FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91AFF7TE9lfvvjRlY_M_BcXGHxi4hUCxs2KDJny6AUTR/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/RPC_(2010).png/revision/latest/scale-to-width-down/220?cb=20210906023856&path-prefix=es" ,PN/ RPC Canal 4 FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu991uElCFgrmNRjk-rwCKNWRgOJEtLuTAeFiIou5fgZrq/ts
+#EXTINF:-1 tvg-logo="http://lista.tvq.lat:8080/images/db08a9c67cedc625f0788dd9b1d93b4b.png" ,PN/ Telemetro FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9522EYreMSVUCBy-C5avI90VR8pjrirZX_L7lsLF4Vr-/ts
+#EXTINF:-1 tvg-logo="http://lista.tvq.lat:8080/images/db08a9c67cedc625f0788dd9b1d93b4b.png" ,PN/ Telemetro FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98ZkmzkIGiyt2MS-YGeGXM1VAvE3EDgoX-Zu4mrGck2y/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" ,PN/ Telemetro FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zCAuzpYisQBI8dEb34zyDkg6LmNPAnS-sM1DS7A89g0/ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EkSU-Jc0Ym43ndFzbg9XusIk5kX3ROzhhSVi0PJrpaFOYtThaD5XlvoBXj71FFqmeB4" ,PN/ TIGO SPORT PANAMA HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_-vQsAE_MK0bPocMa6pzQ-SrHxISTeCu0MAxArwOpU5/ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EkSU-Jc0Ym43ndFzbg9XusIk5kX3ROzhhSVi0PJrpaFOYtThaD5XlvoBXj71FFqmeB4" ,PN/ TIGO SPORT PANAMA HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9988LA5Wr4t9LZ43xV7uimLRhf0s3W5mLoKZKYFSXbAB/ts
+#EXTINF:-1 tvg-logo="http://lista.tvq.lat:8080/images/2eb1b4ce5d9a8ef20ce8538a4c6eb0b5.jpg" ,PN/ TVMAX Canal 9 HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu918aDi4kBVLHzcFVkX2niX68DxEcnQAFZ9E95YK7hDfi/ts
+#EXTINF:-1 tvg-logo="http://lista.tvq.lat:8080/images/2eb1b4ce5d9a8ef20ce8538a4c6eb0b5.jpg" ,PN/ TVMAX Canal 9 HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93ytDkdwYlBznnGGOwi_uS1TVl5iMMoqTmQMFvUZww57/ts

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,TV _ GALAVISION
+https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/General/TV%20_%20GALAVISION.m3u
+#EXTINF:-1,TV _ L M P
+https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/General/TV%20_%20L%20M%20P.m3u
+#EXTINF:-1,TV _ TELEMUNDO
+https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/General/TV%20_%20TELEMUNDO.m3u
+#EXTINF:-1,TV _ UNIMAS
+https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/General/TV%20_%20UNIMAS.m3u
+#EXTINF:-1,TV _ UNIVISION
+https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/General/TV%20_%20UNIVISION.m3u
+#EXTINF:-1,TV I NOTICIAS
+https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/General/TV%20I%20NOTICIAS.m3u
+#EXTINF:-1,TV I TELENOVELAS
+https://github.com/Suacht/Respaldo/raw/master/ServidorA/IPTV/General/TV%20I%20TELENOVELAS.m3u

@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.epg.best/bo/ATB.bo.png" ,ATB
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-qiHyFDrrfigjIEQwtEHSa4LGtpjSQFbBKfLzmwhqvq/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/ftzf02UoOnSiUmN8Bpcco6uWMkIwxYJ2tWiyHfvm78ZUWmkOudZsifR_a-IGe-5I.png" ,BO | ATB
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yBAHqqiLwFRYmZDO8V5gOji3x0cMxvFIGss2Vq6A-sk/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/ftzf02UoOnSiUmN8Bpcco-M4Gdm4DoYtY_Sxa0qm8iVekr4oceXEuJCeCA9K41uN.png" ,BO | Red UNO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu96mJ7Mz-2g4i0Ynf4NZZI64jEsLLPEP1VsIWYjYiaHHb/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/8iUMV_Ju2pLvpDsz98tYCS-eQjjHSvk3a_bF3E80ZNFlpYSSmhDP2UXyLK-Le4C7fNBA20NmYklEJVyUzKo4pZOr6zIg2eBNLfy3i2n2LhA.png" ,BO | RTP*
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92xfNRlV32dpMBWv_gTlUnDKAK5f1A35hiuD6_qq6jAn/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/ftzf02UoOnSiUmN8Bpcco0I53qjyo5qYH2UrkkXbUxNiAWwcdU27wxk4oX0P9ADK.png" ,BO | tigo 3 hd
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92taPTAug7Un7vKV7nVt-nDLbB7Nh98M17cCBcbIhMlq/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/Hwcultv5u8IatKV5pcz7KKOtHVeYuUA9EwI2ukTed0Ldp6MbwPzqivni8YqhtbjgtDPGvViuJW1WZY3rhHiu62gvgxBzwjber1YrmG5GSLM.png" ,BO | TIGO SPORTS 2
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wxWzOE3ItdjA2RtiKpR2uCMXwKUp0lW-ASDfYHN3_qE/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/ftzf02UoOnSiUmN8Bpcco0I53qjyo5qYH2UrkkXbUxNiAWwcdU27wxk4oX0P9ADK.png" ,BO | TIGO SPORTS 3
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_kDDMSZ4Zy1b1igqu5wH6-8MWy8m-3IxScbtVm3bYPJ/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB2Lmdd/BOLIVISION.png" ,BOL | BOLIVISION OP A
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99EPKGkOsFb4ffNi1LBEutNyDENstwoZ52D5rfPrLOYC/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB2Lmdd/BOLIVISION.png" ,BOL | BOLIVISION OP C
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9w2gc58CM75t598NnV-QTOk-Nk0Z63QyTBjfKmvTPt3Z/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WcrNSg/RED-UNO.png" ,BOL | RED UNO OP B
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wrRM7dfi0SUrm4zMKqrjuJbrtlZyQDaob5118wA9MqV/ts
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/BOLIVIA/BOLIVIATV.png" ,BOLIVIA TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95OoCb_7KkGjTtAaT_rjHEvxfgfwLG9CbxqRW9h8Nc_9/ts
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/BOLIVIA/BOLIVIATVDEPORTES.png" ,BOLIVIA TV DEPORTES
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9ydylqn2ALKLEBb55eaJNQyWUwfZJJXRDwc8QUsqO2J6/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/abya.png" ,Bolivia: Abya Yala Tv
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93DUAVbwaYmnp46Wi_fCX_7dChseFNV0YO9zOfjupxKJ/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/abya.png" ,Bolivia: Abya Yala Tv
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94TNKA3pPibiS6hba6J3hOsKrrQACBqcrFtEHWPbSfrH/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/atb2.png" ,Bolivia: ATB La Paz
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98p6aDs7l7d0YXD5TC1QURIXyNmgZMTCbcghmb-RhQu8/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/atb2.png" ,Bolivia: ATB Santa Cruz
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zkGQ5RdG-Krl9YDXQzGhQs9udaEmq55sOJY3EXWILNp/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/atb2.png" ,Bolivia: ATB Santa Cruz
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98CsEZAJDR6x3D-EMSb9SsOFN6O3rCrB2DatumDQgkth/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/btv.png" ,Bolivia: Bolivia TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9800AiqHNxHY8TD6Hp_kSk2eAmG5XmUppvCINTgo8NA3/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/btv.png" ,Bolivia: Bolivia TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95mAtJ1s-wqDtga1A0YfdkzLUxi-3VDLQOgBWxIhrA8X/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/btv.png" ,Bolivia: Bolivia TV SD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98JPBY0VOkJUrln-UQ_LPBn6LQY0qUJ93ZcCBSn2Z9qk/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/cinerama2.png" ,Bolivia: Cinerama
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90nxBLnW3oxkt1C4BIJNr8PeyMJOwY6JiURc7Ml_XZSH/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/redadvenir.png" ,Bolivia: Red Advenir
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-XVjwDqTvD-kvhb8rVztKmgGQaiSRJP_y1rNuGW2ynP/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/redadvenir.png" ,Bolivia: Red Advenir
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94Xfz2y0v4RUzZUhihlaoVGZ7_DrkoBKBbS4EVcqO8v5/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/reduno1.png" ,Bolivia: Red Uno Santa Cruz
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97G9gOLsL7b76uY05Lfd1ZiTb-EXJG6jHXfkRNqpaN29/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/reduno1.png" ,Bolivia: Red Uno Santa Cruz
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99AnrRj26ixg072eajVM6P-S5FKGlB0QaHv5sTWBBPZq/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/unitelbo.png" ,Bolivia: Unitel La Paz
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99lSKTS9j9PZWngoSE4gTRMWQyL0zf3vNLE-Gas4DK0q/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/unitelbo.png" ,Bolivia: Unitel Pando
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xBkyo0nvAiAF50ZNKZvWU73_8ocA2hWdiwtaF9ETD6W/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/unitelbo.png" ,Bolivia: Unitel Santa Cruz
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95QR2f8BaygtK0Gj0kH0sw1a9MDQWcs_DCo4mmjtUGuq/ts
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/unitelbo.png" ,Bolivia: Unitel Santa Cruz
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wg57mguZCCA8zqLgXX5oNgD1MTzslNctUpBscMNvFW5/ts
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/BOLIVIA/BOLIVISION.png" ,BOLIVISION
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_xBfZNZSd_pBP0huQoE1YkGhSXF7ZKoMhTTmJSSIQpS/ts
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/BOLIVIA/BOLIVISION.png" ,BOLIVISION
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93ps21MGYeZA-0b92iL1nzH40FgnHxybjrGnWiPUrCIU/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/1OnlYNVGd0SnfboHEpwRs8E34wtTG_b8_dQKSgUnVF80CbTcn8NChqRYweRjXwiOm0bV4w_ZU9qB1lUIcDKiUb773Dl88gzSeoX8wZz5aoc.jpg" ,BO| Bolivia TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94ny0nDIkhQiYPUMbcef84IKtbf2U1eMLN27ysKq7PLC/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/1OnlYNVGd0SnfboHEpwRs8E34wtTG_b8_dQKSgUnVF80CbTcn8NChqRYweRjXwiOm0bV4w_ZU9qB1lUIcDKiUb773Dl88gzSeoX8wZz5aoc.jpg" ,BO| Bolivia TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu96zzBWLXaOfxvRjRKBTARGEWXaDqpd_6d2CEpyLPrEXE/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/ftzf02UoOnSiUmN8Bpcco-MArcFLzPZ-ZmgHT-LnuE6ryYanJq1jjubkqaeDyXwP.png" ,BO| UNITEL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wyo0QLzzhe8PfFQlufNZMdYS9toQuCe0qNH1syngkYG/ts
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.OJrlXCliyUCgRfhyb8EOrwHaHa?w=185&h=185&c=7&r=0&o=5&pid=1.7" group-title="" ,EXC  | TIGO SPORTS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97DnJDEni-bvQ4AHtP8rgQ0vahrnqo-cO2TLwevR0j69/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/e0c6167fe2890e4e8079ed5ed27acae1.png" ,EXC | TIGO SPORTS BO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95qmckqgyjYeqo1CnGstuZM4XYzR8a7xF5AVvpupDePi/ts
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.OJrlXCliyUCgRfhyb8EOrwHaHa?w=185&h=185&c=7&r=0&o=5&pid=1.7" ,EXC | TIGO SPORTS BO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92o3a9BVni5Via1dHS1YWm5t6h0WpvKxmqjn14l4AeDU/ts
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.OJrlXCliyUCgRfhyb8EOrwHaHa?w=185&h=185&c=7&r=0&o=5&pid=1.7" ,EXC | TIGO SPORTS BO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95iVVsfR5ZN0mWEkfCxci4QaAaNtllVrziiPthHQyUR2/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" ,RED UNO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9ygFaEeC_tnRfdfILtCyYX0DJezEG4HRpldQm59CTUNQ/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" ,RED UNO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zIkf-fgr2T3aFG3CwPqf_isRccb75nVV5XckYI8m-0M/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/e0c6167fe2890e4e8079ed5ed27acae1.png" ,Tigo Sports Bolivia
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98-S0RGUUjb23zprAFVithdxwM8VGAMXjUz7MYoqj5v9/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4gf3IdY1UJBrxgqpMzkkAlGo5GJVJoZiPA&s" ,TV  |  SEO TV  HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97E-1bzZXY9gUaBbB3y-Rt2_rPUNhvehvYcAbVG8PvI1/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yScvIoIXvvDpGjXks9-7uuabD4Mp9BXE4w&s" ,TV | GIGAVISION S.C
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_3cQhgxySbH-2CrXTUmIN6uehHvc1UGRdxrd7z7WEXx/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-peliculas-bo.png" ,TV | SEO PELICULAS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91yu7EDwTnPCBxZBkvK5wms2KiTMwVlQiJSFOVQ0MsvM/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yPu1vCg0230qpUkGRI5GnKLUknTzRUH4fg&s" ,TV | SEO TV DEPORTES
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yGmuU_iJXPZkg_OHZBvzNOq2W51-9RrJEHq9ncywkry/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yPu1vCg0230qpUkGRI5GnKLUknTzRUH4fg&s" ,TV | SEO TV DEPORTES 2
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yD5gBn7v7usjDwltnJN_t6NjiFRxho8ui2y7k3-ZHPd/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5O24WVtu9SmvD_r3MXISPmJUaMW3rN1zzA&s" ,TV | SEO TV NOVELAS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98bVdeLQPzXM_YFQqjRfI1NAxzdeX0FMU98PewG-ypua/ts
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/BOLIVIA/TVU.png" ,TVU
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9y_AUTkjvH0MSFDEMae07zgwWXYpOJLoPLat0Ngvdxli/ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/bo/Unitel.bo.png" ,UNITEL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92kaK7ZF9NjLodgfc49xq11pVPl9sy3C6KNXLpUoDOI-/ts

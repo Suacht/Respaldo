@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://portadas.fastvplayers.com/A3Slogo1_20240801_125243_0000.png" ,A3SERIES
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99923PI2wRwGYD3kJARG002AHjcUvOfSIOAhxoKiOPvA/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE FAMILIAR
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91Q7KHnAji1DHboY2QHobuBr3lJMSCLUAreo-Qywyxpc/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE HISPANO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_NjaRgmm5JxTKmCJt3Fqlgxu37UA9rp2sDhL_Nq1u9n/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="" ,CINE PREMIUM
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu919g0cv53ygF-qzOEflN499YDfxkDWqdAra75N1Rh6sX/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/hiY1t-RSXcClBTcMJiHxtVUbycUQyW8wbi_lmZFI4bbuim6S-qOThw3PB3USPXzEpGoywHtbZW8kBoLTTXdJgmWE46TeYfXwNuNiyk_rrvE.jpg" ,GOLDEN PREMIER
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9x1INxPFAsNmiu4pajjWwzhOWn4B5P7GniAOtevjWv9Q/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5T6LilffuBnhTvA-sJNpzDctb1q0US1NeeGbnU3crJDzaxGnfe4feuHVCeuGW7HrSP5QGYBSczeY_l0uwf3BnWw_92Skad4W-eS-57_qSOLy.png" ,LAT | AMC
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-p_CPsciroyF2vDhO5Ml5I6ASU1u6iWxDBDamgDXXpb/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5TT953Z3zJqyywvzFgXc7fCMob47qvTvmg2XMRjULLAsMyIMQbbtZ4k621ADinYrzkM3FBXwBxnwbQTwSDKYnx4YtffX1kCyxInBQt5pqOpA.png" ,LAT | CINECANAL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wG1SIzUuEu_wozq1i5hIIOkckMx_vfjsjYPmwMRYUZc/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5TT953Z3zJqyywvzFgXc7fCMob47qvTvmg2XMRjULLAsMyIMQbbtZ4k621ADinYrzkM3FBXwBxnwbQTwSDKYnx4YtffX1kCyxInBQt5pqOpA.png" ,LAT | CINECANAL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_K0_vh7yVDf44sApVHpE87r3tZY82dtjHA0uHdFdEHU/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5cOeFWOJvc7sbJAlxwN1qvFgmVy9DREkaVyjlwzVt5OJTbPR96f_vajn16w0Yl_spcZBisUYW5Ervjvgi83PkCTamGjr2Audo6xKzB25K81H.png" ,LAT | DE PELICULA
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_vDiN5A3QbSvt-pzny2vB6mZr1DEosGcBJnF2moV2aA/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5cOeFWOJvc7sbJAlxwN1qvFgmVy9DREkaVyjlwzVt5OJTbPR96f_vajn16w0Yl_spcZBisUYW5Ervjvgi83PkCTamGjr2Audo6xKzB25K81H.png" ,LAT | DE PELICULA
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9x7r9s9ArugXvhd_5Q5NEUvwCmerFvCUc5xsEjXQ0R6o/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5dV0T8jkTNYXy54HBYLjA7vXBF07TlsXkyaxBEnC7IBsNoQOeh-YDHrzrIek36prdrpk7H6Re5NoMWkU1QT8F2GgOxtlpLoxJuOFl3C_Wv_d.png" ,LAT | ESTRELLA TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zOBsfAzhGultsyjawcIG0Hq1raVVYAjrPAyRy6LmEct/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5X92o0TT6Ihjg1Wfk6fqOR80S4PEMTbqVAXO5n59Qmk9KOIEMY3QSEb6g0VJIhZ3LMFmIxMJ9lZQfPOPaAL77szELqLG13OMlDT98n71RpTY.png" ,LAT | FX
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99R3rLhZZSQlCiaiua4eWLNX6LsLiKyJ7k8i4sHghqmd/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5Vyh6Qy5LqC6wg6s9ZCWIAhTErlfO6rP_epz-nUHYhNb68jhrnEzPZ71sbJ2di8n-kY5DFr4ssGENsPovZS8agdreg_m2BHWDaWAW2TtPppu.png" ,LAT | HBO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97bzVe53F3Rk3e0T-GMZVXEEVQn-iX8870VNkHwJDJJN/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5Z_DW1QjOL2iQqq7j6vaWqTcJsbjhpHBa5aTEV2oTb_ni2KXLNcuLd8V9gk7sCM2bdTZF_V4QK-JKjqFDwqPgi37nOO033bJbniOXzm2ugYs.png" ,LAT | HBO 2
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97NKPJJr5aVZR2unoXB7hXpEQ8bYXY37KjtVfhVPTMAY/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5dtM6nRFA0ik372A9bpLj84bnZwUEUv7PKqHNzKJfEmbBHCe-CR_bFh1G0VHCBK9hl2f6caI9YGrCVy5-SSMlUMAo7Q-9PN5SYDNkDFp91on.png" ,LAT | HBO FAMILY
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu933NdqwHLEWfQJTujbZfJvhmHtvkpeWiDFjlTIkhPoAi/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5TGw6eFMyKpezJ9WWEBK6AdkUBtq0fgnHm2HpaOY7VLWfQvs1JoDqUW4ZW25_xpZFQBvKklGq7zrSMNzCLpFTFYP2upeckyUTZY8VuFKTfQJ.png" ,LAT | PARAMOUNT CHANNEL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9w9R6s_OYPq5jhwVny8zLjRB31xkTDwJqpRGldY8EWEl/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5YciRyxfS_nLS48GZHkKU8smB95abZzG4ekLqys3HrW9KOexU7VgQt3Mt79Ol_KMUDczgvqRR1l94-ufPBBeEF7IN0WI0dRRV1g5-cwrKtSC.png" ,LAT | SONY
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91fa6v_CduMej4xn31KO_MXZ5-X2CLvKyR3Id21Zm-wg/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5XY_Ic8am3ALovZ76XZmQPZcWTWeKyLylKjqRFWS3jHCJNDLo4mq_-kms5lvbW4I5M72sllzAwmYH4VOD3q0VMPfGyF6htidwG5g7ly2OBZg.png" ,LAT | SPACE
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97QZYj9blzOjR4cww1-iaCULxyMsjf5zrG1bCU9aXGU4/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5WaxZIQHyXdJTTANe6a-jjJ74Wop-pPlGDVblU3zXxZ8wm2rZfhk0RH5VbHyevjiNj7ZeKoKYOgu3_djqTsaavcbnp8MnEl97pX8DxCRb0Wj.png" ,LAT | STAR CHANNEL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-ozIYvM4-gSCz8vc7H1k34IqdRbIG0yy6bS8EUQqqDv/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5WaxZIQHyXdJTTANe6a-jjJ74Wop-pPlGDVblU3zXxZ8wm2rZfhk0RH5VbHyevjiNj7ZeKoKYOgu3_djqTsaavcbnp8MnEl97pX8DxCRb0Wj.png" ,LAT | STAR CHANNEL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95xjCOtEj0M-JdopZKVU6y8yz-otmqX6ZRcgda6JQuQM/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iPsvyaKPUqtrfAzyQNhCaBHo4Uaqw6mbR7-dIBP0xdNWhiT6xX509GlS6Y3m25Ed_k.png" ,LAT | STARZ FUN
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9whE_S6J9KRxeK2KtUerjDS2DpywbZUea4JA00HLo0WO/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iPsvyaKPUqtrfAzyQNhCaBHo4Uaqw6mbR7-dIBP0xdNWhiT6xX509GlS6Y3m25Ed_k.png" ,LAT | STARZ FUN
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98gd0ApYC2t5Lwy5o-ek3ChFMTl2CjaWxaBI5cPP8TkQ/ts
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/f1d9c5b6d8027c635781884ee02a71bb.gif" ,LAT | Studio Universal
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94LduZrLXlG48__Ejlvj68NGTagxD0vcLoyf1My0GF4Q/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5Xx4Itlz0fsXF6FlITLuWYzBB6VQO6FpqYEC85j9R0SCvx6W6E88VkbXKH15U97Cuf22fgOVTQvUHOZAIGCPygpR1qVWbz6cslKnVMjeYgu6.png" ,LAT | TNT
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu96Ld0ozcFscVpHrA6Iv7BIZG6L4rkuT_S5rS1G01Q9AT/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5Xx4Itlz0fsXF6FlITLuWYzBB6VQO6FpqYEC85j9R0SCvx6W6E88VkbXKH15U97Cuf22fgOVTQvUHOZAIGCPygpR1qVWbz6cslKnVMjeYgu6.png" ,LAT | TNT
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yTErxyh0Bi13cYuPzaf2EaydiENywf7OQN1uVCvfWzZ/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iMGE4wtaY4PcamXqENuFH2HNeL_DeJs1d0mKHZN9pgf437ykERFJENs112h2_2fuXw.png" ,LAT | TNT SERIES
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93QBCxOGnjPmL6IpaHMqstmK5ylyw1tiNdUmZPEIOR10/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5euISINh3Kz-ARtFowfZoxxxs-_rBz3CpcBhSaqD0cRYfO2D5VcBHUKvdsBqckb1QB-ec1PPeBC0W64lC7fBFW5GswYayt5RJ9JxTJjqRKDv.png" ,LAT | UNIVERSAL CHANNEL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91fs5uoV33AjRwXY2dhdnFTTYBEZokB0f158jhMxZMwb/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iOG0fHOQyep16nvvlgc30jhGOShscYUIUsIVcY1i_C4WpBRHSd6uS959Kmyuf7TlXE.png" ,LAT | UNIVERSAL PREMIERE
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95jFsmV42fM7z1Wm-czd5Or9uSo1ihWcpXP0E8Gr3_Kk/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iOPjSBro5qKL-AEJTJyMo4nUTLGRLe1-M0bAPql_LDaLv-_rmUipy0DgJr5tSMrxgA.png" ,LAT | WARNER CHANNEL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90X5ZUz7g_ubu6M5TV0d3CjWM-UTnxTvsXj8EfWYEGrX/ts

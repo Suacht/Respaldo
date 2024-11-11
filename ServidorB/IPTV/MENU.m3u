@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,General
-https://t3mp3.surge.sh/ServidorB/IPTV/General.m3u
+https://github.com/Suacht/Respaldo/raw/master/ServidorB/IPTV/General.m3u
 #EXTINF:-1,Paises
-https://t3mp3.surge.sh/ServidorB/IPTV/Paises.m3u
+https://github.com/Suacht/Respaldo/raw/master/ServidorB/IPTV/Paises.m3u
 #EXTINF:-1,Premium
-https://t3mp3.surge.sh/ServidorB/IPTV/Premium.m3u
+https://github.com/Suacht/Respaldo/raw/master/ServidorB/IPTV/Premium.m3u

@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,338 ESPN 2
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zjpBOYGDKtjXTt-qHwD4orR2drMRP2bXvPbgnjwF6b1/ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/4403cb9746f540ac7ec0fa6339e1e85e.png" group-title="" ,AR | ESPN 2 HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-TXFx6bT6vm8iZsyxsVNmiVhaByyMQSSR2E7xjQi71q/ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/4403cb9746f540ac7ec0fa6339e1e85e.png" ,AR | ESPN 2 HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98IEjOvgz-C5Kc-D6cwk2bBk4KP_n2gmWs66pZgiI0UE/ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/4ec0488832be1e25d81f9a3a7fde66d2.png" ,AR | ESPN 3 FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93RqyQMCQc9UMSPONC7b3AmlzBDbzl2TxgYoYMar6UMn/ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/4ec0488832be1e25d81f9a3a7fde66d2.png" ,AR | ESPN 3 FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99P5959ZW9VRQRbINEqbzSBJ334ipxNa32QBNibjxIEa/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" ,AR | ESPN PREMIUM HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93DD9oOShLInDUlp8tEr7UVLvdFryMy8LATpASJRebZB/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" ,AR | ESPN PREMIUM HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92PSfFNxArAsAsO_2P4cjb-SYgbZSawML_kxA_ZupKHS/ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/d36692f837ecfed4a40fe2d04b24929e.png" ,AR | ESPN SD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99dE_STESEAVmLt-oDk2K8qoBeXE_BHrzT1FDhfqtALY/ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/d36692f837ecfed4a40fe2d04b24929e.png" ,AR | ESPN SD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu957feYG2xY4WgUTpHP670n76quYfRZYey5hYoSZvijH3/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/dsAt8cMDBjbP3mVNdeYR4a5xd5aaGVQoJgA2Za3NA15TyU3r3xUvjv9Oy9-7BrIP.png" ,DIRECTO : ESPN 1 ARG
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98du1hWqN91Wlam7WUu8YJFkneAvQ-JDXGD_mjGQFELT/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/dsAt8cMDBjbP3mVNdeYR4a5xd5aaGVQoJgA2Za3NA15TyU3r3xUvjv9Oy9-7BrIP.png" ,DIRECTO : ESPN 1 ARG
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9y8935giXUxfWXD22J84eoU-ItMdwo2JCmlQvEsfIuLl/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/dsAt8cMDBjbP3mVNdeYR4a5xd5aaGVQoJgA2Za3NA15TyU3r3xUvjv9Oy9-7BrIP.png" ,DIRECTO : ESPN 1 COL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zakwTdWSZ_dw67DSxYIFqFZCAlKTh67_opyw2vLzekH/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/dsAt8cMDBjbP3mVNdeYR4a5xd5aaGVQoJgA2Za3NA15TyU3r3xUvjv9Oy9-7BrIP.png" ,DIRECTO : ESPN 1 MX
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xX_uvI-WPeKtx0hG735UZtQ4x4PrrioOjxOUGpHRvNP/ts
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" ,DIRECTO : ESPN 2 ARG
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xINKDcC56vVaLtJAcXpAfYCQAPlB-xuNn_LBCGnzO87/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/QCqX5p5x3Y181Q8jwb82JO18R_X0F8bI1TJ6dQLllAmp8oBE3kkcZI_g86dnLLCDAYJWCWLfF0_G-OKMoIayEQ.png" ,DIRECTO : ESPN 2 COL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-X75rzUMmAzT0nCQlSBS5zRv8oEBrU5IWrO8c9vnVuJ/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/QCqX5p5x3Y181Q8jwb82JO18R_X0F8bI1TJ6dQLllAmp8oBE3kkcZI_g86dnLLCDAYJWCWLfF0_G-OKMoIayEQ.png" ,DIRECTO : ESPN 2 MX
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xcdNppgUD8ViChJIR9mI_bISdq_wz_cxUlN7gL4STUP/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/QCqX5p5x3Y181Q8jwb82JHoehGnululbZhz9rddlJ5SDJh0s5tZQ0EmquahixwdV.png" ,DIRECTO : ESPN 3 ARG
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93vc97LswdYTK-4vb7FeOQPGAtYVwVf7H_0-fdtGpHxk/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/QCqX5p5x3Y181Q8jwb82JHoehGnululbZhz9rddlJ5SDJh0s5tZQ0EmquahixwdV.png" ,DIRECTO : ESPN 3 COL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93XvI8jUq5MMHeV02EpR2eB6JNqBZOxoo2r-cuawX6rB/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/QCqX5p5x3Y181Q8jwb82JHoehGnululbZhz9rddlJ5SDJh0s5tZQ0EmquahixwdV.png" ,DIRECTO : ESPN 3 MX
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-X-B1Kj_yTQrg6OOlsx5Eg6sbNbLJXLW5MJnt5MGaUN/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/QCqX5p5x3Y181Q8jwb82JDF0Lvktd4ik9QXl9VZunA_gVggIo6er1N8azVCc0P2dpimZ7LX6VBuVtpl8F78FdA.png" ,DIRECTO : ESPN 4 ARG
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90aZWWGsTuudTyeYyfu6eTc5HJKmr_EPU5sY6sqexW1O/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/QCqX5p5x3Y181Q8jwb82JDF0Lvktd4ik9QXl9VZunA_gVggIo6er1N8azVCc0P2dpimZ7LX6VBuVtpl8F78FdA.png" ,DIRECTO : ESPN 4 MX
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9ycVBzfwz_lTaB1ntLLVy_uS_51Homlqfom-NAwyTJOH/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/QCqX5p5x3Y181Q8jwb82JFMOU8v4lfP1__mJ4TJc1MCBGhBPeCTFD5hrVHfb49d5_QFqBWUUe4pusoy_OLOq7A.png" ,DIRECTO : ESPN 6 COL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93y7KS0ZF4Bn3TD2ttMZ2oKnQ3_04Qs_6Za7Pb6GJBpD/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,DIRECTO : ESPN 7 COL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93Kbmtp9sgcwWkRxEmifLwiEgPSy4ZMECeaFqg875pKg/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/dsAt8cMDBjbP3mVNdeYR4e4b0oPIi3uPo3CcKf3Dip2U0furj3eTYmRXdjZ28YHI.png" ,DIRECTO : ESPN DEPORTES
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xrBIOjje3IMKJauluoRLZ2lVDnA99blswmEXFIqhLQK/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" ,ESPN 1 LATINO FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97tzcdzlqoUTkJQKDRRB-JgM47QiB8OPSjSws5KhjPCX/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" ,ESPN 1 LATINO HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu988SJMrZTX4rPiW0pwNF2qP28mnf_Qd3_sFErk3zQXKF/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" ,ESPN 1 LATINO SD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94iLVsBADutfaHzZDqaHNyt2wXkKQU5PsZASSd2ssbfd/ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Espn2.mx.png" ,ESPN 2 ARGENTINA FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91g-JOMHTTJNufimOY0aqDUkKRJj68XN0Ki9zCQNCv2H/ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" ,ESPN 2 ARGENTINA HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yx5RjPSb0vRSYcRfkyE5WiDjm0tnk7rbIMNJGV9evMm/ts
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" ,ESPN 2 ᴴᴰ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_kl3cWwHVXajPRtKmKCb2v_g7DzqzXNIdi9RcwfzAYE/ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/ESPN3.mx.png" ,ESPN 3 ARGENTINA FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yGdLrFDKVpTnpsVFB_BVq52te2P0vcA_UmOkj3rE4kt/ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" ,ESPN 3 ARGENTINA HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xaX_XQJiPfZmVlist0YiFISh9d8KAXiyB8qcVg1SOZ1/ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" ,ESPN 3 ARGENTINA SD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9y7Gh9mM3JiSAYlHTKFiW_4lo4Oh3KmzCZIpd7VoFCes/ts
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" ,ESPN 3 ᴴᴰ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xH_Pnl0Mc8N1wlYMpN4XesxNzTQ4admWhc3ZxiU7UHn/ts
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" ,ESPN 4 ARGENTINA FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_LgiYjdReElbZeR45KoBOz2z94od5TDZqZrNRdZb7wp/ts
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" ,ESPN 4 ARGENTINA HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99WkMNWWQBuRDaqnWA3isnXNJcB41obFGNePLo9FCACK/ts
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" ,ESPN 4 ARGENTINA SD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93xThk_00n3Hb9EUaN5bfXutDdDp8GPOVkJYMr32SHKv/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I5Lp1u4PngZKVZNfprYak6NPoYXxVpLW39r1gYWr0g&s" ,ESPN 5
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu943eDaGncjATsg4Xxk-mv0i6aBkEmqAZ_oEiuiIxqJS-/ts
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/ESPN5.png" ,ESPN 5 FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu992n1dm1AaNAX5GqzTa8hMg4I1163v4BkOsS8oBHoA4x/ts
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/ESPN5.png" ,ESPN 5 HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu954QAyWz4uVJFWp_a-s1zShzhwF0DsTPk2ZQ5xRoHZCk/ts
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" ,ESPN 5 ᴴᴰ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu929OmbwP_PtzfQAPWeCAxfVKzlBf39fLE54miQpPl2Jw/ts
+#EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/c8fca111cbfec65dd8a2b89ebb7201d6.png" ,ESPN 6 HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93_RO3ld5gsAlwFpnyBWhkGxgfnD70EBJ96JaXiKfSCl/ts
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" ,ESPN 6 ᴴᴰ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yS1UDrsoBDg6Qy-Xhzf29mYg78oc4JMgBR5uzxmFtOZ/ts
+#EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/61ec4326e1c6b0728e35ad603df02f7c.png" ,ESPN 7 HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu96ieQXxpMLJd2oREiBDNWjSeLhUT6fB4PWarjaKIew25/ts
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" ,ESPN 7 ᴴᴰ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9934o1or4Qib6wPvyohaiWs-dBjnjCVF1VWZcjc31nMF/ts
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" ,ESPN + ᴴᴰ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu977toy6RLB990zfaq8CsZMAwEe7htxXbXjUI1wBlubU-/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" ,ESPN ARGENTINA FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xm1vpKEH7NqwHSJfxHnF7Hund8eBUxyeYhGVYFaOF5g/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" ,ESPN CHILE FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu926IOFJE0Uen1raJH5Kfs558TGSGVFBT5siuTNPnc0A7/ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgDYDqR3EmK77_hTf1b529VfDdAh-x_zuqn3u3_AdMLsIh0kaimpKSU3Q4jAujBYgG8pb6CaeFJ--wcdiwXha1NmFqH5jMrf9MvqEAMsMyJR-NJtiNpANz-q-XcSmK_nEFhEfWn1sEKvAcXl9Z2ZtSZjBAu5MJ0GddeZSYjFi1dk9-DQlmpruG5O9kGyRO-" ,ESPN colombia
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98asgcgokqLAZJKCAehSA8avjWVpXKhO9hmutFvyjh89/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" ,ESPN COLOMBIA FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97MQJjRXz91UA5RZZ43tQ10Y7xFj6JlwchoI8e4Zx3h7/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" ,ESPN COLOMBIA HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93AkMW1WH0-rcSpEISg5zt61f3TSLLMQ51rYpca574dM/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" ,ESPN COLOMBIA SD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu963umJ7NMyTtSSDz59Zt25bevMudA-9dbHLf24jdvrVw/ts
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.zuhjROdOOtW2IpcKxT0pvAHaDt&pid=Api&P=0&h=180" ,ESPN Extra HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu908sZClNvv6tXcd2CzChrWws56nwHGdu_qi9Qa5UVseq/ts
+#EXTINF:-1 tvg-logo="https://pelotalibre.pe/img/logo-canal/espn_premium.webp" ,ESPN PREMIUM
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97mVHlB7Lgkocb-dcxzltiN6xULtU3Ko6VJHVjnJy5g5/ts
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" ,ESPN ᴴᴰ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xifLm8XuBDNlmL1FDc_T1z7QggpeojuPMcqcTq2HxSU/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogW24WIx0tymVWXGc3WfxWhTuBKo1g48l8g&s" ,SPORT: ESPN
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99ehCIQ7_bxSfC_uVPjnJ8pvV7qqGYs87T61Axdz281A/ts
+#EXTINF:-1 tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png?x73749" ,SPORT: ESPN 2
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95caZEvK78BtfXQrd_k6U1UaPbK0q4Yv8ivIuHHM9XCp/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHwQu-zJYQZ-35odEWWMpzg4AUGrCv4mLWw&s" ,SPORT: ESPN NEWS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9w7X_7HssBiGZKrCqIJae0_xjuVHTB4-behQyKrQDn9w/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHwQu-zJYQZ-35odEWWMpzg4AUGrCv4mLWw&s" ,SPORT: ESPN NEWS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95UIXA7dN8hISsXOUwKkMkuFCpJXRLjF6Dzg-I399nbn/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7NDpCkcEhq3SGRUvqPPug97VqpuwBzkoTg&s" ,SPORT: ESPN SEC NETWORK US
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97FMF08c2b_s8XGqHW9Dl7TDgsx8I8L9Z53tfvmZEFah/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7NDpCkcEhq3SGRUvqPPug97VqpuwBzkoTg&s" ,SPORT: ESPN SEC NETWORK US
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99fNTkOT5yNug9hJbnq5JLrfQo_x_4DOodgHtJispgkt/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYHHU5QQUCZZsNYxCAsKUYlkVRWOOxokmLA&s" ,SPORT: ESPN U
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_o9vuN4B6XlZhk8W8duNCWAvgV9Km5ncycw0R9roIYC/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYHHU5QQUCZZsNYxCAsKUYlkVRWOOxokmLA&s" ,SPORT: ESPN U
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94ZW0ShJZd6mFtSXSlQFj73I4aiHa8dubpZr2bW21Y4u/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5VS2e_tEjk4Ry-a4L2ty-AZm2_ZJ6hqNXJSzAmkGjIJnrJF6F-MyKsRPMerGPbPmFmODDyNixTFb7QAzdL6EqsZAe6Sb674BgBvFAv4OkdZO.png" ,SPORT: ESPN U USA
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-TYutaFSdqtSesTNZv3TAor0ddAw9bnhT2dvmAYuBAc/ts
+#EXTINF:-1 tvg-logo="http://servicioderestream.ddns.net:80/images/0_ykj646wSJI9Fu2zVVEfdTvqpPcOuxmlfEBYbMu6iNlIHNISc0qRLey8IEoujC1SqE7Q35xmls-pKtfeGxV5VS2e_tEjk4Ry-a4L2ty-AZm2_ZJ6hqNXJSzAmkGjIJnrJF6F-MyKsRPMerGPbPmFmODDyNixTFb7QAzdL6EqsZAe6Sb674BgBvFAv4OkdZO.png" ,SPORT: ESPN U USA
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-OFucyxzeMH6mlOq6229Ybt4v3FVlGQAxr782gJYjBq/ts

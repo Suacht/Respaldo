@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,ARGENTINA
+https://github.com/Suacht/Respaldo/raw/master/ServidorE/IPTV/Paises/ARGENTINA.m3u
+#EXTINF:-1,CHILE
+https://github.com/Suacht/Respaldo/raw/master/ServidorE/IPTV/Paises/CHILE.m3u
+#EXTINF:-1,COLOMBIA
+https://github.com/Suacht/Respaldo/raw/master/ServidorE/IPTV/Paises/COLOMBIA.m3u
+#EXTINF:-1,MEXICO
+https://github.com/Suacht/Respaldo/raw/master/ServidorE/IPTV/Paises/MEXICO.m3u
+#EXTINF:-1,PERU
+https://github.com/Suacht/Respaldo/raw/master/ServidorE/IPTV/Paises/PERU.m3u

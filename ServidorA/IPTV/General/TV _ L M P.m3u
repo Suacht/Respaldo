@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://editor.lmp.mx/content/images/size/w600/2020/04/LOGO-LMP-ORIGINAL-FONDO-AZUL.jpg" group-title="" ,LMP 1
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu972nvby7KhiE2t1mtanmmHRWPZb61NDs4TnalaqWiKWb/ts
+#EXTINF:-1 tvg-logo="https://editor.lmp.mx/content/images/size/w600/2020/04/LOGO-LMP-ORIGINAL-FONDO-AZUL.jpg" ,LMP 2
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93gw1ZrVlxlxeO_2oeSlzH481DKiEscoCVhUQ5Mvaj-Y/ts
+#EXTINF:-1 tvg-logo="https://editor.lmp.mx/content/images/size/w600/2020/04/LOGO-LMP-ORIGINAL-FONDO-AZUL.jpg" ,LMP 3
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91b__8O6L1Z_ALQX4nxdZd2lR8c_b0wJ9QqyJCU_zlvx/ts
+#EXTINF:-1 tvg-logo="https://editor.lmp.mx/content/images/size/w600/2020/04/LOGO-LMP-ORIGINAL-FONDO-AZUL.jpg" ,LMP 4
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90_C3Gcetubq_e2Rdu5JQ31DWI_7sl1YINfqZeT-AuWM/ts
+#EXTINF:-1 tvg-logo="https://editor.lmp.mx/content/images/size/w600/2020/04/LOGO-LMP-ORIGINAL-FONDO-AZUL.jpg" ,LMP 5
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93-uedpXFZ7jhCP4yrreUHr9LCBAMSzG6Dp4kv94gGwK/ts

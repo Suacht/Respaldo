@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,PY HD: UNICANAL
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93AKGRqB0-kYMC0R3HZr1EOc0E3P_4ZlZYXiU1_70RzD/ts
+#EXTINF:-1 tvg-logo="http://visualservice.xyz:80/images/9d921a81c7e2c0cfb0fc97c73098da3a.png" group-title="" ,PY | TELEFUTURO HD    *lt
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90iJRRBmqiFMg6o_A6hslFwyW1hpyBcee9cBB0e3Tmdj/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyqM5doKjofH3i5zLUuvau0eKrAK2U9wvnA&usqp=CAU" ,PY | UNICANAL HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94SP5qIn-O9VhkBVpqRUhWNfkm2kEzMy3Jbix374NLpT/ts
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Paraguay.png" ,PY: C9N
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92pSZeVykR7K--pIQeY-80d68Q8It162Ka0K4Sgrw2I4/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" ,PY: LA TELE
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu959El_GJgc2D74ldL3Iw-6r5ODVXsYP4KwnfGMCX3cBj/ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2cFNK3/snt.png" ,PY: SNT
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91CvfLwcPj5BO0WBqDNmQwq1nqtfutOSyvZNC23e6ZHN/ts
+#EXTINF:-1 tvg-logo="http://starplus.club:8080/images/ddd570823dc7ece76c36a3ed14a9795e.png" ,PY: TELEFUTURO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93AZWZVM38YLAdylLVQlOSrVd9JWiyL4HsDWMgEKgbbC/ts
+#EXTINF:-1 tvg-logo="https://static.epg.best/py/TigoSports.py.png" ,PY: TIGO SPORT 1
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9w6sUmMctZf-hs_9qGa92hJMpHTVYMsjvGzvUldgKmCO/ts
+#EXTINF:-1 tvg-logo="http://starplus.club:8080/images/52a428c9d03ea4d36d1dce83fb66583b.png" ,PY:NOTICIAS PY
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91GtQirO9iEOzPYiqXql6NfYlu9WaWqMjxJ2ibp8ph9U/ts
