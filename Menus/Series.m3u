@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bXq8Xzw/PREMIUM1-1.jpg",Premium 1
-https://t3mp3.surge.sh/ServidorA/Series/TODOMENU.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdGdxB4/PREMIUM2-1.jpg",Premium 2
-https://t3mp3.surge.sh/ServidorB/Series/TODOMENU.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QMp0Yb6/PREMIUM3-1.jpg'",Premium 3
-https://github.com/Suacht/Respaldo/raw/main/ServidorC/Series/TODOMENU.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kH6tyzv/Premium4.jpg",Premium 4
-https://github.com/Suacht/Respaldo/raw/main/ServidorD/Series/TODOMENU.m3u
