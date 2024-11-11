@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://scontent.fver1-1.fna.fbcdn.net/v/t1.0-9/p960x960/82510226_147723543320652_1680508260680990720_o.png?_nc_cat=1&_nc_sid=85a577&_nc_ohc=ObrSkGcB5qAAX-r8qa8&_nc_ht=scontent.fver1-1.fna&oh=302e11ee15c53920bb9a8505d2787381&oe=5F8C507A" ,CR | FUTV
-http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/240941.m3u
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/59f2682b8ebc0b6efcd9edd1b685d595.png" group-title="" ,CR | Repretel 6
-http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/240938.m3u
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png" ,CR | TIGO SPORTS
-http://offshore.lat:8080/live/Carloshernanddez2/3sxLbCv2NprP/240942.m3u
