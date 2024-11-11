@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 group-title="Temporada 1"
+#EXTINF:-1 group-title="Temporada 2"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 1
+http://archive.org/download/dileli1/3D_K4N00J01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 1
+http://archive.org/download/dileli2/3D_K4N00J02/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 2
+http://archive.org/download/dileli1/3D_K4N00J01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 2
+http://archive.org/download/dileli2/3D_K4N00J02/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 3
+http://archive.org/download/dileli1/3D_K4N00J01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 3
+http://archive.org/download/dileli2/3D_K4N00J02/3.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 4
+http://archive.org/download/dileli1/3D_K4N00J01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 4
+http://archive.org/download/dileli2/3D_K4N00J02/4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 5
+http://archive.org/download/dileli1/3D_K4N00J01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 5
+http://archive.org/download/dileli2/3D_K4N00J02/5.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 6
+http://archive.org/download/dileli1/3D_K4N00J01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 6
+http://archive.org/download/dileli2/3D_K4N00J02/6.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 7
+http://archive.org/download/dileli1/3D_K4N00J01/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 7
+http://archive.org/download/dileli2/3D_K4N00J02/7.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 8
+http://archive.org/download/dileli1/3D_K4N00J01/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 8
+http://archive.org/download/dileli2/3D_K4N00J02/8.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 9
+http://archive.org/download/dileli1/3D_K4N00J01/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 9
+http://archive.org/download/dileli2/3D_K4N00J02/9.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 10
+http://archive.org/download/dileli1/3D_K4N00J01/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 10
+http://archive.org/download/dileli2/3D_K4N00J02/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 11
+http://archive.org/download/dileli1/3D_K4N00J01/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 11
+http://archive.org/download/dileli2/3D_K4N00J02/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/371TtXs/3dkanojo.png",Capitulo 12
+http://archive.org/download/dileli1/3D_K4N00J01/12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV0Cv7Y/3dkanojos2.png",Capitulo 12
+http://archive.org/download/dileli2/3D_K4N00J02/12.mp4

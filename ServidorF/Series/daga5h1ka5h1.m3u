@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png" group-title="Temporada 1",1
+https://archive.org/download/06-3_20240826/01(21).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png" group-title="Temporada 2",1
+https://archive.org/download/02-2_20240826/01(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",2
+https://archive.org/download/06-3_20240826/02(9).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",2
+https://archive.org/download/02-2_20240826/02(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",3
+https://archive.org/download/06-3_20240826/03(20).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",3
+https://archive.org/download/02-2_20240826/03(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",4
+https://archive.org/download/06-3_20240826/04(20).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",4
+https://archive.org/download/02-2_20240826/04(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",5
+https://archive.org/download/06-3_20240826/05(19).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",5
+https://archive.org/download/02-2_20240826/05(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",6
+https://archive.org/download/06-3_20240826/06(3).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",6
+https://archive.org/download/02-2_20240826/06(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",7
+https://archive.org/download/06-3_20240826/07(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",7
+https://archive.org/download/02-2_20240826/07(4).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",8
+https://archive.org/download/06-3_20240826/08(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",8
+https://archive.org/download/02-2_20240826/08(6).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",9
+https://archive.org/download/06-3_20240826/09(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",9
+https://archive.org/download/02-2_20240826/09(5).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",10
+https://archive.org/download/06-3_20240826/10(2).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",10
+https://archive.org/download/02-2_20240826/10(6).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",11
+https://archive.org/download/06-3_20240826/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",11
+https://archive.org/download/02-2_20240826/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLvVwtc/M2.png",12
+https://archive.org/download/06-3_20240826/12(2).mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWbtpyB/Proyecto-nuevo-16.png",12
+https://archive.org/download/02-2_20240826/12(6).mp4
