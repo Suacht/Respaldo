@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8DMfVxiyVOIPsB5YLqWyZMaT5p.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223418.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDU0f5wB2yXtgP39FuEbbEongGR.jpg" group-title="Temporada 2",1
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223431.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbQu2Z9tLTYDIN14NwSbcG1gBdw.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223419.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pmZeysV3dMYMvfHde5iV4BqE7O.jpg" group-title="Temporada 2",2
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223432.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccS92LvZovvVCRJgNKIaw4GnqMQ.jpg" group-title="Temporada 1",3
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223420.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1N9tIfIvOmYiMrk0fTL6c9Tew.jpg" group-title="Temporada 2",3
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223433.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnod1diLLRYlIAi3vqiauU91YvD.jpg" group-title="Temporada 1",4
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223421.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vvaXMJ0OnRrrLcigFbP3VHBkFH.jpg" group-title="Temporada 2",4
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223434.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2FuGFmTjkttoQVafXAuFteVgkU.jpg" group-title="Temporada 1",5
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223422.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="Temporada 2",5
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223435.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUoXH5Jqm45hP07SVuGkiPiR43u.jpg" group-title="Temporada 1",6
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223423.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJCJUuvfJoFdlU4irZqxJM7zN4S.jpg" group-title="Temporada 1",7
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223424.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pp0i88OgrgcKScZ981niYwRB8.jpg" group-title="Temporada 1",8
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223425.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8RqEhuhPQBxGB9PgJ1ygD0gt2c.jpg" group-title="Temporada 1",9
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223426.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVGhRWBqqA47eRHcCy4rw4jNpOT.jpg" group-title="Temporada 1",10
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223427.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOnOj8fl39e2b1RUcmGXDtPLHSx.jpg" group-title="Temporada 1",11
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223428.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diLwX1RYjisUA6NjL4XL3DidGGB.jpg" group-title="Temporada 1",12
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223429.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84kLcZ2e3pjjeX5SWcQtruIyYNK.jpg" group-title="Temporada 1",13
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/223430.mkv
+

@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/57af6f9f921719369f337ba5d8da81a0.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348881.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/f42dfb513d63818491670cb7e4c21046.jpg" group-title="Temporada 2",1
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348889.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/04d6cde566f72951f8d461bff932aa9f.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348882.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/00c009ee1bf507e098bd4f4b1ecd9f8d.jpg" group-title="Temporada 2",2
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/351599.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/7034ffabe1635f49f3ef1ea27004086a.jpg" group-title="Temporada 1",3
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348883.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/98bc6c4f5fb64f7d2b75b0758c255d81.jpg" group-title="Temporada 2",3
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/354751.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/9081bb10eb4bca93bb84e198a52af65c.jpg" group-title="Temporada 1",4
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348884.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/e7b8e015467f0a95621ab702aefbfabe.jpg" group-title="Temporada 2",4
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/354752.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/e729cad479871316d9502991c0192253.jpg" group-title="Temporada 1",5
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348885.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/bbaa9037711989795b76e25875cc4bff.jpg" group-title="Temporada 1",6
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348886.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/46b19e82b2a5dbc3ee1cd9c7e7f0b2d3.jpg" group-title="Temporada 1",7
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348887.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/a7cb2ceedcb096cb3bdb0bf787dc3167.jpg" group-title="Temporada 1",8
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/348888.mkv
+

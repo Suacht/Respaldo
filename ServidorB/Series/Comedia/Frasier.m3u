@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/c17dc59fa03fe099371c8f98592cc96b.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/340131.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/2153f0b3f1c6af51e80080ccdf2800db.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/series/Carloshernanddez2/3sxLbCv2NprP/340132.mkv
+
