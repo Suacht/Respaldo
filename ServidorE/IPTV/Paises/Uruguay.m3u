@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cf8acf8e0e903b45076fc47353661c32.jpeg" ,UY: 1000 X HORA TV FHD
+http://211979720923957418.ofdp1112.xyz:80/live/PAU240716/ERT5124/957418.ts
+#EXTINF:-1 tvg-logo="" ,UY: A+V SD
+http://211979720923943783.ofdp1112.xyz:80/live/PAU240716/ERT5124/943783.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bb772ebc163363878ee47be43211ade2.jpeg" ,UY: CANAL 2 SAN CARLOS HD
+http://211979720923940879.ofdp1112.xyz:80/live/PAU240716/ERT5124/940879.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b952a7c81c32e5cdea28040ef83c8b13.png" ,UY: CANAL 4 SALTO HD
+http://211979720923954675.ofdp1112.xyz:80/live/PAU240716/ERT5124/954675.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/397190ea7709f5bbd5cf95698463e030.png" ,UY: CANAL 4 SD
+http://211979720923948135.ofdp1112.xyz:80/live/PAU240716/ERT5124/948135.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a3c8c733f57cef38ac5bde71a8d503ff.png" ,UY: CANAL 10 FHD
+http://211979720923940059.ofdp1112.xyz:80/live/PAU240716/ERT5124/940059.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/920278273506806725c57910909e5bc8.png" ,UY: CIUDAD TELEVISION HD
+http://211979720923945850.ofdp1112.xyz:80/live/PAU240716/ERT5124/945850.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/019808d213c921b94ec5e8d2be3e4b4f.png" ,UY: GLOBAL TV FHD
+http://211979720923954676.ofdp1112.xyz:80/live/PAU240716/ERT5124/954676.ts
+#EXTINF:-1 tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YBj2nQ98nYIDHYNcV_-aaatREybA9BW-Zd9SJX_ZiGpGSB9amoTZ0Vtqti_8volfHg.png" group-title="" ,UY: TV CIUDAD HD
+http://211979720923925329.ofdp1112.xyz:80/live/PAU240716/ERT5124/925329.ts
+#EXTINF:-1 tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypZFWvNbNSe3A1MVsMytXxOGre7eeTZwddI36RAcDEXYA.png" ,UY: VTV HD
+http://211979720923940882.ofdp1112.xyz:80/live/PAU240716/ERT5124/940882.ts
+#EXTINF:-1 tvg-logo="" ,UY: VTV PLUS (MATCH TIME) HD
+http://211979720923942436.ofdp1112.xyz:80/live/PAU240716/ERT5124/942436.ts

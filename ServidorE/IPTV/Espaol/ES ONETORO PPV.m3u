@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2019/07/logo-eltorotv-2.png" ,ES: EL TORO HD
+http://211979720923336310.ofdp1112.xyz:80/live/PAU240716/ERT5124/336310.ts
+#EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2020/03/logo-eltorotv_blanco.png" group-title="" ,ES: EL TORO TV HD
+http://211979720923321232.ofdp1112.xyz:80/live/PAU240716/ERT5124/321232.ts
+#EXTINF:-1 tvg-logo="" ,ES: EL TORO TV SD
+http://211979720923586222.ofdp1112.xyz:80/live/PAU240716/ERT5124/586222.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2023/08/16908979245241.png" ,ES: ONETORO TV FHD
+http://211979720923558671.ofdp1112.xyz:80/live/PAU240716/ERT5124/558671.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2023/08/16908979245241.png" ,ES: ONETORO TV HD
+http://211979720923558672.ofdp1112.xyz:80/live/PAU240716/ERT5124/558672.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2023/08/16908979245241.png" ,ES: ONETORO TV SD
+http://211979720923558673.ofdp1112.xyz:80/live/PAU240716/ERT5124/558673.ts
+#EXTINF:-1 tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" ,ES: TOROLE TV FHD
+http://211979720923539876.ofdp1112.xyz:80/live/PAU240716/ERT5124/539876.ts
+#EXTINF:-1 tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" ,ES: TOROLE TV HD
+http://211979720923539877.ofdp1112.xyz:80/live/PAU240716/ERT5124/539877.ts
+#EXTINF:-1 tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" ,ES: TOROLE TV SD
+http://211979720923539878.ofdp1112.xyz:80/live/PAU240716/ERT5124/539878.ts
+#EXTINF:-1 tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" ,ES: TOROS FHD
+http://211979720923321445.ofdp1112.xyz:80/live/PAU240716/ERT5124/321445.ts
+#EXTINF:-1 tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" ,ES: TOROS HD
+http://211979720923321446.ofdp1112.xyz:80/live/PAU240716/ERT5124/321446.ts
+#EXTINF:-1 tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" ,ES: TOROS SD
+http://211979720923321449.ofdp1112.xyz:80/live/PAU240716/ERT5124/321449.ts

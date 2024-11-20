@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="" ,ES: MLS MESSI
+http://211979720923585364.ofdp1112.xyz:80/live/PAU240716/ERT5124/585364.ts
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" ,ES: MLS MESSI Pro
+http://211979720923585369.ofdp1112.xyz:80/live/PAU240716/ERT5124/585369.ts

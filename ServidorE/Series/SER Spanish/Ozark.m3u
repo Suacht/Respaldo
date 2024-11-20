@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kt9D7lU2P0Ct3lCau5QetFdFhcj.jpg" group-title="Temporada 1",1
+http://211979720923504146.ofdp1112.xyz:80/series/PAU240716/ERT5124/504146.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c06qY3lchB8ReTLahmfupliP7J.jpg" group-title="Temporada 1",2
+http://211979720923504147.ofdp1112.xyz:80/series/PAU240716/ERT5124/504147.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFScUmYS5quAQ2CAnGECP05lHMS.jpg" group-title="Temporada 1",3
+http://211979720923504148.ofdp1112.xyz:80/series/PAU240716/ERT5124/504148.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nzKm0n4oPkJrueKS3ifqajIs3n.jpg" group-title="Temporada 1",4
+http://211979720923504149.ofdp1112.xyz:80/series/PAU240716/ERT5124/504149.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brpbiIML6vA4cEIDZstQEj9UdXp.jpg" group-title="Temporada 1",5
+http://211979720923504150.ofdp1112.xyz:80/series/PAU240716/ERT5124/504150.mkv
+

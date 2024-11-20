@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" ,RE | Aliento Visión
+http://home-playtv.com:8080/GHGXS/VWCJZ/198712
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OztpEQp.png" group-title="" ,RE | Canal Diocesano 
+http://home-playtv.com:8080/GHGXS/VWCJZ/198665
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pD63DGh.png" ,RE | Esne TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/532066
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOVdYJZ.png" ,RE | Esperanza Radio
+http://home-playtv.com:8080/GHGXS/VWCJZ/198701
+#EXTINF:-1 tvg-logo="" ,RE | Esperanza TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/122254
+#EXTINF:-1 tvg-logo="" ,RE | Hossana Visión
+http://home-playtv.com:8080/GHGXS/VWCJZ/122259
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zpMhsAJ.png" ,RE | La Voz de María 
+http://home-playtv.com:8080/GHGXS/VWCJZ/198684
+#EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" ,RE | RCC TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/198702
+#EXTINF:-1 tvg-logo="https://unored.tv/wp-content/uploads/2020/04/logo_la_red_internacional_dark_s.png" ,RE | TV Elohim
+http://home-playtv.com:8080/GHGXS/VWCJZ/532067
+#EXTINF:-1 tvg-logo="" ,RE | TV Gracia
+http://home-playtv.com:8080/GHGXS/VWCJZ/198700

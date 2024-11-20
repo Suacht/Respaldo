@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wsb-tv-us-ga.png" ,ABC-Atlanta HD ( WSB-TV )
+http://home-playtv.com:8080/GHGXS/VWCJZ/475425
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wsb-tv-us-ga.png" ,ABC-Atlanta HD ( WSB-TV )
+http://home-playtv.com:8080/GHGXS/VWCJZ/475464
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfaa-tv-us-tx.png" ,ABC-Dallas HD (WFAA-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475426
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfaa-tv-us-tx.png" ,ABC-Dallas HD (WFAA-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475466
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmgh-tv-us-co.png" ,ABC-Denver HD (KMGH-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475427
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmgh-tv-us-co.png" ,ABC-Denver HD (KMGH-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475467
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kabc-tv-us-ca.png" ,ABC-Los Angeles HD (KABC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475428
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kabc-tv-us-ca.png" ,ABC-Los Angeles HD (KABC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475468
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wplg-tv-us-fl.png" ,ABC-Miami HD (WPLG-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475429
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wplg-tv-us-fl.png" ,ABC-Miami HD (WPLG-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475469
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wabc-tv-us-ny.png" ,ABC-New York (WABC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475430
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wabc-tv-us-ny.png" ,ABC-New York (WABC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475470
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wftv-tv-us-fl.png" ,ABC-Orlando HD (WFTV-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475431
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wftv-tv-us-fl.png" ,ABC-Orlando HD (WFTV-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475471
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/knxv-tv-us-az.png" ,ABC-Phoenix HD (KNXV-TV )
+http://home-playtv.com:8080/GHGXS/VWCJZ/475432
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/knxv-tv-us-az.png" ,ABC-Phoenix HD (KNXV-TV )
+http://home-playtv.com:8080/GHGXS/VWCJZ/475472
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfts-tv-us-fl.png" ,ABC-Tampa Bay HD (WFTS-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475433
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfts-tv-us-fl.png" ,ABC-Tampa Bay HD (WFTS-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475473
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgcl-tv-us-ga.png" ,CBS-Atlanta HD (WGCL-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475434
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgcl-tv-us-ga.png" ,CBS-Atlanta HD (WGCL-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475474
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wbbm-tv-us-il.png" ,CBS-Chicago HD (WBBM-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475442
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wbbm-tv-us-il.png" ,CBS-Chicago HD (WBBM-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475482
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kauz-tv-us-tx.png" ,CBS-Dallas HD (KAUZ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475435
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kauz-tv-us-tx.png" ,CBS-Dallas HD (KAUZ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475475
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwj-tv-us-mi.png" ,CBS-Detroit HD (WWJ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475437
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwj-tv-us-mi.png" ,CBS-Detroit HD (WWJ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475477
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/khou-tv-us-tx.png" ,CBS-Houston HD (KHOU-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475436
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/khou-tv-us-tx.png" ,CBS-Houston HD (KHOU-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475476
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfor_miami.png" ,CBS-Miami HD (WFOR-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475439
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfor_miami.png" ,CBS-Miami HD (WFOR-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475440
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfor_miami.png" ,CBS-Miami HD (WFOR-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475479
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfor_miami.png" ,CBS-Miami HD (WFOR-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475480
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wkmg-tv-us-fl.png" ,CBS-Orlando HD (WKMG-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475441
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wkmg-tv-us-fl.png" ,CBS-Orlando HD (WKMG-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475481
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kpho_phoenix.png" ,CBS-Phoenix HD (KPHO-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475438
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kpho_phoenix.png" ,CBS-Phoenix HD (KPHO-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475478
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wtsp-tv-us-fl.png" ,CBS-Tampa bay HD (WTSP-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475443
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wtsp-tv-us-fl.png" ,CBS-Tampa bay HD (WTSP-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475483
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" ,ESTRELLAS (102-XEWD.F)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475465
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wdaf-tv-us-mo.png" group-title="" ,FOX Kansas City (WDAF)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475424
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wdaf-tv-us-mo.png" ,FOX Kansas City (WDAF)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475463
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/WAGA-TV.png" ,FOX-Atlanta HD (WAGA-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475445
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/WAGA-TV.png" ,FOX-Atlanta HD (WAGA-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475485
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KTBC-TV.png" ,FOX-Austin HD (KTBC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475444
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KTBC-TV.png" ,FOX-Austin HD (KTBC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475484
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KDFW-TV.png" ,FOX-Dallas HD (KDFW-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475446
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KDFW-TV.png" ,FOX-Dallas HD (KDFW-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475486
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kdvr-tv-us-co.png" ,FOX-Denver HD (KDVR-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475447
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kdvr-tv-us-co.png" ,FOX-Denver HD (KDVR-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475487
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KTTV-TV.png" ,FOX-Los Angeles HD (KTTV-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475448
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KTTV-TV.png" ,FOX-Los Angeles HD (KTTV-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475488
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/WNYW-TV.png" ,FOX-New York HD (WNYW-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475449
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/WNYW-TV.png" ,FOX-New York HD (WNYW-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475489
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KSAZ-TV.png" ,FOX-Phoenix HD (KSAZ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475450
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KSAZ-TV.png" ,FOX-Phoenix HD (KSAZ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475490
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmsb_fox_tucson.png" ,FOX-Tampa Bay HD (WFTX-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475451
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmsb_fox_tucson.png" ,FOX-Tampa Bay HD (WFTX-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475491
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KCPQ-TV.png" ,FOX-Washington HD (KCPQ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475452
+#EXTINF:-1 tvg-logo="http://mediatouch.mine.nu/logo-uI/KCPQ-TV.png" ,FOX-Washington HD (KCPQ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475492
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/ion-tv-east-us.png" ,ION Television
+http://home-playtv.com:8080/GHGXS/VWCJZ/475462
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/ion-tv-east-us.png" ,ION TV East
+http://home-playtv.com:8080/GHGXS/VWCJZ/475461
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kcen_nbc_temple.png" ,NBC-Dallas HD (KCEN-DT)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475453
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kcen_nbc_temple.png" ,NBC-Dallas HD (KCEN-DT)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475493
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kusa_denver.png" ,NBC-Denver HD (KUSA-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475454
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kusa_denver.png" ,NBC-Denver HD (KUSA-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475494
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kprc-tv-us-tx.png" ,NBC-Houston HD (KPRC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475455
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kprc-tv-us-tx.png" ,NBC-Houston HD (KPRC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475495
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/knbc_los_angeles.png" ,NBC-Los Angeles HD (KNBC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475456
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/knbc_los_angeles.png" ,NBC-Los Angeles HD (KNBC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475496
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wtvj_miami.png" ,NBC-Miami HD (WTVJ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475457
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wtvj_miami.png" ,NBC-Miami HD (WTVJ-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475497
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wnbc_nbc4_new_york.png" ,NBC-New York HD (WNBC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475458
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wnbc_nbc4_new_york.png" ,NBC-New York HD (WNBC-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475498
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kpnx12_phoenix.png" ,NBC-Phoenix HD (KPNX-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475459
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kpnx12_phoenix.png" ,NBC-Phoenix HD (KPNX-TV)
+http://home-playtv.com:8080/GHGXS/VWCJZ/475499
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_us.png" ,NBC-Washington HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/475460

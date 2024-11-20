@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://207.229.93.68:1028:25461/images/52a895e599173aaccbc9f443e124c8c4.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/110266.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYri8mTxCKh0uqicf9PTFWZmMAH.jpg" group-title="Temporada 2",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/110268.mp4
+
+#EXTINF:-1 tvg-logo="http://207.229.93.68:1028:25461/images/e896f554156c070789e5f7ff60e1bbff.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/110267.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYri8mTxCKh0uqicf9PTFWZmMAH.jpg" group-title="Temporada 2",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/110269.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYri8mTxCKh0uqicf9PTFWZmMAH.jpg" group-title="Temporada 2",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/110270.mp4
+

@@ -1,0 +1,784 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112880.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112965.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113052.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113125.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112881.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112966.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113053.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113126.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112882.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112967.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113054.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113127.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112883.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112968.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113055.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113128.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112884.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112969.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113056.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113129.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112885.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112970.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113057.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113130.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112886.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112971.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113058.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113131.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112887.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112972.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113059.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113132.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",9
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112888.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",9
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112973.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",9
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113060.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",9
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113133.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",10
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112889.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",10
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112974.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",10
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113061.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",10
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113134.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",11
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112890.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",11
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112975.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",11
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113062.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",11
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113135.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",12
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112891.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",12
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112976.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",12
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113063.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",12
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113136.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",13
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112892.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",13
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112977.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",13
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113064.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",13
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113137.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",14
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112893.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",14
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112978.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",14
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113065.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",14
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113138.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",15
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112894.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",15
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112979.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",15
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113066.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",15
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113139.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",16
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112895.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",16
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112980.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",16
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113067.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 4",16
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113140.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",17
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112896.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",17
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112981.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",17
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113068.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",18
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112897.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",18
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112982.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",18
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113069.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",19
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112898.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",19
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112983.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",19
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113070.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",20
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112899.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",20
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112984.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",20
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113071.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",21
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112900.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",21
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112985.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",21
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113072.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",22
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112901.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",22
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112986.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",22
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113073.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",23
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112902.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",23
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112987.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",23
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113074.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",24
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112903.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",24
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112988.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",24
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113075.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",25
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112904.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",25
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112989.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",25
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113076.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",26
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112905.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",26
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112990.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",26
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113077.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",27
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112906.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",27
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112991.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",27
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113078.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",28
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112907.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",28
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112992.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",28
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113079.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",29
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112908.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",29
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112993.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",29
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113080.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",30
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112909.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",30
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112994.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",30
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113081.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",31
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112910.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",31
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112995.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",31
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113082.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",32
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112911.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",32
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112996.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",32
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113083.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",33
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112912.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",33
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112997.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",33
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113084.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",34
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112913.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",34
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112998.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",34
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113085.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",35
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112914.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",35
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112999.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",35
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113086.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",36
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112915.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",36
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113000.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",36
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113087.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",37
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112916.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",37
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113001.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",37
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113088.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",38
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112917.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",38
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113002.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",38
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113089.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",39
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112918.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",39
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113003.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",39
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113090.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",40
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112919.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",40
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113004.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",40
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113091.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",41
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112920.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",41
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113005.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",41
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113092.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",42
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112921.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",42
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113006.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",42
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113093.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",43
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112922.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",43
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113007.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",43
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113094.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",44
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112923.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",44
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113008.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",44
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113095.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",45
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112924.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",45
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113009.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",45
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113096.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",46
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112925.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",46
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113010.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",46
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113097.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",47
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112926.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",47
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113011.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",47
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113098.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",48
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112927.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",48
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113012.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",48
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113099.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",49
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112928.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",49
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113013.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",49
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113100.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",50
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112929.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",50
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113014.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",50
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113101.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",51
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112930.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",51
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113015.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",51
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113102.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",52
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112931.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",52
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113016.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",52
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113103.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",53
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112932.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",53
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113017.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",53
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113104.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",54
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112933.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",54
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113018.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",54
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113105.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",55
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112934.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",55
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113019.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",55
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113106.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",56
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112935.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",56
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113020.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",56
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113107.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",57
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112936.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",57
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113021.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",57
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113108.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",58
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112937.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",58
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113022.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",58
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113109.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",59
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112938.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",59
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",59
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113110.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",60
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112939.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",60
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113024.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",60
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113111.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",61
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112940.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",61
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113025.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",61
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113112.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",62
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112941.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",62
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113026.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",62
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113113.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",63
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112942.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",63
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113027.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",63
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113114.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",64
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112943.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",64
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113028.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",64
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113115.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",65
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112944.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",65
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113029.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",65
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113116.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",66
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112945.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",66
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113030.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",66
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113117.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",67
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112946.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",67
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113031.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",67
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113118.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",68
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112947.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",68
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113032.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",68
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113119.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",69
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112948.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",69
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113033.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",69
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113120.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",70
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112949.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",70
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113034.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",70
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113121.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",71
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112950.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",71
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113035.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",71
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113122.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",72
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112951.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",72
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113036.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",72
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113123.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",73
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112952.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",73
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113037.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 3",73
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113124.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",74
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112953.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",74
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113038.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",75
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112954.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",75
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113039.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",76
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112955.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",76
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113040.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",77
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112956.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",77
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113041.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",78
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112957.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",78
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113042.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",79
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112958.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",79
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113043.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",80
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112959.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",80
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113044.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",81
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112960.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",81
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113045.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",82
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112961.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",82
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113046.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",83
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112962.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",83
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113047.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",84
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112963.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",84
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113048.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 1",85
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/112964.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",85
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113049.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",86
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113050.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJEFlajBLwdvhFkvDKRX1fCYNJ-JB-XfJX8LnomF2kFkuJjjd" group-title="Temporada 2",87
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/113051.mp4
+

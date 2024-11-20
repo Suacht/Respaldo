@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/a12d12ff74dad40a47685e8efde0a4b6.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102665.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/716e27b4f7f5eaaf0ac321caa5ce3436.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102666.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/c3c48762846582ba747824fe077c478f.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102667.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/6f39c8c4960dfd68b5b036678b3cc8ef.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102668.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/326dc1c067a1ab455d49b6dab53d6537.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102669.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/870bca375ac2308fe52f0ee6859058d9.jpg" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102670.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/7fe865fda6d2f8fe3b3a6ab3e4081348.jpg" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102671.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/820be6f8edaf6050a10461362c9e071d.jpg" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102672.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/1918052347bf77348e85a1fe04b54629.jpg" group-title="Temporada 1",9
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102673.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/bdef63dbcc8e4f503b4a6a01a4db59f8.jpg" group-title="Temporada 1",10
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/102674.mkv
+

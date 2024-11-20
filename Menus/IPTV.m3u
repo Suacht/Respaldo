@@ -4,6 +4,6 @@ http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorA&genero=IPTV&
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZdGdxB4/PREMIUM2-1.jpg",Premium 2
 http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorB&genero=IPTV&online=MENU.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QMp0Yb6/PREMIUM3-1.jpg'",Premium 3
-http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorC&genero=IPTV&online=MENU.m3u
+http://playstr3am.myartsonline.com/PlayStream.php?seccion=ServidorC&genero=IPTV&online=MENU.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kH6tyzv/Premium4.jpg",Premium 4
-http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorD&genero=IPTV&online=MENU.m3u
+http://playstr3am.myartsonline.com/PlayStream.php?seccion=ServidorD&genero=IPTV&online=MENU.m3u

@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png" group-title="" ,CINE US | ActionMax
+http://home-playtv.com:8080/GHGXS/VWCJZ/48613
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" ,CINE US | AMC HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/54281
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Cinemax.us.png" ,CINE US | Cinemax 5 Star Max 
+http://home-playtv.com:8080/GHGXS/VWCJZ/54242
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6334776106.png" ,CINE US | CinemaX ActionMaX East
+http://home-playtv.com:8080/GHGXS/VWCJZ/218710
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Cinemax.us.png" ,CINE US | CineMax EAST
+http://home-playtv.com:8080/GHGXS/VWCJZ/48607
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Cinemax.us.png" ,CINE US | Cinemax West
+http://home-playtv.com:8080/GHGXS/VWCJZ/105981
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/EPIXHits.us.png" ,CINE US | EPIX 
+http://home-playtv.com:8080/GHGXS/VWCJZ/48609
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/EPIXHits.us.png" ,CINE US | EPIX 2 
+http://home-playtv.com:8080/GHGXS/VWCJZ/48611
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/EPIXHits.us.png" ,CINE US | Epix Drive IN
+http://home-playtv.com:8080/GHGXS/VWCJZ/54635
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/EPIXHits.us.png" ,CINE US | EPIX Hits
+http://home-playtv.com:8080/GHGXS/VWCJZ/48610
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FX.us.png" ,CINE US | FX 
+http://home-playtv.com:8080/GHGXS/VWCJZ/51474
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/640px-FX_Movies_logo.svg.png" ,CINE US | FXM 
+http://home-playtv.com:8080/GHGXS/VWCJZ/54280
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Hallmark.us.png" ,CINE US | Hallmark
+http://home-playtv.com:8080/GHGXS/VWCJZ/218173
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Hallmark.us.png" ,CINE US | Hallmark Drama
+http://home-playtv.com:8080/GHGXS/VWCJZ/48617
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Hallmark.us.png" ,CINE US | Hallmark Movies & Mysteries
+http://home-playtv.com:8080/GHGXS/VWCJZ/36483
+#EXTINF:-1 tvg-logo="" ,CINE US | HBO
+http://home-playtv.com:8080/GHGXS/VWCJZ/218176
+#EXTINF:-1 tvg-logo="" ,CINE US | HBO 2
+http://home-playtv.com:8080/GHGXS/VWCJZ/218500
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png" ,CINE US | HBO Comedy
+http://home-playtv.com:8080/GHGXS/VWCJZ/47607
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/789245.png" ,CINE US | HBO Family 
+http://home-playtv.com:8080/GHGXS/VWCJZ/36440
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" ,CINE US | HBO Signature
+http://home-playtv.com:8080/GHGXS/VWCJZ/47606
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/2367787837.png" ,CINE US | HBO West
+http://home-playtv.com:8080/GHGXS/VWCJZ/218834
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" ,CINE US | HBO Zone
+http://home-playtv.com:8080/GHGXS/VWCJZ/47608
+#EXTINF:-1 tvg-logo="" ,CINE US | Horrorify @
+http://home-playtv.com:8080/GHGXS/VWCJZ/199525
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/MoreMax.us.png" ,CINE US | More Max
+http://home-playtv.com:8080/GHGXS/VWCJZ/48608
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png" ,CINE US | Movie Max
+http://home-playtv.com:8080/GHGXS/VWCJZ/108644
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1613826.png" ,CINE US | MoviePlex 
+http://home-playtv.com:8080/GHGXS/VWCJZ/71946
+#EXTINF:-1 tvg-logo="https://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" ,CINE US | TBS HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/54276
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,CINE US | TCM
+http://home-playtv.com:8080/GHGXS/VWCJZ/218244
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png" ,CINE US | ThrillerMax
+http://home-playtv.com:8080/GHGXS/VWCJZ/48614
+#EXTINF:-1 tvg-logo="https://brandslogo.net/wp-content/uploads/2013/06/tnt-express-vector-logo.png" ,CINE US | TNT HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/218657
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/WGN_America_logo_2014.png" ,CINE US | WGN America 
+http://home-playtv.com:8080/GHGXS/VWCJZ/50687

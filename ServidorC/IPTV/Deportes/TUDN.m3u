@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="" ,DEP | TUDN HD USA  ►℗
+http://home-playtv.com:8080/GHGXS/VWCJZ/185148
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" ,DEP | TUDN USA
+http://home-playtv.com:8080/GHGXS/VWCJZ/166029
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/06c9460347bd5f1229d48626ba513feb.png" ,DEP | TUDN USA FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/242045
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbT8oqo.png" ,DP| Zona TUDN USA
+http://home-playtv.com:8080/GHGXS/VWCJZ/456664
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbT8oqo.png" ,TUDN MX  HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/456663
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png" ,TUDNxtra 1 
+http://home-playtv.com:8080/GHGXS/VWCJZ/10212
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra2n_c.png" ,TUDNxtra 2
+http://home-playtv.com:8080/GHGXS/VWCJZ/10215
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra3n_c.png" ,TUDNxtra 3
+http://home-playtv.com:8080/GHGXS/VWCJZ/10216
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra4n_c.png" ,TUDNxtra 4 
+http://home-playtv.com:8080/GHGXS/VWCJZ/10217
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra5n_c.png" ,TUDNxtra 5 
+http://home-playtv.com:8080/GHGXS/VWCJZ/10218
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra6_c.png" ,TUDNxtra 6 
+http://home-playtv.com:8080/GHGXS/VWCJZ/10219
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra7n_c.png" ,TUDNxtra 7 
+http://home-playtv.com:8080/GHGXS/VWCJZ/10220
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra8n_c.png" ,TUDNxtra 8 
+http://home-playtv.com:8080/GHGXS/VWCJZ/10221
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra9n_c.png" ,TUDNxtra 9 
+http://home-playtv.com:8080/GHGXS/VWCJZ/10222
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra10n_c.png" ,TUDNxtra 10(G)
+http://home-playtv.com:8080/GHGXS/VWCJZ/10213
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra11n_c.png" ,TUDNxtra 11 (G)
+http://home-playtv.com:8080/GHGXS/VWCJZ/10214
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/996f778d08234b3fb00ad0f9fcf6115b.png" ,USA | TUDN mexico SD
+http://home-playtv.com:8080/GHGXS/VWCJZ/218637
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/262ff4afeb4bfa5584905a6e5f2d5533.gif" ,Zona Tudn
+http://home-playtv.com:8080/GHGXS/VWCJZ/456662

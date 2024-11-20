@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,ARGENTINA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=ARGENTINA.m3u
+#EXTINF:-1,BOLIVIA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=BOLIVIA.m3u
+#EXTINF:-1,BRASIL
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=BRASIL.m3u
+#EXTINF:-1,CANADÁ
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=CANAD%C3%81.m3u
+#EXTINF:-1,CHILE
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=CHILE.m3u
+#EXTINF:-1,COLOMBIA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=COLOMBIA.m3u
+#EXTINF:-1,COSTA RICA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=COSTA%20RICA.m3u
+#EXTINF:-1,CUBA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=CUBA.m3u
+#EXTINF:-1,ECUADOR
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=ECUADOR.m3u
+#EXTINF:-1,EL SALVADOR
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=EL%20SALVADOR.m3u
+#EXTINF:-1,ESPAA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=ESPAA.m3u
+#EXTINF:-1,GUATEMALA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=GUATEMALA.m3u
+#EXTINF:-1,HONDURAS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=HONDURAS.m3u
+#EXTINF:-1,INDIA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=INDIA.m3u
+#EXTINF:-1,INTERNACIONALES
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=INTERNACIONALES.m3u
+#EXTINF:-1,ITALIA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=ITALIA.m3u
+#EXTINF:-1,MÉXICO
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=M%C3%89XICO.m3u
+#EXTINF:-1,NICARAGUA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=NICARAGUA.m3u
+#EXTINF:-1,PANAMÁ
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=PANAM%C3%81.m3u
+#EXTINF:-1,PARAGUAY
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=PARAGUAY.m3u
+#EXTINF:-1,PERUANAS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=PERUANAS.m3u
+#EXTINF:-1,PERÚ
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=PER%C3%9A.m3u
+#EXTINF:-1,PERÚ ONDEMAND
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=PER%C3%9A%20ONDEMAND.m3u
+#EXTINF:-1,PORTUGAL
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=PORTUGAL.m3u
+#EXTINF:-1,PUERTO RICO
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=PUERTO%20RICO.m3u
+#EXTINF:-1,REP DOMINICANA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=REP%20DOMINICANA.m3u
+#EXTINF:-1,UK
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=UK.m3u
+#EXTINF:-1,URUGUAY
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=URUGUAY.m3u
+#EXTINF:-1,VENEZUELA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Paises&online=VENEZUELA.m3u

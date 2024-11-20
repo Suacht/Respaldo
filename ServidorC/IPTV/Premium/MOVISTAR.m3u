@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2018/02/19/movistarseries700x394-600x400.jpg" ,ES | Movistar Seriemania
+http://home-playtv.com:8080/GHGXS/VWCJZ/47438
+#EXTINF:-1 tvg-logo="https://tveonline.webcindario.com/MCineDoc&Roll.jpg" ,MOV | MOVISTAR CINEDOC&ROLL HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/40697
+#EXTINF:-1 tvg-logo="https://taroca.es/images/canales/movistar-dcine.jpg" ,MOV | MOVISTAR DCINE Ñ  SD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/40700
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,MOV | MOVISTAR Disney + FHD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/40696
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" ,MOVISTAR 0# FULL HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/59531
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" ,MOVISTAR  0# 
+http://home-playtv.com:8080/GHGXS/VWCJZ/59530
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/movistar_accion.png" ,MOVISTAR ACCI©N hd 
+http://home-playtv.com:8080/GHGXS/VWCJZ/59533
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1280px-Movistar_Cine_Espa%C3%B1ol.svg.png" ,MOVISTAR CINE ESPAÑOL FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/203694
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" ,MOVISTAR COMEDIA FHD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/53276
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" ,Movistar Comedia SD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/53280
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" ,MOVISTAR DRAMA
+http://home-playtv.com:8080/GHGXS/VWCJZ/203701
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jmf0Zi7ACYw/V6b5REmQwXI/AAAAAAAAASY/9hSaAuCW-TE2Equ1bZTrai0DLqBavWWhQCLcB/s1600/movistar-dcine.png" , Movistar Drama 
+http://home-playtv.com:8080/GHGXS/VWCJZ/53279
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/2000px-Movistar_Estrenos.svg.png" group-title="" ,MOVISTAR ESTRENOS HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/203682
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/2970868/21-m-seriesmania.png" ,MOVISTAR SERIESMANIA HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/59536

@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" ,ES: LIGA DE CAMPEONES 2 FHD
+http://211979720923165365.ofdp1112.xyz:80/live/PAU240716/ERT5124/165365.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" ,ES: LIGA DE CAMPEONES 2 HD
+http://211979720923282469.ofdp1112.xyz:80/live/PAU240716/ERT5124/282469.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" ,ES: LIGA DE CAMPEONES 2 SD
+http://211979720923282458.ofdp1112.xyz:80/live/PAU240716/ERT5124/282458.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" ,ES: LIGA DE CAMPEONES 3 HD
+http://211979720923282470.ofdp1112.xyz:80/live/PAU240716/ERT5124/282470.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" ,ES: LIGA DE CAMPEONES 3 HD (OP1)
+http://211979720923282471.ofdp1112.xyz:80/live/PAU240716/ERT5124/282471.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" ,ES: LIGA DE CAMPEONES 4 HD
+http://211979720923282472.ofdp1112.xyz:80/live/PAU240716/ERT5124/282472.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" ,ES: LIGA DE CAMPEONES 4 HD (OP1)
+http://211979720923282473.ofdp1112.xyz:80/live/PAU240716/ERT5124/282473.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" ,ES: LIGA DE CAMPEONES 5 HD
+http://211979720923282460.ofdp1112.xyz:80/live/PAU240716/ERT5124/282460.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-5-es.png" ,ES: LIGA DE CAMPEONES 5 HD (OP1)
+http://211979720923282461.ofdp1112.xyz:80/live/PAU240716/ERT5124/282461.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" ,ES: LIGA DE CAMPEONES 6 HD
+http://211979720923282462.ofdp1112.xyz:80/live/PAU240716/ERT5124/282462.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-6-es.png" ,ES: LIGA DE CAMPEONES 6 HD (OP1)
+http://211979720923282463.ofdp1112.xyz:80/live/PAU240716/ERT5124/282463.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" ,ES: LIGA DE CAMPEONES 7 HD
+http://211979720923282464.ofdp1112.xyz:80/live/PAU240716/ERT5124/282464.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-7-es.png" ,ES: LIGA DE CAMPEONES 7 HD (OP1)
+http://211979720923282465.ofdp1112.xyz:80/live/PAU240716/ERT5124/282465.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" ,ES: LIGA DE CAMPEONES 8 HD
+http://211979720923282466.ofdp1112.xyz:80/live/PAU240716/ERT5124/282466.ts
+#EXTINF:-1 tvg-logo="" ,ES: LIGA DE CAMPEONES 9 HD
+http://211979720923631350.ofdp1112.xyz:80/live/PAU240716/ERT5124/631350.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="" ,ES: LIGA DE CAMPEONES FHD
+http://211979720923246282.ofdp1112.xyz:80/live/PAU240716/ERT5124/246282.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" ,ES: LIGA DE CAMPEONES FHD HEVC
+http://211979720923262412.ofdp1112.xyz:80/live/PAU240716/ERT5124/262412.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" ,ES: LIGA DE CAMPEONES HD
+http://211979720923165358.ofdp1112.xyz:80/live/PAU240716/ERT5124/165358.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" ,ES: LIGA DE CAMPEONES SD
+http://211979720923165359.ofdp1112.xyz:80/live/PAU240716/ERT5124/165359.ts

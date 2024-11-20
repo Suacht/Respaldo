@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d30016cc3016e6876c8fdbf97b5571a2.png" ,SK: 360 TUNEBOX HD
+http://211979720923952132.ofdp1112.xyz:80/live/PAU240716/ERT5124/952132.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f454977d938def6480a6c985994fb788.png" ,SK: DAJTO FHD
+http://211979720923962831.ofdp1112.xyz:80/live/PAU240716/ERT5124/962831.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4080c46e9ecb8896ddf152f3fb48d158.png" ,SK: DOMA FHD
+http://211979720923963398.ofdp1112.xyz:80/live/PAU240716/ERT5124/963398.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/4926c018e557e5d8559fd932f38b2d8e.png" ,SK: DUCK TV SD
+http://211979720923959105.ofdp1112.xyz:80/live/PAU240716/ERT5124/959105.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0136870e7f818b32694dd6dfe4496615.png" ,SK: FILMBOX FAMILY SD
+http://211979720923946912.ofdp1112.xyz:80/live/PAU240716/ERT5124/946912.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/d8df3e72e3f79764ce91ffd67f803cc4.png" group-title="" ,SK: FILMBOX PREMIUM FHD
+http://211979720923822666.ofdp1112.xyz:80/live/PAU240716/ERT5124/822666.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c052cb2f2d89b71f58e3ea40058ca9e6.png" ,SK: FILMBOX STARS SD
+http://211979720923961034.ofdp1112.xyz:80/live/PAU240716/ERT5124/961034.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/14007833648e5ccd6be69eb56edfd927.png" ,SK: HBO 2 HD
+http://211979720923957683.ofdp1112.xyz:80/live/PAU240716/ERT5124/957683.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a71ffe03dfe4922e4dd62b65669df7df.png" ,SK: JOJ FAMILY FHD
+http://211979720923962832.ofdp1112.xyz:80/live/PAU240716/ERT5124/962832.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f97c354c0f424cf53f5ce34e496587c2.png" ,SK: JOJ PLUS FHD
+http://211979720923955163.ofdp1112.xyz:80/live/PAU240716/ERT5124/955163.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0d991c8e6a11a68cca4502e583dfbbaa.png" ,SK: JOJKO SD
+http://211979720923962833.ofdp1112.xyz:80/live/PAU240716/ERT5124/962833.ts
+#EXTINF:-1 tvg-logo="" ,SK: LOCALL SD
+http://211979720923954114.ofdp1112.xyz:80/live/PAU240716/ERT5124/954114.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/eb73586a935f7ed2f255154a7b9767a5.png" ,SK: NOVE ZAMKY SD
+http://211979720923961416.ofdp1112.xyz:80/live/PAU240716/ERT5124/961416.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c1962bfff1c3c5857eb5b6d75f2a377d.png" ,SK: SENZI SD
+http://211979720923956238.ofdp1112.xyz:80/live/PAU240716/ERT5124/956238.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1b1b2b9419752bc57a04879470db99bf.png" ,SK: TELEVIZIA OSEM SD
+http://211979720923956239.ofdp1112.xyz:80/live/PAU240716/ERT5124/956239.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/d3013f222515e3d5043167d3485cee48.jpg" ,SK: TV JOJ FHD
+http://211979720923950818.ofdp1112.xyz:80/live/PAU240716/ERT5124/950818.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d2647edd179982206eb2b72028edd974.png" ,SK: TV MARKIZA FHD
+http://211979720923962834.ofdp1112.xyz:80/live/PAU240716/ERT5124/962834.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1b54b575294d852c26f9f4c367562de3.png" ,SK: TV ROMANA HD
+http://211979720923940159.ofdp1112.xyz:80/live/PAU240716/ERT5124/940159.ts
+#EXTINF:-1 tvg-logo="" ,SK: TV RUZINOV FHD
+http://211979720923899359.ofdp1112.xyz:80/live/PAU240716/ERT5124/899359.ts

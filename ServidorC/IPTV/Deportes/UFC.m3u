@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwUJYfkcHoKuzBv5JUisBboYsbR.jpg" ,UFC 266: Volkanovski vs. Ortega (2021) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232601.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqwIihj33Gglp6NBaKxvnPflwTJ.jpg" ,UFC 267: Blachowicz vs. Teixeira (2021) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232602.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5qCPAZCMYmvGyJJm9csGuCM9Nq.jpg" ,UFC 268: Usman vs. Covington 2 (2021) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232603.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubebykbDlHZ6Cy5r3oKOpO3D4AP.jpg" group-title="" ,UFC 269: Oliveira vs. Poirier (2021) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/228961.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p51HZoR0HlEdYa3E2QwYLjHlzk3.jpg" ,UFC 270: Ngannou vs. Gane (2022) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232608.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Kd6hPMgDQnNefA1HxqJqQcu7sK.jpg" ,UFC Fight Night 197: Holloway vs. Rodríguez (2021) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232605.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1kZ2jXxaPYbQNdj7jPP7nZXAWt.jpg" ,UFC Fight Night 199: Lewis vs. Daukaus (2021) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232607.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hOUibAifdlBdI42JzFfy7y5ajh.jpg" ,UFC on ESPN 31: Font vs. Aldo (2021) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232604.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loWOB6qBXD794ayC8XQXS6KJGYz.jpg" ,UFC on ESPN 32: Kattar vs. Chikadze (2022) *s97*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232606.mp4

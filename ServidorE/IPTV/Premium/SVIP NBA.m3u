@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-white-background.png" group-title="" ,NBA 01
+http://211979720923679614.ofdp1112.xyz:80/live/PAU240716/ERT5124/679614.ts
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-white-background.png" ,NBA 02
+http://211979720923679615.ofdp1112.xyz:80/live/PAU240716/ERT5124/679615.ts
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-white-background.png" ,NBA 03
+http://211979720923679616.ofdp1112.xyz:80/live/PAU240716/ERT5124/679616.ts
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-white-background.png" ,NBA 04
+http://211979720923679617.ofdp1112.xyz:80/live/PAU240716/ERT5124/679617.ts
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-white-background.png" ,NBA 05
+http://211979720923679618.ofdp1112.xyz:80/live/PAU240716/ERT5124/679618.ts
+#EXTINF:-1 tvg-logo="" ,NBA 06
+http://211979720923679619.ofdp1112.xyz:80/live/PAU240716/ERT5124/679619.ts
+#EXTINF:-1 tvg-logo="" ,NBA 07
+http://211979720923679620.ofdp1112.xyz:80/live/PAU240716/ERT5124/679620.ts
+#EXTINF:-1 tvg-logo="" ,NBA 08
+http://211979720923679621.ofdp1112.xyz:80/live/PAU240716/ERT5124/679621.ts
+#EXTINF:-1 tvg-logo="" ,NBA 09
+http://211979720923679622.ofdp1112.xyz:80/live/PAU240716/ERT5124/679622.ts
+#EXTINF:-1 tvg-logo="" ,NBA 10
+http://211979720923679623.ofdp1112.xyz:80/live/PAU240716/ERT5124/679623.ts
+#EXTINF:-1 tvg-logo="" ,NBA 11
+http://211979720923679624.ofdp1112.xyz:80/live/PAU240716/ERT5124/679624.ts
+#EXTINF:-1 tvg-logo="" ,NBA 12
+http://211979720923679625.ofdp1112.xyz:80/live/PAU240716/ERT5124/679625.ts
+#EXTINF:-1 tvg-logo="" ,NBA 13
+http://211979720923679626.ofdp1112.xyz:80/live/PAU240716/ERT5124/679626.ts
+#EXTINF:-1 tvg-logo="" ,NBA 14
+http://211979720923679627.ofdp1112.xyz:80/live/PAU240716/ERT5124/679627.ts
+#EXTINF:-1 tvg-logo="" ,NBA 15
+http://211979720923679628.ofdp1112.xyz:80/live/PAU240716/ERT5124/679628.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Milwaukee Bucks
+http://211979720923679642.ofdp1112.xyz:80/live/PAU240716/ERT5124/679642.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Minnesota Timberwolves
+http://211979720923679641.ofdp1112.xyz:80/live/PAU240716/ERT5124/679641.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: New Orleans Pelicans
+http://211979720923679640.ofdp1112.xyz:80/live/PAU240716/ERT5124/679640.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: New York Knicks
+http://211979720923679639.ofdp1112.xyz:80/live/PAU240716/ERT5124/679639.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Oklahoma City Thunder
+http://211979720923679638.ofdp1112.xyz:80/live/PAU240716/ERT5124/679638.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Orlando Magic
+http://211979720923679637.ofdp1112.xyz:80/live/PAU240716/ERT5124/679637.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Philadelphia 76ers
+http://211979720923679636.ofdp1112.xyz:80/live/PAU240716/ERT5124/679636.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Phoenix Suns
+http://211979720923679635.ofdp1112.xyz:80/live/PAU240716/ERT5124/679635.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Portland Trail Blazers
+http://211979720923679634.ofdp1112.xyz:80/live/PAU240716/ERT5124/679634.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Sacramento Kings
+http://211979720923679633.ofdp1112.xyz:80/live/PAU240716/ERT5124/679633.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: San Antonio Spurs
+http://211979720923679632.ofdp1112.xyz:80/live/PAU240716/ERT5124/679632.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Toronto Raptors
+http://211979720923679631.ofdp1112.xyz:80/live/PAU240716/ERT5124/679631.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Utah Jazz
+http://211979720923679630.ofdp1112.xyz:80/live/PAU240716/ERT5124/679630.ts
+#EXTINF:-1 tvg-logo="" ,NBALP: Washington Wizards
+http://211979720923679629.ofdp1112.xyz:80/live/PAU240716/ERT5124/679629.ts

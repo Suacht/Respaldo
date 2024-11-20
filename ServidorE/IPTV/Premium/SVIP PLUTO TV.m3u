@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" ,ANA Y LOS 7 HD
+http://211979720923924015.ofdp1112.xyz:80/live/PAU240716/ERT5124/924015.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" ,ANDRóMEDA HD
+http://211979720923929789.ofdp1112.xyz:80/live/PAU240716/ERT5124/929789.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" ,ASESINATOS DE MIDSOMER HD
+http://211979720923958495.ofdp1112.xyz:80/live/PAU240716/ERT5124/958495.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" ,BBC DRAMA SD
+http://211979720923930821.ofdp1112.xyz:80/live/PAU240716/ERT5124/930821.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" ,BOB ESPONJA HD
+http://211979720923955428.ofdp1112.xyz:80/live/PAU240716/ERT5124/955428.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" ,CAZADOR DE HOMICIDAS HD
+http://211979720923930822.ofdp1112.xyz:80/live/PAU240716/ERT5124/930822.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" ,COMEDIA MADE IN SPAIN HD
+http://211979720923957462.ofdp1112.xyz:80/live/PAU240716/ERT5124/957462.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" ,CURRO JIMéNEZ HD
+http://211979720923908215.ofdp1112.xyz:80/live/PAU240716/ERT5124/908215.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" ,DOCTOR WHO HD
+http://211979720923943230.ofdp1112.xyz:80/live/PAU240716/ERT5124/943230.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" ,EL ENCANTADOR DE PERROS HD
+http://211979720923930823.ofdp1112.xyz:80/live/PAU240716/ERT5124/930823.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" ,EN EL PUNTO DE MIRA SD
+http://211979720923957996.ofdp1112.xyz:80/live/PAU240716/ERT5124/957996.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" ,EURONEWS HD
+http://211979720923952549.ofdp1112.xyz:80/live/PAU240716/ERT5124/952549.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="" ,FAILARMY HD
+http://211979720923881580.ofdp1112.xyz:80/live/PAU240716/ERT5124/881580.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" ,ICARLY HD
+http://211979720923931648.ofdp1112.xyz:80/live/PAU240716/ERT5124/931648.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" ,LAS REGLAS DEL JUEGO HD
+http://211979720923953985.ofdp1112.xyz:80/live/PAU240716/ERT5124/953985.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" ,LAS TORTUGAS NINJA HD
+http://211979720923959273.ofdp1112.xyz:80/live/PAU240716/ERT5124/959273.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" ,LOS ARCHIVOS DEL FBI HD
+http://211979720923919515.ofdp1112.xyz:80/live/PAU240716/ERT5124/919515.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" ,LOS NUEVOS DETECTIVES HD
+http://211979720923956949.ofdp1112.xyz:80/live/PAU240716/ERT5124/956949.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" ,LOVE NATURE HD
+http://211979720923957997.ofdp1112.xyz:80/live/PAU240716/ERT5124/957997.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" ,MTV CATFISH TV SHOW HD
+http://211979720923933039.ofdp1112.xyz:80/live/PAU240716/ERT5124/933039.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" ,MTV EMBARAZADA A LOS 16 SD
+http://211979720923941462.ofdp1112.xyz:80/live/PAU240716/ERT5124/941462.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" ,MTV ORIGINALS HD
+http://211979720923883723.ofdp1112.xyz:80/live/PAU240716/ERT5124/883723.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" ,MTV REALITIES SD
+http://211979720923930827.ofdp1112.xyz:80/live/PAU240716/ERT5124/930827.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" ,MTV TATTOO A DOS HD
+http://211979720923919516.ofdp1112.xyz:80/live/PAU240716/ERT5124/919516.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" ,MTV TEEN MOM HD
+http://211979720923913343.ofdp1112.xyz:80/live/PAU240716/ERT5124/913343.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" ,PLANETA JUNIOR TV HD
+http://211979720923908216.ofdp1112.xyz:80/live/PAU240716/ERT5124/908216.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" ,PLUTO TV ANIMALES HD
+http://211979720923955430.ofdp1112.xyz:80/live/PAU240716/ERT5124/955430.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" ,PLUTO TV ANIME HD
+http://211979720923916248.ofdp1112.xyz:80/live/PAU240716/ERT5124/916248.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" ,PLUTO TV CINE ACCIóN HD
+http://211979720923914748.ofdp1112.xyz:80/live/PAU240716/ERT5124/914748.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" ,PLUTO TV CINE CLáSICO HD
+http://211979720923930828.ofdp1112.xyz:80/live/PAU240716/ERT5124/930828.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" ,PLUTO TV CINE COMEDIA HD
+http://211979720923936886.ofdp1112.xyz:80/live/PAU240716/ERT5124/936886.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" ,PLUTO TV CINE DRAMA HD
+http://211979720923962691.ofdp1112.xyz:80/live/PAU240716/ERT5124/962691.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" ,PLUTO TV CINE ESTELAR HD
+http://211979720923930829.ofdp1112.xyz:80/live/PAU240716/ERT5124/930829.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" ,PLUTO TV CINE ROMáNTICO HD
+http://211979720923941463.ofdp1112.xyz:80/live/PAU240716/ERT5124/941463.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" ,PLUTO TV COCINA HD
+http://211979720923881607.ofdp1112.xyz:80/live/PAU240716/ERT5124/881607.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" ,PLUTO TV INDIES HD
+http://211979720923956950.ofdp1112.xyz:80/live/PAU240716/ERT5124/956950.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" ,PLUTO TV KIDS HD
+http://211979720923947256.ofdp1112.xyz:80/live/PAU240716/ERT5124/947256.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" ,PLUTO TV MOTOR HD
+http://211979720923955431.ofdp1112.xyz:80/live/PAU240716/ERT5124/955431.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" ,PLUTO TV PARANORMAL HD
+http://211979720923934986.ofdp1112.xyz:80/live/PAU240716/ERT5124/934986.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" ,PLUTO TV SCI-FI HD
+http://211979720923954608.ofdp1112.xyz:80/live/PAU240716/ERT5124/954608.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" ,PLUTO TV SERIES COMEDIA HD
+http://211979720923958496.ofdp1112.xyz:80/live/PAU240716/ERT5124/958496.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" ,PLUTO TV SERIES HD
+http://211979720923914012.ofdp1112.xyz:80/live/PAU240716/ERT5124/914012.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" ,PLUTO TV TELENOVELAS HD
+http://211979720923955432.ofdp1112.xyz:80/live/PAU240716/ERT5124/955432.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" ,PLUTO TV THRILLERS HD
+http://211979720923899388.ofdp1112.xyz:80/live/PAU240716/ERT5124/899388.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" ,PLUTO TV TOONS CLáSICO HD
+http://211979720923881617.ofdp1112.xyz:80/live/PAU240716/ERT5124/881617.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" ,PLUTO TV VIAJES HD
+http://211979720923933040.ofdp1112.xyz:80/live/PAU240716/ERT5124/933040.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" ,RUGRATS HD
+http://211979720923950245.ofdp1112.xyz:80/live/PAU240716/ERT5124/950245.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" ,TOP GEAR HD
+http://211979720923947257.ofdp1112.xyz:80/live/PAU240716/ERT5124/947257.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" ,TUNING HD
+http://211979720923936887.ofdp1112.xyz:80/live/PAU240716/ERT5124/936887.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" ,VAYA SEMANITA HD
+http://211979720923887669.ofdp1112.xyz:80/live/PAU240716/ERT5124/887669.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" ,VH1 CLASSICS HD
+http://211979720923958497.ofdp1112.xyz:80/live/PAU240716/ERT5124/958497.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" ,WIPEOUT HD
+http://211979720923915327.ofdp1112.xyz:80/live/PAU240716/ERT5124/915327.ts

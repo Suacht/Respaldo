@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" ,CUL | Animal Planet HD op2
+http://home-playtv.com:8080/GHGXS/VWCJZ/9517
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="" ,CUL | Animal Planet HD SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/229242
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" ,CUL | Animal Planet NORTE
+http://home-playtv.com:8080/GHGXS/VWCJZ/439824
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" ,CUL | Animal Planet SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/276193
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/canal_cocina.png" ,CUL | Canal Cocina
+http://home-playtv.com:8080/GHGXS/VWCJZ/453809
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,CUL | Discovery Channel FHD NORTE
+http://home-playtv.com:8080/GHGXS/VWCJZ/9520
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,CUL | Discovery Channel Lat
+http://home-playtv.com:8080/GHGXS/VWCJZ/186572
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,CUL | Discovery Channel SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/93442
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,CUL | Discovery en Español  HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/452236
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/discovery-familia_c.png" ,CUL | Discovery Familia 
+http://home-playtv.com:8080/GHGXS/VWCJZ/10769
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" ,CUL | Discovery Home & Health FHD NORTE
+http://home-playtv.com:8080/GHGXS/VWCJZ/242008
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" ,CUL | Discovery Home & Health FHD SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/439759
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" ,CUL | Discovery Home & Health LAT
+http://home-playtv.com:8080/GHGXS/VWCJZ/273322
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" ,CUL | Discovery Home & Health SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/53078
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/449px-Science_Channel_logo.svg.png" ,CUL | Discovery Science FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/36466
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" ,CUL | Discovery Theater FHD SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/439786
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,CUL | Discovery TLC  
+http://home-playtv.com:8080/GHGXS/VWCJZ/268886
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,CUL | Discovery TLC FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/242009
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,CUL | Discovery TLC HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/199201
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,CUL | Discovery TLC HD MEX
+http://home-playtv.com:8080/GHGXS/VWCJZ/19596
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,CUL | Discovery Turbo HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/54283
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,CUL | Discovery Turbo SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/19505
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" ,CUL | Discovery World FHD NORTE
+http://home-playtv.com:8080/GHGXS/VWCJZ/53077
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" ,CUL | Discovery World SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/9516
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" ,CUL | DW América
+http://home-playtv.com:8080/GHGXS/VWCJZ/181177
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" ,CUL | HGTV HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/452238
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" ,CUL | HGTV MX
+http://home-playtv.com:8080/GHGXS/VWCJZ/178146
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" ,CUL | History 2 FHD SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/105685
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" ,CUL | History 2 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/19542
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" ,CUL | History 2 SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/439767
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" ,CUL | History Channel HD SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/242013
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" ,CUL | History Channel SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/186570
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" ,CUL | History FHD NORTE
+http://home-playtv.com:8080/GHGXS/VWCJZ/53074
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" ,CUL | Investigation Discovery FHD NORTE
+http://home-playtv.com:8080/GHGXS/VWCJZ/439789
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" ,CUL | Investigation Discovery SD
+http://home-playtv.com:8080/GHGXS/VWCJZ/53051
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" ,CUL | Investigation Discovery SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/36458
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" ,CUL | Love Nature
+http://home-playtv.com:8080/GHGXS/VWCJZ/276310
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" ,CUL | Nat Geo FHD NORTE
+http://home-playtv.com:8080/GHGXS/VWCJZ/439788
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s72449_h15_aa.png" ,CUL | NAT GEO Mundo 
+http://home-playtv.com:8080/GHGXS/VWCJZ/54154
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" ,CUL | Nat Geo SUR
+http://home-playtv.com:8080/GHGXS/VWCJZ/242015
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" ,CUL | NAT GEO Wild SD
+http://home-playtv.com:8080/GHGXS/VWCJZ/36470
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" ,CUL | Natgeo Wild
+http://home-playtv.com:8080/GHGXS/VWCJZ/452237
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/SaberMas_295x98.png" ,CUL | Saber Mas HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/453808

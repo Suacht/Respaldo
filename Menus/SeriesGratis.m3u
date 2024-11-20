@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 ,Series 1
-http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorE&genero=Series&online=TODOMENU.m3u
+http://playstr3am.myartsonline.com/PlayStream.php?seccion=ServidorE&genero=Series&online=TODOMENU.m3u
 #EXTINF:-1 ,Series 2
-http://playstr3am.myartsonline.com/PlayStr3am.php?seccion=ServidorF&genero=Series&online=TODOMENU.m3u
+http://playstr3am.myartsonline.com/PlayStream.php?seccion=ServidorF&genero=Series&online=TODOMENU.m3u

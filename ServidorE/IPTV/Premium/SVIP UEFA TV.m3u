@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" group-title="" ,UEFA EVENTO 1
+http://211979720923663334.ofdp1112.xyz:80/live/PAU240716/ERT5124/663334.ts
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" ,UEFA EVENTO 2
+http://211979720923663335.ofdp1112.xyz:80/live/PAU240716/ERT5124/663335.ts
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" ,UEFA EVENTO 3
+http://211979720923663336.ofdp1112.xyz:80/live/PAU240716/ERT5124/663336.ts
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" ,UEFA EVENTO 4
+http://211979720923663337.ofdp1112.xyz:80/live/PAU240716/ERT5124/663337.ts
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" ,UEFA EVENTO 5
+http://211979720923663338.ofdp1112.xyz:80/live/PAU240716/ERT5124/663338.ts
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" ,UEFA EVENTO 6
+http://211979720923663339.ofdp1112.xyz:80/live/PAU240716/ERT5124/663339.ts
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/uefa-logo.png" ,UEFA EVENTO 7
+http://211979720923663340.ofdp1112.xyz:80/live/PAU240716/ERT5124/663340.ts

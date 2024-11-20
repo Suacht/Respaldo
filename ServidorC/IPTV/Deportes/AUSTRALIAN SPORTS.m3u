@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" ,AU S | ESPN 1
+http://home-playtv.com:8080/GHGXS/VWCJZ/209700
+#EXTINF:-1 tvg-logo="" ,AU S | ESPN 2
+http://home-playtv.com:8080/GHGXS/VWCJZ/209699
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6550.1489224113.png" group-title="" ,AU S | Fox Sports 501
+http://home-playtv.com:8080/GHGXS/VWCJZ/181214
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BdfIxQX74fQhAnWvnUhGOBAttYa2iauSbw&usqp=CAU" ,AU S | Fox Sports 502
+http://home-playtv.com:8080/GHGXS/VWCJZ/181215
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Fox-sports-3-colour.png/revision/latest/scale-to-width-down/340?cb=20170407121736" ,AU S | Fox Sports 503
+http://home-playtv.com:8080/GHGXS/VWCJZ/181216
+#EXTINF:-1 tvg-logo="https://apphome.digital/logos/fox504.png" ,AU S | Fox Sports 504
+http://home-playtv.com:8080/GHGXS/VWCJZ/209695
+#EXTINF:-1 tvg-logo="" ,AU S | Fox Sports 505
+http://home-playtv.com:8080/GHGXS/VWCJZ/209694
+#EXTINF:-1 tvg-logo="" ,AU S | Fox Sports 506
+http://home-playtv.com:8080/GHGXS/VWCJZ/209693
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/49463466142_b37ff7b752_w.jpg" ,AU S | Fox Sports 507
+http://home-playtv.com:8080/GHGXS/VWCJZ/181218
+#EXTINF:-1 tvg-logo="" ,AU S | Fox Sports NEWS
+http://home-playtv.com:8080/GHGXS/VWCJZ/209703

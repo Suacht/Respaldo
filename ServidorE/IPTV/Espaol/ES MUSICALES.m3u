@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://chat.one.by/images/logo.png" ,1MUZ FHD
+http://211979720923276234.ofdp1112.xyz:80/live/PAU240716/ERT5124/276234.ts
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/6978/logo_i%20one%20tv.png" ,1MUZ RU FHD
+http://211979720923290431.ofdp1112.xyz:80/live/PAU240716/ERT5124/290431.ts
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/6978/logo_i%20one%20tv.png" ,1MUZ RU SD
+http://211979720923272493.ofdp1112.xyz:80/live/PAU240716/ERT5124/272493.ts
+#EXTINF:-1 tvg-logo="http://chat.one.by/images/logo.png" group-title="" ,1MUZ SD
+http://211979720923272492.ofdp1112.xyz:80/live/PAU240716/ERT5124/272492.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/30atv/picture?width=320&height=320" ,30A MUSIC HD
+http://211979720923272494.ofdp1112.xyz:80/live/PAU240716/ERT5124/272494.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/DittyTV/picture?width=320&height=320" ,DITTY TV HD
+http://211979720923272496.ofdp1112.xyz:80/live/PAU240716/ERT5124/272496.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/hitmusichu/picture?width=320&height=320" ,HIT MUSIC CHANNEL HD
+http://211979720923290801.ofdp1112.xyz:80/live/PAU240716/ERT5124/290801.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320" ,IBIZA GLOBAL TV SD
+http://211979720923272498.ofdp1112.xyz:80/live/PAU240716/ERT5124/272498.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" ,LA MEGA MUNDIAL HD
+http://211979720923294835.ofdp1112.xyz:80/live/PAU240716/ERT5124/294835.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=320&height=320" ,M2O HD
+http://211979720923277446.ofdp1112.xyz:80/live/PAU240716/ERT5124/277446.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" ,M2O MUSIC HD
+http://211979720923272500.ofdp1112.xyz:80/live/PAU240716/ERT5124/272500.ts
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/07d10-musictop.png" ,MUSICTOP HD
+http://211979720923291664.ofdp1112.xyz:80/live/PAU240716/ERT5124/291664.ts
+#EXTINF:-1 tvg-logo="http://s2.subirimagenes.com/privadas/previo/thump_2448046captura-de-pantalla.png" ,NG RADIO TV HD
+http://211979720923274958.ofdp1112.xyz:80/live/PAU240716/ERT5124/274958.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX91cBzrg8BD9znOm7CmGiAT1vAOxDUhAkcJL4UzHlgSJsDGTs" ,OCKO EXPRESS SD
+http://211979720923272503.ofdp1112.xyz:80/live/PAU240716/ERT5124/272503.ts
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/ocko.png" ,OCKO SD
+http://211979720923272504.ofdp1112.xyz:80/live/PAU240716/ERT5124/272504.ts
+#EXTINF:-1 tvg-logo="https://djoldies.cz/wp-content/uploads/2017/12/Ocko-star-logo.png" ,OCKO START SD
+http://211979720923272505.ofdp1112.xyz:80/live/PAU240716/ERT5124/272505.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320" ,PORTALFOXMIX SD
+http://211979720923273846.ofdp1112.xyz:80/live/PAU240716/ERT5124/273846.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/Radio_Contact_Vision.png/revision/latest?cb=20160522131341" ,RADIO CONTACT HD
+http://211979720923292645.ofdp1112.xyz:80/live/PAU240716/ERT5124/292645.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ReadyTelevision/picture?width=320&height=320" ,READY TV HD
+http://211979720923291412.ofdp1112.xyz:80/live/PAU240716/ERT5124/291412.ts
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.ru/wp-content/uploads/2017/11/retro.jpeg" ,RETRO MUSIC TV SD
+http://211979720923276235.ofdp1112.xyz:80/live/PAU240716/ERT5124/276235.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" ,V2BEAT TV HD
+http://211979720923272509.ofdp1112.xyz:80/live/PAU240716/ERT5124/272509.ts

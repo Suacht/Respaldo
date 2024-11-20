@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://lo1.in/uk/nfl.png" group-title="" ,NFL: LIVE 01 COLTS HD
+http://211979720923620113.ofdp1112.xyz:80/live/PAU240716/ERT5124/620113.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/uk/nfl.png" ,NFL: LIVE 02 COWBOYS HD
+http://211979720923620114.ofdp1112.xyz:80/live/PAU240716/ERT5124/620114.ts

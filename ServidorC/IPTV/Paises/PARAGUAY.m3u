@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" ,PY | Gen TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/50466
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/5c2c24c195fb88bab50c0632e50e0bdb.png" group-title="" ,PY |  Noticias PY 
+http://home-playtv.com:8080/GHGXS/VWCJZ/50475
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png" ,PY |  Paravision
+http://home-playtv.com:8080/GHGXS/VWCJZ/56703
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png" ,PY |  Sur TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/56704
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png" ,PY |  Tigo Sports
+http://home-playtv.com:8080/GHGXS/VWCJZ/56706
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1-620x350.png" ,PY | +C9N SD
+http://home-playtv.com:8080/GHGXS/VWCJZ/50465
+#EXTINF:-1 tvg-logo="" ,PY | El Trece HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/56711
+#EXTINF:-1 tvg-logo="https://latele.com.py/wp-content/themes/latele/img/logo-latele.png" ,PY | La Tele
+http://home-playtv.com:8080/GHGXS/VWCJZ/186595
+#EXTINF:-1 tvg-logo="https://www.guaranivirtual.shop/wp-content/uploads/2019/12/LaTele_Paraguay.png" ,PY | La Tele HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/56701
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" ,PY | Paraguay TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/186597
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" ,PY | Paravisión 
+http://home-playtv.com:8080/GHGXS/VWCJZ/186599
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/1c20e1664ed5c00a22de1a72be46582a.jpg" ,PY | RCC
+http://home-playtv.com:8080/GHGXS/VWCJZ/50478
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/b363e844816dcd2f5bf3c8a520e7d8b3.jpg" ,PY | SNT
+http://home-playtv.com:8080/GHGXS/VWCJZ/50479
+#EXTINF:-1 tvg-logo="" ,PY | STN
+http://home-playtv.com:8080/GHGXS/VWCJZ/439766
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/9667cdd7b147e56b7ed17270b66f5a3e.png" ,PY | Telefuturo ►℗
+http://home-playtv.com:8080/GHGXS/VWCJZ/50473
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/c8d8c3c0801464e2c31d2ec6ffe1d6f7.jpg" ,PY | Unicanal
+http://home-playtv.com:8080/GHGXS/VWCJZ/50485
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs9LSD5QZtigJjmsYeTbE7sJgZjjKUQY8kAaExNbVhh04FDkJnyVjfpQw09vMbjQlTjU0&usqp=CAU" ,PY | Unicanal HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/186602
+#EXTINF:-1 tvg-logo="" ,UR | La tele
+http://home-playtv.com:8080/GHGXS/VWCJZ/469065

@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9120294969624eecdcbaadb5deb8dfef.png" ,TH: ALTV 4 FHD
+http://211979720923962484.ofdp1112.xyz:80/live/PAU240716/ERT5124/962484.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" ,TH: AMARIN 34 SD
+http://211979720923931241.ofdp1112.xyz:80/live/PAU240716/ERT5124/931241.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/80c6a4b784d42d91851c65d6dc8ef19e.png" ,TH: CARTOON NETWORK HD
+http://211979720923936913.ofdp1112.xyz:80/live/PAU240716/ERT5124/936913.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f517fea5b98139e9e249d94b5d708aab.png" ,TH: CHANNEL 3 SD
+http://211979720923960914.ofdp1112.xyz:80/live/PAU240716/ERT5124/960914.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/bd9162081caaaf68d71f44ffe9d9ddfb.png" ,TH: CHANNEL 8 FHD
+http://211979720923957572.ofdp1112.xyz:80/live/PAU240716/ERT5124/957572.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9293a8594a87e260ed7f12f9a6bfe565.png" group-title="" ,TH: CHANNEL 138 MV LAO HD
+http://211979720923781086.ofdp1112.xyz:80/live/PAU240716/ERT5124/781086.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7541ac1a7db19ee409b58b0d458c4256.png" ,TH: DISCOVERY CHANNEL ASIA HD
+http://211979720923962485.ofdp1112.xyz:80/live/PAU240716/ERT5124/962485.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fe4dd8195742e4c54f06b373117093ac.png" ,TH: DL TV 2 FHD
+http://211979720923903210.ofdp1112.xyz:80/live/PAU240716/ERT5124/903210.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fc9bc1ee1bf930d3672eb0fc4ca497bb.png" ,TH: DL TV 3 FHD
+http://211979720923951884.ofdp1112.xyz:80/live/PAU240716/ERT5124/951884.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a34d5a97d2e75448f8eb60c5848d353c.png" ,TH: DL TV 4 FHD
+http://211979720923955470.ofdp1112.xyz:80/live/PAU240716/ERT5124/955470.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/da2c0f95aece43b895e010b139e75974.png" ,TH: DL TV 5 FHD
+http://211979720923957573.ofdp1112.xyz:80/live/PAU240716/ERT5124/957573.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d04a293e7c58adcbabfc3bb5120a4a63.png" ,TH: DL TV 6 FHD
+http://211979720923904008.ofdp1112.xyz:80/live/PAU240716/ERT5124/904008.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a1566b23a8220fc448d6b7beb09d4a98.png" ,TH: DL TV 7 FHD
+http://211979720923954246.ofdp1112.xyz:80/live/PAU240716/ERT5124/954246.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/7979a3363ff951342e4e76ce397da1f0.png" ,TH: DL TV 8 FHD
+http://211979720923920498.ofdp1112.xyz:80/live/PAU240716/ERT5124/920498.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/5b2af3d35e0b93de9291b053c9bcb43b.png" ,TH: DL TV 9 FHD
+http://211979720923949565.ofdp1112.xyz:80/live/PAU240716/ERT5124/949565.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/b3484b1f99775c0fff3647578cd88887.png" ,TH: DL TV 11 FHD
+http://211979720923943810.ofdp1112.xyz:80/live/PAU240716/ERT5124/943810.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/86168cce2d600d5f2773e84702a59059.png" ,TH: DL TV 13 FHD
+http://211979720923952654.ofdp1112.xyz:80/live/PAU240716/ERT5124/952654.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/7efc4fe7a014e33da62fcbbb4a4cf22b.png" ,TH: GOOD IDEA TV HD
+http://211979720923949566.ofdp1112.xyz:80/live/PAU240716/ERT5124/949566.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9ebb303def714bd61da2906264519a7a.png" ,TH: MCOT HD
+http://211979720923956512.ofdp1112.xyz:80/live/PAU240716/ERT5124/956512.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/10219085f6f26ead4da27d8f83dbe516.png" ,TH: MONO 29 SD
+http://211979720923956513.ofdp1112.xyz:80/live/PAU240716/ERT5124/956513.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" ,TH: NEW 18 SD
+http://211979720923963276.ofdp1112.xyz:80/live/PAU240716/ERT5124/963276.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" ,TH: THAI PARLIAMENT TV FHD
+http://211979720923936914.ofdp1112.xyz:80/live/PAU240716/ERT5124/936914.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" ,TH: THAI PBS 3 FHD
+http://211979720923957574.ofdp1112.xyz:80/live/PAU240716/ERT5124/957574.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" ,TH: THAI TV 5 FHD
+http://211979720923954247.ofdp1112.xyz:80/live/PAU240716/ERT5124/954247.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" ,TH: THAIRATH TV 32 HD
+http://211979720923960916.ofdp1112.xyz:80/live/PAU240716/ERT5124/960916.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" ,TH: WHITE CHANNEL FHD
+http://211979720923940910.ofdp1112.xyz:80/live/PAU240716/ERT5124/940910.ts

@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="" ,ES: ALQUILER 1 FHD
+http://211979720923267808.ofdp1112.xyz:80/live/PAU240716/ERT5124/267808.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" ,ES: ALQUILER 1 HD
+http://211979720923275903.ofdp1112.xyz:80/live/PAU240716/ERT5124/275903.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" ,ES: ALQUILER 2 FHD
+http://211979720923267809.ofdp1112.xyz:80/live/PAU240716/ERT5124/267809.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" ,ES: ALQUILER 2 HD
+http://211979720923275904.ofdp1112.xyz:80/live/PAU240716/ERT5124/275904.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" ,ES: ALQUILER 3 FHD
+http://211979720923267810.ofdp1112.xyz:80/live/PAU240716/ERT5124/267810.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" ,ES: ALQUILER 3 HD
+http://211979720923277422.ofdp1112.xyz:80/live/PAU240716/ERT5124/277422.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" ,ES: ALQUILER 4 FHD
+http://211979720923267811.ofdp1112.xyz:80/live/PAU240716/ERT5124/267811.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a7c9182a22ffa6d277b8e3e7d433b8b.png" ,ES: ALQUILER 4 HD
+http://211979720923277423.ofdp1112.xyz:80/live/PAU240716/ERT5124/277423.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" ,ES: ALQUILER 5 FHD
+http://211979720923267812.ofdp1112.xyz:80/live/PAU240716/ERT5124/267812.ts
+#EXTINF:-1 tvg-logo="s:1:/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kNz-3-SWt0HH1ZoDy-iwsRQYI-Sp8V.png" ,ES: ALQUILER 6 FHD
+http://211979720923289390.ofdp1112.xyz:80/live/PAU240716/ERT5124/289390.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" ,ES: ALQUILER 6 HD
+http://211979720923267842.ofdp1112.xyz:80/live/PAU240716/ERT5124/267842.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b67d9f90addab3b6bf844a123616b8c.png" ,ES: ALQUILER 7 HD
+http://211979720923267845.ofdp1112.xyz:80/live/PAU240716/ERT5124/267845.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" ,ES: ALQUILER 8 FHD
+http://211979720923277789.ofdp1112.xyz:80/live/PAU240716/ERT5124/277789.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" ,ES: ALQUILER 8 HD
+http://211979720923277790.ofdp1112.xyz:80/live/PAU240716/ERT5124/277790.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93b2ba8ff62cdb4e62e16fb148b20114.png" ,ES: ALQUILER 9 FHD
+http://211979720923267848.ofdp1112.xyz:80/live/PAU240716/ERT5124/267848.ts
+#EXTINF:-1 tvg-logo="" ,ES: ALQUILER 9 HD
+http://211979720923283122.ofdp1112.xyz:80/live/PAU240716/ERT5124/283122.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bebc225383c41e3b57a09377b383d0cc.png" ,ES: ALQUILER 10 FHD
+http://211979720923267837.ofdp1112.xyz:80/live/PAU240716/ERT5124/267837.ts
+#EXTINF:-1 tvg-logo="" ,ES: ALQUILER 10 HD
+http://211979720923287103.ofdp1112.xyz:80/live/PAU240716/ERT5124/287103.ts
+#EXTINF:-1 tvg-logo="" ,ES: ALQUILER 11 HD
+http://211979720923277781.ofdp1112.xyz:80/live/PAU240716/ERT5124/277781.ts
+#EXTINF:-1 tvg-logo="" ,ES: ALQUILER 12 FHD
+http://211979720923277782.ofdp1112.xyz:80/live/PAU240716/ERT5124/277782.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 1 FHD
+http://211979720923279375.ofdp1112.xyz:80/live/PAU240716/ERT5124/279375.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 1 HD
+http://211979720923279332.ofdp1112.xyz:80/live/PAU240716/ERT5124/279332.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,ES: TAQUILLA 2 FHD
+http://211979720923293864.ofdp1112.xyz:80/live/PAU240716/ERT5124/293864.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 2 HD
+http://211979720923279334.ofdp1112.xyz:80/live/PAU240716/ERT5124/279334.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,ES: TAQUILLA 3 FHD
+http://211979720923293865.ofdp1112.xyz:80/live/PAU240716/ERT5124/293865.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 3 HD
+http://211979720923279335.ofdp1112.xyz:80/live/PAU240716/ERT5124/279335.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 4 FHD
+http://211979720923279377.ofdp1112.xyz:80/live/PAU240716/ERT5124/279377.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 4 HD
+http://211979720923279336.ofdp1112.xyz:80/live/PAU240716/ERT5124/279336.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 5 HD
+http://211979720923279337.ofdp1112.xyz:80/live/PAU240716/ERT5124/279337.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 6 HD
+http://211979720923279338.ofdp1112.xyz:80/live/PAU240716/ERT5124/279338.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 7 HD
+http://211979720923279339.ofdp1112.xyz:80/live/PAU240716/ERT5124/279339.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,ES: TAQUILLA 8 HD
+http://211979720923279340.ofdp1112.xyz:80/live/PAU240716/ERT5124/279340.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,ES: TAQUILLA 9 HD
+http://211979720923279378.ofdp1112.xyz:80/live/PAU240716/ERT5124/279378.ts
+#EXTINF:-1 tvg-logo="" ,ES: TAQUILLA 10 HD
+http://211979720923279333.ofdp1112.xyz:80/live/PAU240716/ERT5124/279333.ts

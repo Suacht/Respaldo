@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,Argentina
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=Argentina.m3u
+#EXTINF:-1,Chile
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=Chile.m3u
+#EXTINF:-1,Colombia
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=Colombia.m3u
+#EXTINF:-1,Ecuador
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=Ecuador.m3u
+#EXTINF:-1,ES   MOVISTAR
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20%20%20MOVISTAR.m3u
+#EXTINF:-1,ES  DAZN
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20%20DAZN.m3u
+#EXTINF:-1,ES  DAZN F1
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20%20DAZN%20F1.m3u
+#EXTINF:-1,ES  DAZN LALIGA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20%20DAZN%20LALIGA.m3u
+#EXTINF:-1,ES  M LALIGA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20%20M%20LALIGA.m3u
+#EXTINF:-1,ES  M LIGA DE CAMPEONES
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20%20M%20LIGA%20DE%20CAMPEONES.m3u
+#EXTINF:-1,ES AUTONOMICOS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20AUTONOMICOS.m3u
+#EXTINF:-1,ES DAZN LIGA F
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20DAZN%20LIGA%20F.m3u
+#EXTINF:-1,ES DEPORTES
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20DEPORTES.m3u
+#EXTINF:-1,ES EUROSPORT
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20EUROSPORT.m3u
+#EXTINF:-1,ES FEFTV
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20FEFTV.m3u
+#EXTINF:-1,ES M COPA DEL REY
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20M%20COPA%20DEL%20REY.m3u
+#EXTINF:-1,ES M PELICULAS PPV
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20M%20PELICULAS%20PPV.m3u
+#EXTINF:-1,ES M SUPERCOPA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20M%20SUPERCOPA.m3u
+#EXTINF:-1,ES MUSICALES
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20MUSICALES.m3u
+#EXTINF:-1,ES ONETORO PPV
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20ONETORO%20PPV.m3u
+#EXTINF:-1,ES OTRAS PLATAFORMAS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=ES%20OTRAS%20PLATAFORMAS.m3u
+#EXTINF:-1,Latino
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=Latino.m3u
+#EXTINF:-1,Mexico
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=Mexico.m3u
+#EXTINF:-1,Paraguay
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=Paraguay.m3u
+#EXTINF:-1,Peru
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=Peru.m3u
+#EXTINF:-1,SPAIN 24_7
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Espaol&online=SPAIN%2024_7.m3u

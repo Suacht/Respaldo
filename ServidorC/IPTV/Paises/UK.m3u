@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png" group-title="" ,Comedy Central
+http://home-playtv.com:8080/GHGXS/VWCJZ/52246
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/c7085c7573a50d680ee864ebb6595632.png" ,Food Network
+http://home-playtv.com:8080/GHGXS/VWCJZ/55765
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ea/3e/6e/ea3e6e5e093191bde36bc08ebdca66d4.png" ,UK NICK JR
+http://home-playtv.com:8080/GHGXS/VWCJZ/52287
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-plc-vector-logo-small.png" ,UK SKY ACTION(i)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56538
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-plc-vector-logo-small.png" ,UK SKY CRIME & THRILLER(M)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52231
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-plc-vector-logo-small.png" ,UK SKY SCI-FI & HORROR(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56539
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-plc-vector-logo-small.png" ,UK SKY TWO
+http://home-playtv.com:8080/GHGXS/VWCJZ/52233
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-plc-vector-logo-small.png" ,UK |  Sky Cinema Greats
+http://home-playtv.com:8080/GHGXS/VWCJZ/54189
+#EXTINF:-1 tvg-logo="https://joyceconnormakeup.co.uk/wp-content/uploads/2020/03/204-2047627_bbc-radio-logo-png-transparent-bbc-radio-logo.png" ,Uk | BBC News
+http://home-playtv.com:8080/GHGXS/VWCJZ/54237
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-AC01i9_GVds/TrLddTaboqI/AAAAAAAACl8/VI-e70TnTv0/s1600/More4+logo+2012.png" ,UK | More 4 FHD(V)
+http://home-playtv.com:8080/GHGXS/VWCJZ/54191
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/786/415/png-transparent-logo-5usa-television-channel-channel-5-my5-tv-channel-television-text-trademark-thumbnail.png" ,UK: 5 USA
+http://home-playtv.com:8080/GHGXS/VWCJZ/52254
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Alibi-logo-2015.png" ,UK: ALIBI
+http://home-playtv.com:8080/GHGXS/VWCJZ/52250
+#EXTINF:-1 tvg-logo="https://internationalartistsmanagement.co.uk/wp-content/uploads/2017/01/amc.png" ,UK: AMC(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52251
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/0855eef01fc8577051c0cbebba805dd1.png" ,UK: Animal Planet FHD(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/55784
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b7d0b9b328686c9b8a7448a0def076bf7cd556a477b74c0777381f1e998b546e.png" ,UK: BABY TV (i)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56526
+#EXTINF:-1 tvg-logo="https://joyceconnormakeup.co.uk/wp-content/uploads/2020/03/204-2047627_bbc-radio-logo-png-transparent-bbc-radio-logo.png" ,Uk: BBC One(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52237
+#EXTINF:-1 tvg-logo="https://joyceconnormakeup.co.uk/wp-content/uploads/2020/03/204-2047627_bbc-radio-logo-png-transparent-bbc-radio-logo.png" ,Uk: BBC Three
+http://home-playtv.com:8080/GHGXS/VWCJZ/52239
+#EXTINF:-1 tvg-logo="https://joyceconnormakeup.co.uk/wp-content/uploads/2020/03/204-2047627_bbc-radio-logo-png-transparent-bbc-radio-logo.png" ,Uk: BBC Two(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52238
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/f4cdb1ca4aaa5090c1324092d6e35cbd.png" ,UK: Boomerang(V)
+http://home-playtv.com:8080/GHGXS/VWCJZ/55776
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/28f64196f28b5f034f60d3036943f3e3.PNG" ,UK: BOX OFFICE 3(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/63785
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/28f64196f28b5f034f60d3036943f3e3.PNG" ,UK: BOX OFFICE 4 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/63786
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png" ,UK: CARTOON NETWORK(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52255
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/CARTOONITO.png" ,UK: Cartoonito
+http://home-playtv.com:8080/GHGXS/VWCJZ/55777
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Drama_%28TV_channel%29_logo.png/150px-Drama_%28TV_channel%29_logo.png" ,Uk: CBS.Drama
+http://home-playtv.com:8080/GHGXS/VWCJZ/52244
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_hli0pB9m5c/T7QmirfASII/AAAAAAAAAoE/2PTVlZMaVvg/s200/cdn.tvlia.com.files.2011.01.logo-de-la-cbs.png" ,Uk: CBS.Reality(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52245
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Challenge_2016_%28flat%29.svg/1200px-Challenge_2016_%28flat%29.svg.png" ,UK: CHALLENGE(V)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56525
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/Channel_4-logo-3B5F742B1E-seeklogo.com.png" ,UK: CHANNEL 4
+http://home-playtv.com:8080/GHGXS/VWCJZ/52247
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-pLeysfuqEFY/TWFV7Sy-RAI/AAAAAAAAAO8/6s5RwNhc_Lc/s1600/Channel_5_logo_2011_pre-launch.png" ,UK: CHANNEL 5
+http://home-playtv.com:8080/GHGXS/VWCJZ/52248
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_04/large.5900eee4acfee_citvlogoenpantalla.png.63c91a09eb79d97555bc22b1272e6dd7.png" ,UK: CITV(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56527
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNN.us.png" ,UK: CNN
+http://home-playtv.com:8080/GHGXS/VWCJZ/52260
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark-thumbnail.png" ,UK: DAVE
+http://home-playtv.com:8080/GHGXS/VWCJZ/52257
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" ,UK: Discovery History(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/55785
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,UK: DISCOVERY SCIENCE
+http://home-playtv.com:8080/GHGXS/VWCJZ/52263
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,UK: DISCOVERY SHED(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56529
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,UK: DISCOVERY TURBO
+http://home-playtv.com:8080/GHGXS/VWCJZ/52264
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s10171_ll_h3_ae.png" ,UK: DISNEY
+http://home-playtv.com:8080/GHGXS/VWCJZ/52296
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T0YqyQUqKrs/Vy03svQrHOI/AAAAAAAAKkM/DJqsYlkEO3gyXqnk3RcWbaJcJEFsXLkxACLcB/s320/disneychannel.png" ,UK: DISNEY JR
+http://home-playtv.com:8080/GHGXS/VWCJZ/52265
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s18279_ll_h3_aa.png" ,UK: DISNEY XD
+http://home-playtv.com:8080/GHGXS/VWCJZ/52266
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Drama_%28TV_channel%29_logo.png/150px-Drama_%28TV_channel%29_logo.png" ,UK: DRAMA(V)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52259
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/186px-E%21_Logo_2012.svg.png" ,Uk: E!ntertainment
+http://home-playtv.com:8080/GHGXS/VWCJZ/52267
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png" ,UK: FILM 4
+http://home-playtv.com:8080/GHGXS/VWCJZ/52268
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/0c7ed7030e17bfe7c22c733e51a2e11c.png" ,UK: Gold (i)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56545
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/0c7ed7030e17bfe7c22c733e51a2e11c.png" ,UK: GOLD(V)
+http://home-playtv.com:8080/GHGXS/VWCJZ/55766
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" ,UK: HISTORY 2(Y)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52272
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/430/287/png-transparent-home-television-channel-uktv-w-home-television-label-text.png" ,UK: HOME
+http://home-playtv.com:8080/GHGXS/VWCJZ/56533
+#EXTINF:-1 tvg-logo="https://archive.org/download/HorrorChannel/horror%20channel.png" ,UK: HORROR
+http://home-playtv.com:8080/GHGXS/VWCJZ/52276
+#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/TV-Advertising-ITV-Logo-1.png" ,UK: ITV BE(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52281
+#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/TV-Advertising-ITV-Logo-1.png" ,Uk: itv.1
+http://home-playtv.com:8080/GHGXS/VWCJZ/52277
+#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/TV-Advertising-ITV-Logo-1.png" ,Uk: itv.3
+http://home-playtv.com:8080/GHGXS/VWCJZ/52279
+#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/TV-Advertising-ITV-Logo-1.png" ,Uk: itv.4(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52280
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/88c205c462befa19b7d9cf5a7803c55d.png" ,UK: Lifetime(z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/55767
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/522c91a0e4b03f0bcd6456ff/1458073006991-WUNTWIHMWR9D7L53BUKO/ke17ZwdGBToddI8pDm48kHqEIX7_L_eR8YoQoHq-4W9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEZY1lXh478FRsB4o7bBPJ14VZZLmpApj5jGa9DwcWj-B926scO3xePJoa6uVJa9B4/image-asset.png" ,UK: LONDON LIVE(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52283
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/MTV.us.png" ,Uk: MTV Base
+http://home-playtv.com:8080/GHGXS/VWCJZ/56542
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/MTV.us.png" ,UK: MTV(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52285
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ea/3e/6e/ea3e6e5e093191bde36bc08ebdca66d4.png" ,UK: Nick Jr Too(V)
+http://home-playtv.com:8080/GHGXS/VWCJZ/55779
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_1sBKA9-vrRc/SwgbSPW66fI/AAAAAAAAEEY/fcWqp3P2Elk/s200/nicklogo.png" ,UK: Nickelodeon HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/63789
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nicktoons.png" ,UK: Nicktoons
+http://home-playtv.com:8080/GHGXS/VWCJZ/55782
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Pop_logo_red_it_0.png" ,UK: POP
+http://home-playtv.com:8080/GHGXS/VWCJZ/52288
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png" ,UK: POP Max +1
+http://home-playtv.com:8080/GHGXS/VWCJZ/63788
+#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2018/06/How-to-Watch-Quest-TV-outside-the-UK.png" ,UK: QUEST
+http://home-playtv.com:8080/GHGXS/VWCJZ/56536
+#EXTINF:-1 tvg-logo="https://www.tfmltd.com/wp-content/uploads/2017/02/4-rte.png" ,UK: RTE One HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/56543
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-plc-vector-logo-small.png" ,UK: SKY ARTS
+http://home-playtv.com:8080/GHGXS/VWCJZ/52236
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-plc-vector-logo-small.png" ,UK: SKY ATLANTIC
+http://home-playtv.com:8080/GHGXS/VWCJZ/52234
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-plc-vector-logo-small.png" ,UK: Sky Cinema Select FHD(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56546
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/0c7ed7030e17bfe7c22c733e51a2e11c.png" ,UK: SKY NEWS(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52235
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" ,UK: SYFY(Z)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52289
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/428-4284238_tg4-logo-png-transparent-png.png" ,UK: TG 4 (i)
+http://home-playtv.com:8080/GHGXS/VWCJZ/56537
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png" ,UK: TINY POP(I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52292
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,UK: TLC (I)
+http://home-playtv.com:8080/GHGXS/VWCJZ/52293
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" ,UK: Travel Channel HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/56544

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tLWEpq4ENCobzOfOOemoClEhsnM.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/275780.mkv
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8TadN8Z2M03kFBhAsdzG1HqIoZP.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/275781.mkv
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7SSeclgaPGaMAISw4JzSdmQ0ikD.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/276285.mkv
+

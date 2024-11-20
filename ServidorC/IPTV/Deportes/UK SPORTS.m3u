@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" ,UK S | EuroSports 1
+http://home-playtv.com:8080/GHGXS/VWCJZ/54233
+#EXTINF:-1 tvg-logo="https://watch.boxnation.com/assets/boxnation/images/logo_box_nation.png" ,UK S | Box Nation
+http://home-playtv.com:8080/GHGXS/VWCJZ/55729
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a98.png" ,UK S | BT Sport 1 HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/40683
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a98.png" ,UK S | BT Sport 2 HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/40684
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a98.png" ,UK S | BT Sport 3 HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/40685
+#EXTINF:-1 tvg-logo="" ,UK S | BT Sport Extra 1
+http://home-playtv.com:8080/GHGXS/VWCJZ/197117
+#EXTINF:-1 tvg-logo="" ,UK S | BT Sport Extra 2
+http://home-playtv.com:8080/GHGXS/VWCJZ/197118
+#EXTINF:-1 tvg-logo="" ,UK S | BT Sport Extra 3
+http://home-playtv.com:8080/GHGXS/VWCJZ/197119
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/7467ad046014efae68d4abd4cdad9e45.png" ,UK S | Eir Sport 1
+http://home-playtv.com:8080/GHGXS/VWCJZ/47665
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/7467ad046014efae68d4abd4cdad9e45.png" ,UK S | Eir Sport 2
+http://home-playtv.com:8080/GHGXS/VWCJZ/47666
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/220px-Premier_sports_logo_2018.svg.png" ,UK S | Eleven Sports 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/55732
+#EXTINF:-1 tvg-logo="https://img.apksum.com/f4/com.manutd.mutv/2.7.4/icon.png" ,UK S | MUTV
+http://home-playtv.com:8080/GHGXS/VWCJZ/55730
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/8fb473712b7fade250068fa6df652c77.png" ,UK S | Premier Sports 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47624
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/8fb473712b7fade250068fa6df652c77.png" ,UK S | Premier Sports 2
+http://home-playtv.com:8080/GHGXS/VWCJZ/55726
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/8fb473712b7fade250068fa6df652c77.png" ,UK S | Premier Sports 2 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47625
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK S | Sky Sports Action HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/40703
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" ,UK S | SKY Sports F1
+http://home-playtv.com:8080/GHGXS/VWCJZ/49104
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3085874404/2647cc712f0673100b0e3eca81c94be5_400x400.png" ,UK S | Sky Sports Football HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/183600
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" ,UK S | Sky Sports Golf HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/51323
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" ,UK S | Sky Sports MIX 
+http://home-playtv.com:8080/GHGXS/VWCJZ/47628
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/bea67d901a10280393ae2dccf0886fb9.png" ,UK S | Sky Sports News
+http://home-playtv.com:8080/GHGXS/VWCJZ/183602
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK S | Sky Sports Premier League HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/40707
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" ,UK S | Sky Sports Racing
+http://home-playtv.com:8080/GHGXS/VWCJZ/47629

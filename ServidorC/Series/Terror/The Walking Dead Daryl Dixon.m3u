@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oebI0Euvz8C4IPMAu346RcV2Gh.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/541476.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ApSZZfZ3sFrrE538sKNvJf42wlc.jpg" group-title="Temporada 2",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/562292.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCTcN8Wl9Pn3BuU6sJX2fqdxomb.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/541477.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xL8J7nYbU0Da2iHsVqY0iTQT77r.jpg" group-title="Temporada 2",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/562977.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSdflUF8nlcgDb6WFXRd1R7tPTC.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/541478.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/avLVtfUa2NgJ3Wilp7UGc6nry3K.jpg" group-title="Temporada 2",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/563482.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7Xj2excN8Ffx31qt3KTa68KKot.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/541479.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8KjZKjAIGSXzTLsqIzXDUkYW03.jpg" group-title="Temporada 2",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/565233.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2aML9HzHvm8Q9dWLAFtzIUQKqN.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/541480.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeaeqruWUm5LVMsWxQL6yryOEt1.jpg" group-title="Temporada 2",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/565234.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLN5MVuEqIX6KHeGKfr454zlUZx.jpg" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/541481.mkv
+

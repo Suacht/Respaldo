@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,24_7
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=24_7.m3u
+#EXTINF:-1,ADULTOS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=ADULTOS.m3u
+#EXTINF:-1,CINE PREMIUM
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=CINE%20PREMIUM.m3u
+#EXTINF:-1,ENTRETENIMIENTO
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=ENTRETENIMIENTO.m3u
+#EXTINF:-1,Erotica 18
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=Erotica%2018.m3u
+#EXTINF:-1,FOR ADULTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=FOR%20ADULTS.m3u
+#EXTINF:-1,MOVISTAR
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=MOVISTAR.m3u
+#EXTINF:-1,USA  PREMIUM
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=USA%20%20PREMIUM.m3u
+#EXTINF:-1,USA CINE PREMIUM ENG
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=USA%20CINE%20PREMIUM%20ENG.m3u
+#EXTINF:-1,USA CULTURE
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=USA%20CULTURE.m3u
+#EXTINF:-1,USA ENTERTAINMENT
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=USA%20ENTERTAINMENT.m3u
+#EXTINF:-1,USA KIDS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Premium&online=USA%20KIDS.m3u

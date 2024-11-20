@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/6abec5bdc2836f6f6107f2262fbb747b.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100796.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/719bd358bace85ce30667bd34988aabe.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100797.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/a83d03df93261e0ddfc3cc9d9f4f9c07.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100798.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/e1a305a84d9b3cf13a45c54b6619628e.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100799.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/2d8266a3902a7fb6d22cabeefc877483.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100800.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/0322ce4d1d3b694ab0c4665c635c7dd2.jpg" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100801.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/c21951cbd38bb08bac8779b0f0dd5931.jpg" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100802.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/50d214005b782c3ee1941bd918e4e455.jpg" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100803.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/ada46aed609be5fbb0befbf7dc0dab27.jpg" group-title="Temporada 1",9
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100804.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yfsNeyRYclfCe1bDM3xVYEpuxEE.jpg" group-title="Temporada 1",10
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100805.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yfsNeyRYclfCe1bDM3xVYEpuxEE.jpg" group-title="Temporada 1",11
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/100806.mp4
+

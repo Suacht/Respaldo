@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY3NGI0MWUtYTBmZC00MDEyLTgyMjItZTY5YzIzZjcxNGQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/292017.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY3NGI0MWUtYTBmZC00MDEyLTgyMjItZTY5YzIzZjcxNGQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/292018.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY3NGI0MWUtYTBmZC00MDEyLTgyMjItZTY5YzIzZjcxNGQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/292021.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY3NGI0MWUtYTBmZC00MDEyLTgyMjItZTY5YzIzZjcxNGQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/292019.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY3NGI0MWUtYTBmZC00MDEyLTgyMjItZTY5YzIzZjcxNGQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/292020.mkv
+

@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | ACTIONMAX
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99mIG3UxRc3pfAybvSqdH9XWovTprGO5JyUQ8QitjYzt/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | CINEMAX 2
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu96NKo49MQUU1i9tG6vrE4QVlmb6KAblMDflGQGTpVT2i/ts
+#EXTINF:-1 tvg-logo="http://51.222.152.107:81/posters/1618974359150.png" ,CINE | DE PELICULA CLASICO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92-fNkBzi2Jb7F_yow1yaQ7qdovp0oJg8F_sAHs0TEy8/ts
+#EXTINF:-1 tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=430" ,CINE | DE PELICULA FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zwDWdvYUfqMDkqoZxqnYmNDH75POK8VHv2h8IqZylnj/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" ,CINE | DE PELICULA HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91KV0Bpb5zSkVy2qXjQk6wip1GEwEFnnU0xtvAvgYDts/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" ,CINE | DE PELICULA PLUS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wpBCDJGC5ii7x94LCQ_gy4m0BENpuH7RGS6aT37Dh_b/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | FILM & ART
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_3vHV4QcfdBtgWFjVrcBR14-tScmUxEnb1RPdRSPJNv/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | LATINO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9xBEdFTt4rTB87DS6vdSzrUf2xFOT9teM-2JCxf9svAH/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | MOVIEMAX LATINO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu981h6OpFXEDL6CSVEHJZ01WPbEjc_DtNRrH2mupvFaYH/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | MULTICINEMA
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99uE1hs6VpTBXpPrf2dIWIUaTY50eAEslGx10ZLXlMi4/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | MULTIPREMIER
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91Qe7kjEx1v2uSjd2e4g6gmS9pZveEj8j8JdqT2Y1Mz1/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | MY TIME MOVIE NETWORK
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu988R2BdQYyEeOC2bdEZ5hCE_PAVji1EjJk4EWEfYXnhw/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" ,CINE | SONY HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98b1w2tq7vCyWPeuGElrPhVy_PLFhn0zYBreSquG94NV/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,CINE | SONY MAX
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu927mnevqbGWEWgt-NK2qu9G_wl9pr2PxD4uQaX1X4d7y/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,CINE | SONY NOVELAS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wX_iayqZe6vmi96xA0SrJaHRPunVfF3U4AtwCHD9zFn/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | STARZ CINEMA LATINO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97jrW_Qs4TZIu4rjFJw8ofGEsuhT5XULOtWzlRuK4fUG/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | STARZ LATINO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91xcuVVmqXUoTsXMdNEw_6VjO8adPv5hTYWOFJCeASUP/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | THRILLERMAX LATINO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98kfNaqLYePD2mgZgX6wY32MhLRbrpZ4kHo9WZP8r9b-/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | TNT NOVELAS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94m16UJdBy0Fub4lWE7QRclxiQ4-e8SEXk3rFgBMC4n2/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,CINE | TNT NOVELAS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91PTPP0o8hK3A3gkUaORdzsQX8HsVECbCKlxTTqrGVCx/ts
+#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_820/v1476819145/content-items/001/745/720/LOGOS_DOMESTIKA-16-original.jpg" ,PREMIUM | MORBIDO TV HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93FhVBFR10y-qJlE-MpTIkfRseHF8c9lnRMlqh0vDwiB/ts
+#EXTINF:-1 tvg-logo="https://playnet.live:443/images/PFqy-C4JI6Kh3ZW9alNB4dW9W2FysUhUrzIeDwRAhOl7OxOzW1bX18GQ4CuemCG8.png" ,E | ADULT SWIM (HD)
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wuIy5ozaoHrR7rQ71N2WRXQP90TPJrOroPWUs0mim9t/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" ,E | ADULT SWIM ᴴᴰ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-8xvoKOvSOUvoFir6clvuQYuaXmtG5zvMBXVp3pCLjt/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoRtG5s.png" ,E| USA Network
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93WUXEszYyxcqZvwpCHCV0NSllchkX9B2KBzoEDkVbG1/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoRtG5s.png" ,E| USA Network  HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-B5aVuHZjKMBADoz6ph_4Y8nEy3FXX_3wmWKoCPFwuU/ts
+#EXTINF:-1 tvg-logo="https://immaa.xyz/LAammmzprmme.png" ,PRE | AMAZON PRIME VIDEO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92htovMoNOnYDHe8T0FdlGcGoGjpFcOsH6j5a1pQlHbi/ts
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png" ,PRE | NBC UNIVERSO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9z4VmCzu6Ioznv3PDIkVd5uUPaAJPPVlY_lZcCpYT6OF/ts
+#EXTINF:-1 tvg-logo="https://immaa.xyz/LAnnnetfffis.png" ,PRE | NETFLIX PELICULAS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90FA3AVYo99sfCL_rRTD-_qRuDZLyJvWpBghbWENEzsY/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo.jpg" ,PREMIUM | A&E FHD -
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yoSVcSkvs1OCfWXJeHQCyzeozxiTt1upYuB71idwMqC/ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo.jpg" ,PREMIUM | A&E HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu962-Y4M70KBI0yvwpOS2VlFN8CMs1nVCHFR6opc5Gt7K/ts
+#EXTINF:-1 tvg-logo="https://www.carlost.net/wp-content/uploads/2014/08/Logo-AMC.jpg" ,PREMIUM | AMC FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9z8Xm51ShSd8nuJMadtLZTDC1vaYPKflnibgEzdnzTXP/ts
+#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg" ,PREMIUM | ATRESERIES -
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90kYWiropASGZBWLEcYiSx8Nh8rAekGFqxTuYtim31dd/ts
+#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg" ,PREMIUM | ATRESERIES HQ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-xfH-TglxP-jOqOgbsNzkr1TSEhW0O3pRAw3U4qimxp/ts
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/400902_preview.png" ,PREMIUM | AXN FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9z6CcvBESLZpus_rP-93vf5_lodd5W0jXBr8ViMbGDFm/ts
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/400902_preview.png" ,PREMIUM | AXN HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92IMZGH_kXgp5iHRacZFQx-zDWAYVK4ALLduTfX_Y1MU/ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,PREMIUM | CINE LATINO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu973dIVyq4Dng8CaqhklFjrwxQiwTKZJomeQ5xd4fnv4a/ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" ,PREMIUM | CINECANAL FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99zWaM2jR_pp0eJPhNBbg09D4-XCSfLIB-5DgofFtF5z/ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" ,PREMIUM | CINECANAL HD -
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_JO5YrkdTP3w6g68BlvagCt4SvgEYjFJnHYv7r7oIEF/ts
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" ,PREMIUM | CINEMA DINAMITA HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92Op7fJ4ytxVW-zjiEequ2yE7TFShKRK5gsIKucCLBwX/ts
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" ,PREMIUM | CINEMA DINAMITA HQ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91PtaFEGlsh4CkW29JgXWrZ3FCHQXGxVgS0LlZAo9Etd/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU" ,PREMIUM | CINEMAX FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu99FF8zm9jAvUfrkK6g1qPVyXR0TdJrNQxiSgfcel_12l/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU" ,PREMIUM | CINEMAX HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98qMDb7038B721JVtw-j7F8G5S1-vAkpzLjMHUDfzXly/ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" ,PREMIUM | DE PELICULA PLUS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9web40r-VJMKzhCQ6CHpAfgDazV5tSlzHpq-Zm_9hlBL/ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" ,PREMIUM | DE PELICULAS CLASICO FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9y4rWDskq6t_YzhZUDsA232ZZqHen6ae6R6Pr_lAe-dG/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" ,PREMIUM | DHE FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu963u2egn5oJ9mLgDrM7Acst7fdVoJdruVF6sIdoOc7qR/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" ,PREMIUM | DHE HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94wtllNQY2MOl1aCJGUC23Oqtzq8_Z1A8ziokkwHRNSl/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpsw81Sk4WqgDl5Pk0BZWu7740GNi_mEAtw&usqp=CAU" ,PREMIUM | FILM & ARTS FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94aiFSjF59C66Ensdu3CrrqZPezg_RyV5nWT89M3Nl-H/ts
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" ,PREMIUM | FX FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-PU6ze6oBxh3Xt1cM96Op_5jVF6zODK86-nXQMeScIT/ts
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" ,PREMIUM | FX HD ®
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wxon-UuTlRF-7c-ZNAW5P-hC9Sz2eUOvXG64_UT2PdJ/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" ,PREMIUM | GOLDEN EDGE FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91z1elWF9u2yGNHPJPqsdFyOxjK8OZLW1jlpp84lV5Ly/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" ,PREMIUM | GOLDEN EDGE HQ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9yehxf6xVqUhFY728PsDHe8dBOFcNkXI7AIKgJV0GUtk/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" ,PREMIUM | GOLDEN FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zyaBsP0GWSS2rkJE9GF33zBaN8GzdCYPgDmm3KkQ8hB/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" ,PREMIUM | GOLDEN HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92C_UIJyTTxztnO2_xTNVHSTxyghaIekYe0S43nqRPYE/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU" ,PREMIUM | GOLDEN PLUS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_6SF4l-N-Ogy4u-norfq6AqPbBLfCeB8D0_kkfQd0mk/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU" ,PREMIUM | GOLDEN PLUS FHD -
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu919SA0fGkG6I3g07BWzYUlodMjO2ZJeZj8TQCGrIv-f9/ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" ,PREMIUM | GOLDEN PREMIER HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94aJLrL_ZefouHCHVSxcKccurcw07x_bjh00l-8rXVG-/ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" ,PREMIUM | GOLDEN PREMIER HQ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91BrChNDbA9Gt2aUrn29gfaPVsFN4HbbFAkHKT53QG_u/ts
+#EXTINF:-1 tvg-logo="http://fastv.lat:80/images/14be94db8dd1117db28a9e25cbd1c186.png" ,PREMIUM | Multipremier
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu98MtdTvxxPMtqkXFeiVW_unc_prZG2U7BogZl8lxItqt/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7UG19f0.png" ,PREMIUM | PANICO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wgVTvct79f-BRFYoycB4AZAf5e_m2vWgkBdo2u9eDuM/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" ,PREMIUM | PARAMOUNT HD -
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94hfPwoCtU62c-mftcOc4a5BlCb69nOuPJ8Dco_93wsW/ts
+#EXTINF:-1 tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" ,PREMIUM | SHOWTIME EXTREME HQ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wl1GjWqYEb_O0cobwie8rneYXRBHNIdP2DXn2bs4iaC/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmEH8nElhOC1Zy-eT9rciDQJrti64bkBt4VIwUFz336rh6o7c0hDzX5l0h9-g67N-Thw&usqp=CAU" ,PREMIUM | SPACE  -
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93LjXOdcTDLbTPGhk_WTDAzTodawTDVqevLZ-jugIzNy/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmEH8nElhOC1Zy-eT9rciDQJrti64bkBt4VIwUFz336rh6o7c0hDzX5l0h9-g67N-Thw&usqp=CAU" ,PREMIUM | SPACE FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu96ZxyCjPD7n-3JXDdavHTRXSrb29T1lpOiiWs7-02JDG/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwey_QSgsURF5ORWFEgyemvsmJXAux5cssS_z_HZygeAGq-wNY38LPXHXw6MC8dO56xLY&usqp=CAU" ,PREMIUM | STAR CHANNEL HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9wWd4KZpgMVuQMgj8MM0CWELgA8LHisOl5EtBKq_0SKe/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwey_QSgsURF5ORWFEgyemvsmJXAux5cssS_z_HZygeAGq-wNY38LPXHXw6MC8dO56xLY&usqp=CAU" ,PREMIUM | STAR CHANNEL HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu95EWbbIs7_oPwIwCl-N7Kvx7FLX18oCQEZFnXCsXnbLP/ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" ,PREMIUM | STARZ ENCORE SUSPENSE
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zRWYZHfFDaAPddM2m9938ONEewU9vdHnrWXct8W974A/ts
+#EXTINF:-1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" ,PREMIUM | SYFY FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zdfNCabXITPFDsMDS8d0ZLQnJd5I9Oi9aSX3aZPIfRR/ts
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/483-4832828_tbs-logo-png-transparent-transparent-tbs-logo-png.png" ,PREMIUM | TBS
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu90Pyv4EeeBUk2nGZZGCd-R6_6HpfDoWRgxNTL-NmvuNy/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,PREMIUM | TCM FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_rGBARsEf_aqkcGbcczUX7H4J5t2qsBTqylzbaOZg__/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,PREMIUM | TCM HQ
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu94hjNWqHikR0bVg5Dgvn-7gJl9Yq6OBbG4X41VizcnWm/ts
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41SnZkqVXQL.png" ,PREMIUM | TNT HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92XxClIfc2cKsHB8sNwuam9Dsf3MYmvaqwqu3pN7H_-J/ts
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41SnZkqVXQL.png" ,PREMIUM | TNT HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91_gslz11aVwsQ6WRk4hyKqixBgJYNA0xbpfvmNB8UC5/ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_995a2ff66d264766a7c304d2f9b70614~mv2.png/v1/fit/w_864%2Ch_864%2Cal_c/file.png" ,PREMIUM | TNT SERIES • 01
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9-U5eVVBOVQe2cGmlDMsG_LdlmlcXgQdEaf1hLxtPSVv/ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_995a2ff66d264766a7c304d2f9b70614~mv2.png/v1/fit/w_864%2Ch_864%2Cal_c/file.png" ,PREMIUM | TNT SERIES • 02
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu933PiIuSoiTtLQa3FGLjyDpSlh8xUlr0EYYEJyU8eklV/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Warner_Channel_Shield_2000.png/revision/latest/scale-to-width-down/250?cb=20200117133843&path-prefix=es" ,PREMIUM | WARNER CHANNEL FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_UgQHjm6dzQl-c0CYn7AcDOr6WuPP6CI_TNFisGpjx8/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Warner_Channel_Shield_2000.png/revision/latest/scale-to-width-down/250?cb=20200117133843&path-prefix=es" ,PREMIUM | WARNER CHANNEL HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu996XZ2pOzs9ZXQc159ptu0waZOOKAqWpbPPissvaOgSY/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" ,SONY MOVIE HD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu91Po-sF8WyoCtYLmIPYmLxI8d1XkSQui3Lksbgy_t8Fv/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" ,SONY MOVIES
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_vNXrBgzYb7SodHrp_P2fMTFY0wCb9S2ArXDiBOCaWs/ts
+#EXTINF:-1 tvg-logo="http://zonamovie.live:8008/images/8a030c3b4a412a946aa27139bbd4a3be.jpg" group-title="" ,STAR Channel FHD
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu904DIGtm6Bu9RUbyrc60Bm57dtJKTj6nvVe03UMyrQLc/ts

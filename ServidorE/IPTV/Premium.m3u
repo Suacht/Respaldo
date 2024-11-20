@@ -1,25 +1,33 @@
 #EXTM3U
-#EXTINF:-1,BABY TV
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=BABY%20TV.m3u
-#EXTINF:-1,LATINO
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO.m3u
-#EXTINF:-1,LATINO DEPORTE
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO%20DEPORTE.m3u
-#EXTINF:-1,LATINO DOCUMENTAL
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO%20DOCUMENTAL.m3u
-#EXTINF:-1,LATINO ESPN
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO%20ESPN.m3u
-#EXTINF:-1,LATINO MUSICA
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO%20MUSICA.m3u
-#EXTINF:-1,LATINO NOTICIAS
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO%20NOTICIAS.m3u
-#EXTINF:-1,LATINO NOVELAS
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO%20NOVELAS.m3u
-#EXTINF:-1,LATINO PREMIUM
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO%20PREMIUM.m3u
-#EXTINF:-1,LATINO USA
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=LATINO%20USA.m3u
-#EXTINF:-1,MUNDO SPORTS
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=MUNDO%20SPORTS.m3u
-#EXTINF:-1,MUNDOS
-http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=MUNDOS.m3u
+#EXTINF:-1,ADULTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=ADULTS.m3u
+#EXTINF:-1,Bein Sports
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=Bein%20Sports.m3u
+#EXTINF:-1,EX-YU
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=EX-YU.m3u
+#EXTINF:-1,France Amazon Prime
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=France%20Amazon%20Prime.m3u
+#EXTINF:-1,France HEVC
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=France%20HEVC.m3u
+#EXTINF:-1,France Sport
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=France%20Sport.m3u
+#EXTINF:-1,SVIP MLS Messi
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20MLS%20Messi.m3u
+#EXTINF:-1,SVIP MotoGP PPV
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20MotoGP%20PPV.m3u
+#EXTINF:-1,SVIP NBA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20NBA.m3u
+#EXTINF:-1,SVIP NETFLIX
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20NETFLIX.m3u
+#EXTINF:-1,SVIP NFL PPV
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20NFL%20PPV.m3u
+#EXTINF:-1,SVIP PLUTO TV
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20PLUTO%20TV.m3u
+#EXTINF:-1,SVIP SPORTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20SPORTS.m3u
+#EXTINF:-1,SVIP SSC SPORT RONALDO
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20SSC%20SPORT%20RONALDO.m3u
+#EXTINF:-1,SVIP UEFA TV
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20UEFA%20TV.m3u
+#EXTINF:-1,SVIP UFC
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorE&seccion=IPTV&genero=Premium&online=SVIP%20UFC.m3u

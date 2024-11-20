@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yU7bnfzfhZoxkZRcJfTbhxfFJhg.jpg" ,Atrapado sin salida (1975)*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/234798.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHCTkkffMr4RQhVLm2oG0SToTDI.jpg" ,Belleza americana (1999)*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/233602.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l7V58hgBEPZDQGFw162oJV9d3q.jpg" ,Cabaret (1972)*156pelis
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/241149.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSkEkCxsEs9LuHZzA2IZYyvd9x4.jpg" ,CODA: Señales Del Corazón (2021)*pcsl*156pelis
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/221483.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbJp6oNBfgEESGWoeyyiVYNa7GM.jpg" ,Corazón Valiente (1995) SD DUAL*25sc**dos19*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/13701.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvaBVpS0GzKqBd63pFT8f1E8OKv.jpg" ,DANZA CON LOBOS (1990) 1080 DUAL*25sc**dos19*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/14455.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sCBSQ3lwkVGTmJAGqCenWTLZ94.jpg" ,El artista (2009)*25sc**156pelis
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/91357.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZNc61SsUdKWl8yNhKjqesYStre.jpg" ,El Aviador (2004)*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/212050.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clolk7rB5lAjs41SD0Vt6IXYLMm.jpg" ,Forrest Gump (1994) 1080 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/13779.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvKsQB84W2Sv6s7jpGmzQBVyQe3.jpg" ,Gladiador (2000) SD LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/2940.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CKbEXrw88LNvBU3baISh1I7JP4.jpg" ,Gravedad (2013) DUAL+*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/225696.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg" ,Green Book (2018) DUAL+*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/225697.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg" group-title="" ,Indiana Jones en busca del arca perdida (1981) 1080 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/13464.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4FwHlMhuRR5BISY2Gm2QZHlH5Q.jpg" ,La forma del agua (2017) 720 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/14495.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pFsAaJmiOppVHcldBzg8JKBHwe.jpg" ,La La Land: Una historia de amor (2016) DUAL+*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/231913.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mupWl1yjc7S8nvce6KpYksZdlTy.jpg" ,Los infiltrados (2006)*25sc* *s104*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/91354.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnVZLdo9C4X80sJmgcGNpMNCbgk.jpg" ,Mad Max: Furia en el camino (2015) DUAL+*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/232707.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVzMkuXkRrmfYSYTzBCCJlj990Y.jpg" ,Moonlight (2016)
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/192755.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Bq6ONhkASjjFNECzkJK0bF3ESy.jpg" ,Nomadland (2020)*156pelis
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/188191.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XJgoaOWKrqxkKeBKWLKSigqG8c.jpg" ,Oliver! (1968)*156pelis
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/241150.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub7iEniSi23Ms3RcF551Sozb1MH.jpg" ,Slumdog Millionaire (2008) dual*25sc**156pelis
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/158562.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg" ,Star Wars: Episodio IV: Una nueva esperanza (1977)*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/235149.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj0SNprRmhWhfETBTkIJu55hM2F.jpg" ,The Deer Hunter (1978) SD LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/2898.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMzapRL8iTqF6oDUY04a2tVU5S4.jpg" ,Zona de miedo (2008)*156pelis
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/241147.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lovoT4KeD7iyKcDMFo8Y8lFtCle.jpg" ,África mía (1985)*pcsl
+http://home-playtv.com:8080/movie/GHGXS/VWCJZ/234813.mkv

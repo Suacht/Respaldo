@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/8200e92ccc1b4e15221c9c80642950ad.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97614.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/83f8bfab94c310977c0fa9881a2a8109.jpg" group-title="Temporada 2",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97625.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/860OHSts0ZBs6FM961hG7CHMUUY.jpg" group-title="Temporada 3",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/203193.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/8200e92ccc1b4e15221c9c80642950ad.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97620.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/ec418902dbfd5cce5f3c0e9c6e78b86d.jpg" group-title="Temporada 2",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97626.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cebq2ngUUNDnQFzItTzSrBd7jYF.jpg" group-title="Temporada 3",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/203194.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/1c93dd2f50728a67ce149822a42d128b.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97615.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/1d32de444fe4617a51b9fc979222c0e2.jpg" group-title="Temporada 2",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97627.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn7KL4iu9kdDRuCr5SBMx73uC27.jpg" group-title="Temporada 3",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/203195.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/1c93dd2f50728a67ce149822a42d128b.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97621.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/909cf7a6fb7da42d7c808f0a02024c40.jpg" group-title="Temporada 2",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97628.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DnHEP6nVUZoYHw3GWIpZ8sXUfm.jpg" group-title="Temporada 3",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/203196.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/789208d53a17399409e8bf1c4899cb29.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97616.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/ade9cae557377064675f7cef3cf424eb.jpg" group-title="Temporada 2",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97629.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NLAIc6M2pjlxBMXmypNRp4Guoi.jpg" group-title="Temporada 3",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/203197.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/789208d53a17399409e8bf1c4899cb29.jpg" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97622.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2G1u8GXZeq3OarAMdn78WY1M7o.jpg" group-title="Temporada 3",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/203198.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/846a3004cfbff461885241de5897e074.jpg" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97617.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/846a3004cfbff461885241de5897e074.jpg" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97623.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/2f9ec56fe00bd4dd06f57730acb75402.jpg" group-title="Temporada 1",9
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97624.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/2f9ec56fe00bd4dd06f57730acb75402.jpg" group-title="Temporada 1",10
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97618.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/5057fbafe58b561266f185fa8a62016d.jpg" group-title="Temporada 1",11
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/97619.mkv
+

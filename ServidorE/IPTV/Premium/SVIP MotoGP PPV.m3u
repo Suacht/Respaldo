@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://lo1.in/it/mtgp.png" ,PPV| MotoGP: Heli Cam
+http://211979720923609059.ofdp1112.xyz:80/live/PAU240716/ERT5124/609059.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/it/mtgp.png" group-title="" ,PPV| MotoGP: Main Race
+http://211979720923609058.ofdp1112.xyz:80/live/PAU240716/ERT5124/609058.ts

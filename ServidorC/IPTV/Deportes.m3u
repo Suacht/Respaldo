@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,ALEMANIA SPORTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=ALEMANIA%20SPORTS.m3u
+#EXTINF:-1,AUSTRALIAN SPORTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=AUSTRALIAN%20SPORTS.m3u
+#EXTINF:-1,BEIN SPORTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=BEIN%20SPORTS.m3u
+#EXTINF:-1,DEPORTES
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=DEPORTES.m3u
+#EXTINF:-1,DEPORTES ESPAA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=DEPORTES%20ESPAA.m3u
+#EXTINF:-1,EUROSPORTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=EUROSPORTS.m3u
+#EXTINF:-1,LMP - LIGA MEXICANA DEL PACIFICO
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=LMP%20-%20LIGA%20MEXICANA%20DEL%20PACIFICO.m3u
+#EXTINF:-1,SUPER SPORTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=SUPER%20SPORTS.m3u
+#EXTINF:-1,TUDN
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=TUDN.m3u
+#EXTINF:-1,UFC
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=UFC.m3u
+#EXTINF:-1,UK SPORTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=UK%20SPORTS.m3u
+#EXTINF:-1,USA SPORTS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=Deportes&online=USA%20SPORTS.m3u

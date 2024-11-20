@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt2CVnPdE36_dGrU_5BojeiIx-USbGbML467mJZ-RRhbQZW1E5" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/233103.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt2CVnPdE36_dGrU_5BojeiIx-USbGbML467mJZ-RRhbQZW1E5" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/233104.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt2CVnPdE36_dGrU_5BojeiIx-USbGbML467mJZ-RRhbQZW1E5" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/233105.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt2CVnPdE36_dGrU_5BojeiIx-USbGbML467mJZ-RRhbQZW1E5" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/233106.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt2CVnPdE36_dGrU_5BojeiIx-USbGbML467mJZ-RRhbQZW1E5" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/233107.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt2CVnPdE36_dGrU_5BojeiIx-USbGbML467mJZ-RRhbQZW1E5" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/233108.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt2CVnPdE36_dGrU_5BojeiIx-USbGbML467mJZ-RRhbQZW1E5" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/233109.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt2CVnPdE36_dGrU_5BojeiIx-USbGbML467mJZ-RRhbQZW1E5" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/233110.mkv
+

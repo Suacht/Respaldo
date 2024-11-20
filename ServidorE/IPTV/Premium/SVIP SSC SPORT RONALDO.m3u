@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="" ,SSC SPORT 1 HD
+http://211979720923780839.ofdp1112.xyz:80/live/PAU240716/ERT5124/780839.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 1 SD
+http://211979720923780844.ofdp1112.xyz:80/live/PAU240716/ERT5124/780844.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 2 HD
+http://211979720923780840.ofdp1112.xyz:80/live/PAU240716/ERT5124/780840.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 2 SD
+http://211979720923780845.ofdp1112.xyz:80/live/PAU240716/ERT5124/780845.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 3 HD
+http://211979720923780841.ofdp1112.xyz:80/live/PAU240716/ERT5124/780841.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 3 SD
+http://211979720923780846.ofdp1112.xyz:80/live/PAU240716/ERT5124/780846.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 4 HD
+http://211979720923780842.ofdp1112.xyz:80/live/PAU240716/ERT5124/780842.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 4 SD
+http://211979720923780847.ofdp1112.xyz:80/live/PAU240716/ERT5124/780847.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 5 HD
+http://211979720923780843.ofdp1112.xyz:80/live/PAU240716/ERT5124/780843.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORT 5 SD
+http://211979720923780848.ofdp1112.xyz:80/live/PAU240716/ERT5124/780848.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORTS 1 HEVC
+http://211979720923780849.ofdp1112.xyz:80/live/PAU240716/ERT5124/780849.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORTS 2 HEVC
+http://211979720923780850.ofdp1112.xyz:80/live/PAU240716/ERT5124/780850.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORTS 3 HEVC
+http://211979720923780851.ofdp1112.xyz:80/live/PAU240716/ERT5124/780851.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORTS 4 Hevc
+http://211979720923780852.ofdp1112.xyz:80/live/PAU240716/ERT5124/780852.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" ,SSC SPORTS 5 Hevc
+http://211979720923780853.ofdp1112.xyz:80/live/PAU240716/ERT5124/780853.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnPRRs8/Asset-8-18x.png" ,SSC-EXTRA 1
+http://211979720923780854.ofdp1112.xyz:80/live/PAU240716/ERT5124/780854.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gjr2cC/Asset-2-18x.png" ,SSC-EXTRA 2
+http://211979720923780855.ofdp1112.xyz:80/live/PAU240716/ERT5124/780855.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r4XWPYt/Asset-1-18x.png" ,SSC-EXTRA 3
+http://211979720923780856.ofdp1112.xyz:80/live/PAU240716/ERT5124/780856.ts

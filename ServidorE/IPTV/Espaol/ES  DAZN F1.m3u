@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" ,ES: DAZN FORMULA 1 FHD
+http://211979720923165418.ofdp1112.xyz:80/live/PAU240716/ERT5124/165418.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" ,ES: DAZN FORMULA 1 FHD HEVC
+http://211979720923958754.ofdp1112.xyz:80/live/PAU240716/ERT5124/958754.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" ,ES: DAZN FORMULA 1 HD
+http://211979720923165419.ofdp1112.xyz:80/live/PAU240716/ERT5124/165419.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="" ,ES: DAZN FORMULA 1 SD
+http://211979720923165257.ofdp1112.xyz:80/live/PAU240716/ERT5124/165257.ts

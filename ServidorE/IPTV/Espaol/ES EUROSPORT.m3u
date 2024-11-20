@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="" ,ES: EUROSPORT 1 FHD
+http://211979720923290348.ofdp1112.xyz:80/live/PAU240716/ERT5124/290348.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,ES: EUROSPORT 1 FHD (SAT) FHD
+http://211979720923917567.ofdp1112.xyz:80/live/PAU240716/ERT5124/917567.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,ES: EUROSPORT 1 FHD (SAT) SD
+http://211979720923926977.ofdp1112.xyz:80/live/PAU240716/ERT5124/926977.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" ,ES: EUROSPORT 1 HD
+http://211979720923290349.ofdp1112.xyz:80/live/PAU240716/ERT5124/290349.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" ,ES: EUROSPORT 1 SD
+http://211979720923290350.ofdp1112.xyz:80/live/PAU240716/ERT5124/290350.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" ,ES: EUROSPORT 2 FHD
+http://211979720923290351.ofdp1112.xyz:80/live/PAU240716/ERT5124/290351.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,ES: EUROSPORT 2 FHD (SAT) FHD
+http://211979720923917568.ofdp1112.xyz:80/live/PAU240716/ERT5124/917568.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,ES: EUROSPORT 2 FHD (SAT) SD
+http://211979720923929841.ofdp1112.xyz:80/live/PAU240716/ERT5124/929841.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" ,ES: EUROSPORT 2 HD
+http://211979720923290352.ofdp1112.xyz:80/live/PAU240716/ERT5124/290352.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" ,ES: EUROSPORT 2 SD
+http://211979720923290353.ofdp1112.xyz:80/live/PAU240716/ERT5124/290353.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,ES: EUROSPORT 3 HD
+http://211979720923893665.ofdp1112.xyz:80/live/PAU240716/ERT5124/893665.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,ES: EUROSPORT 4 HD
+http://211979720923290354.ofdp1112.xyz:80/live/PAU240716/ERT5124/290354.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" ,ES: EUROSPORT 5 HD
+http://211979720923290355.ofdp1112.xyz:80/live/PAU240716/ERT5124/290355.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" ,ES: EUROSPORT 6 HD
+http://211979720923290356.ofdp1112.xyz:80/live/PAU240716/ERT5124/290356.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP7.png" ,ES: EUROSPORT 7 HD
+http://211979720923290783.ofdp1112.xyz:80/live/PAU240716/ERT5124/290783.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP8.png" ,ES: EUROSPORT 8 HD
+http://211979720923290357.ofdp1112.xyz:80/live/PAU240716/ERT5124/290357.ts
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP9.png" ,ES: EUROSPORT 9 HD
+http://211979720923290784.ofdp1112.xyz:80/live/PAU240716/ERT5124/290784.ts
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/POPUHD" ,ES: M+ EUROSPORT HEVC
+http://211979720923910037.ofdp1112.xyz:80/live/PAU240716/ERT5124/910037.ts
+#EXTINF:-1 tvg-logo="" ,FOX SOCCER PLUS HD
+http://211979720923807009.ofdp1112.xyz:80/live/PAU240716/ERT5124/807009.ts

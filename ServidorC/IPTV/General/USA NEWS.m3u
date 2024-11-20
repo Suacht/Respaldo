@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/518nA1jZkdL.png" ,NEWS | CNBC 
+http://home-playtv.com:8080/GHGXS/VWCJZ/71867
+#EXTINF:-1 tvg-logo="https://fanc.tmsimg.com/assets/s10146_ll_h3_ab.png" ,NEWS | CNN International 
+http://home-playtv.com:8080/GHGXS/VWCJZ/55847
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8c85d9a65e6b0259de6a5b09dfdcbf72a23023883e60ed6dd81accf980acb5e2.png" group-title="" ,NEWS | FOX News Channel
+http://home-playtv.com:8080/GHGXS/VWCJZ/56195
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eLh5nxsmL.png" ,NEWS | NBC 4 Los Angeles (J)
+http://home-playtv.com:8080/GHGXS/VWCJZ/71910
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eLh5nxsmL.png" ,NEWS | NBC 9 Denver 
+http://home-playtv.com:8080/GHGXS/VWCJZ/71873
+#EXTINF:-1 tvg-logo="http://158.69.24.110/posters/1504565505345.jpg" ,NEWS | The Weather Channel
+http://home-playtv.com:8080/GHGXS/VWCJZ/10252

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" group-title="" ,ES: M+ COPA DEL REY FHD
+http://211979720923954611.ofdp1112.xyz:80/live/PAU240716/ERT5124/954611.ts
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" ,ES: M+ COPA DEL REY HD
+http://211979720923954612.ofdp1112.xyz:80/live/PAU240716/ERT5124/954612.ts
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" ,ES: M+ COPA DEL REY SD
+http://211979720923954613.ofdp1112.xyz:80/live/PAU240716/ERT5124/954613.ts

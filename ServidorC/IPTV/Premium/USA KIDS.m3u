@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" ,KD | Baby First
+http://home-playtv.com:8080/GHGXS/VWCJZ/276200
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/320px-Babytvv.png" ,KD | Baby tv 
+http://home-playtv.com:8080/GHGXS/VWCJZ/9417
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Boomerang.us.png" ,KD | Boomerang 
+http://home-playtv.com:8080/GHGXS/VWCJZ/36447
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s12131_ll_h3_aa.png" ,KD | Cartoon Network 
+http://home-playtv.com:8080/GHGXS/VWCJZ/36448
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png" ,KD | Cartoon Network EAST
+http://home-playtv.com:8080/GHGXS/VWCJZ/108646
+#EXTINF:-1 tvg-logo="http://tvgolatino.com:8080/images/ec73f63752e1524c0000e3cb780fbe88.png" ,KD | Cartoon Network WEST
+http://home-playtv.com:8080/GHGXS/VWCJZ/108647
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" ,KD | Disney Channel 
+http://home-playtv.com:8080/GHGXS/VWCJZ/36449
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" ,KD | Disney Channel EAST
+http://home-playtv.com:8080/GHGXS/VWCJZ/181154
+#EXTINF:-1 tvg-logo="http://tvgolatino.com:8080/images/2f3e741233c4a289b40b397912042fd8.png" ,KD | Disney HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/276210
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DisneyJunior.us.png" ,KD | Disney Junior EAST
+http://home-playtv.com:8080/GHGXS/VWCJZ/181155
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s18279_ll_h3_aa.png" ,KD | Disney XD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/36451
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DisneyXD.us.png" ,KD | Disney XD EAST
+http://home-playtv.com:8080/GHGXS/VWCJZ/181156
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" ,KD | Nick 
+http://home-playtv.com:8080/GHGXS/VWCJZ/36444
+#EXTINF:-1 tvg-logo="https://static.epg.best/ee/NickJr.ee.png" group-title="" ,KD | Nick JR WEST
+http://home-playtv.com:8080/GHGXS/VWCJZ/276197
+#EXTINF:-1 tvg-logo="" ,KD | Nick Jr.
+http://home-playtv.com:8080/GHGXS/VWCJZ/221352
+#EXTINF:-1 tvg-logo="http://tvgolatino.com:8080/images/733cb00a7d4db6734d3072c11a08b672.png" ,KD | Nick Music
+http://home-playtv.com:8080/GHGXS/VWCJZ/276212
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/Nicktoons.de.png" ,KD | Nicktoons
+http://home-playtv.com:8080/GHGXS/VWCJZ/276198
+#EXTINF:-1 tvg-logo="" ,KD | Nicktoons
+http://home-playtv.com:8080/GHGXS/VWCJZ/221353
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/716-7160970_direct-pbs-kids-hd-png-download.png" ,KD | PBS KIDS
+http://home-playtv.com:8080/GHGXS/VWCJZ/48628
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Universal_Kids_Logo.png" ,KD | Universal Kids 
+http://home-playtv.com:8080/GHGXS/VWCJZ/36453

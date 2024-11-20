@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BET.us.png" group-title="" ,ET | BET FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/181048
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BetHer.us.png" ,ET | BET Her
+http://home-playtv.com:8080/GHGXS/VWCJZ/49094
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BET.us.png" ,ET | BET Soul
+http://home-playtv.com:8080/GHGXS/VWCJZ/165331
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BounceTV.us.png" ,ET | Bounce
+http://home-playtv.com:8080/GHGXS/VWCJZ/49633
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" ,ET | Comedy Central
+http://home-playtv.com:8080/GHGXS/VWCJZ/49090
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CookingChannel.us.png" ,ET | Cooking Channel
+http://home-playtv.com:8080/GHGXS/VWCJZ/49089
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" ,ET | Destination America
+http://home-playtv.com:8080/GHGXS/VWCJZ/48632
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/186px-E%21_Logo_2012.svg.png" ,ET | E!
+http://home-playtv.com:8080/GHGXS/VWCJZ/51171
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" ,ET | Food Network
+http://home-playtv.com:8080/GHGXS/VWCJZ/48633
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/831/264/png-transparent-fox-channel-television-show-fox-international-channels-fox-life-fox-television-angle-animals.png" ,ET | FOX
+http://home-playtv.com:8080/GHGXS/VWCJZ/71869
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FuseTV.us.png" ,ET | Fuse
+http://home-playtv.com:8080/GHGXS/VWCJZ/50685
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/motortrend.png" ,ET | FXX
+http://home-playtv.com:8080/GHGXS/VWCJZ/49635
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MotorTrend.us.png" ,ET | MotorTrend
+http://home-playtv.com:8080/GHGXS/VWCJZ/53196
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/020.png" ,ET | NBC
+http://home-playtv.com:8080/GHGXS/VWCJZ/71868
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/oxygen_c.png" ,ET | Oxygen
+http://home-playtv.com:8080/GHGXS/VWCJZ/10566
+#EXTINF:-1 tvg-logo="http://i.picasion.com/pic90/cd89b97ac255ccf2c243266698397dbf.gif" ,ET | Teen Nick HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/53213
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,ET | TLC USA
+http://home-playtv.com:8080/GHGXS/VWCJZ/48625
+#EXTINF:-1 tvg-logo="http://i.picasion.com/pic90/2da142b131dae79239d10dd6ec929f84.gif" ,ET | Travel Channel
+http://home-playtv.com:8080/GHGXS/VWCJZ/53215
+#EXTINF:-1 tvg-logo="http://yt3.ggpht.com/kUo8fIltBpheh2VK9qd9PFf3JFJ3gCfJ0sRHrP80CtEQStgqAjI0kodbpqKhYZd8Ehsm5sDhc8f9Yg=ns-nd" ,ET | TRU TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/53810
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/tv_land_c.png" ,ET | TV Land
+http://home-playtv.com:8080/GHGXS/VWCJZ/10556
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s11207_ll_h3_ae.png" ,ET | USA Network
+http://home-playtv.com:8080/GHGXS/VWCJZ/56182

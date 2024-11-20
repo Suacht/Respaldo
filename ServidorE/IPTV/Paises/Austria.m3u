@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s101672_ll_h3_aa.png" ,AT: ATV 2 HD
+http://211979720923957853.ofdp1112.xyz:80/live/PAU240716/ERT5124/957853.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s88174_ll_h3_ab.png" ,AT: ATV FHD
+http://211979720923943552.ofdp1112.xyz:80/live/PAU240716/ERT5124/943552.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s100924_ll_h3_aa.png" ,AT: AUSTRIA 24 SD
+http://211979720923957143.ofdp1112.xyz:80/live/PAU240716/ERT5124/957143.ts
+#EXTINF:-1 tvg-logo="" ,AT: FS1 SALZBURG HD
+http://211979720923953407.ofdp1112.xyz:80/live/PAU240716/ERT5124/953407.ts
+#EXTINF:-1 tvg-logo="" ,AT: K TV SD
+http://211979720923961400.ofdp1112.xyz:80/live/PAU240716/ERT5124/961400.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s84053_ll_h3_aa.png" ,AT: KABEL 1 FHD
+http://211979720923958896.ofdp1112.xyz:80/live/PAU240716/ERT5124/958896.ts
+#EXTINF:-1 tvg-logo="" ,AT: LäNDLE TV SD
+http://211979720923945141.ofdp1112.xyz:80/live/PAU240716/ERT5124/945141.ts
+#EXTINF:-1 tvg-logo="" ,AT: NICKELODEON SD
+http://211979720923961401.ofdp1112.xyz:80/live/PAU240716/ERT5124/961401.ts
+#EXTINF:-1 tvg-logo="" ,AT: ORF 2 HD
+http://211979720923932061.ofdp1112.xyz:80/live/PAU240716/ERT5124/932061.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s99318_ll_h3_aa.png" group-title="" ,AT: ORF 3 HD
+http://211979720923928356.ofdp1112.xyz:80/live/PAU240716/ERT5124/928356.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s99347_ll_h3_aa.png" ,AT: ORF SPORT HD
+http://211979720923960806.ofdp1112.xyz:80/live/PAU240716/ERT5124/960806.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s99347_ll_h3_aa.png" ,AT: ORF SPORT+ HD
+http://211979720923945142.ofdp1112.xyz:80/live/PAU240716/ERT5124/945142.ts
+#EXTINF:-1 tvg-logo="" ,AT: R9 SD
+http://211979720923937379.ofdp1112.xyz:80/live/PAU240716/ERT5124/937379.ts
+#EXTINF:-1 tvg-logo="" ,AT: RAKUTEN TV FAMILY MOVIES AUSTRIA HD
+http://211979720923958897.ofdp1112.xyz:80/live/PAU240716/ERT5124/958897.ts
+#EXTINF:-1 tvg-logo="" ,AT: RTV FHD
+http://211979720923954959.ofdp1112.xyz:80/live/PAU240716/ERT5124/954959.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s101778_ll_h3_ad.png" ,AT: SAT 1 GOLD SD
+http://211979720923962822.ofdp1112.xyz:80/live/PAU240716/ERT5124/962822.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s83648_ll_h3_ab.png" ,AT: SERVUS TV FHD
+http://211979720923957855.ofdp1112.xyz:80/live/PAU240716/ERT5124/957855.ts
+#EXTINF:-1 tvg-logo="" ,AT: SIXX AUSTRIA SD
+http://211979720923960267.ofdp1112.xyz:80/live/PAU240716/ERT5124/960267.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s83753_ll_h3_ab.png" ,AT: SKY SPORT AUSTRIA FHD
+http://211979720923943925.ofdp1112.xyz:80/live/PAU240716/ERT5124/943925.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s83768_ll_h3_ab.png" ,AT: SPORT 1+ FHD
+http://211979720923947233.ofdp1112.xyz:80/live/PAU240716/ERT5124/947233.ts
+#EXTINF:-1 tvg-logo="" ,AT: SRF 1 HD
+http://211979720923928369.ofdp1112.xyz:80/live/PAU240716/ERT5124/928369.ts
+#EXTINF:-1 tvg-logo="" ,AT: TIROL TV HD
+http://211979720923960807.ofdp1112.xyz:80/live/PAU240716/ERT5124/960807.ts
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s83871_ll_h3_aa.png" ,AT: VOX SD
+http://211979720923958900.ofdp1112.xyz:80/live/PAU240716/ERT5124/958900.ts

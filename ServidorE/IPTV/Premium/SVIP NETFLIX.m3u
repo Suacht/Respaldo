@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" ,ES: NETFLIX ACTION 2 HD
+http://211979720923948855.ofdp1112.xyz:80/live/PAU240716/ERT5124/948855.ts
+#EXTINF:-1 tvg-logo="" ,ES: NETFLIX ACTION FHD
+http://211979720923941473.ofdp1112.xyz:80/live/PAU240716/ERT5124/941473.ts
+#EXTINF:-1 tvg-logo="" ,ES: NETFLIX BOX OFFICE FHD
+http://211979720923948856.ofdp1112.xyz:80/live/PAU240716/ERT5124/948856.ts
+#EXTINF:-1 tvg-logo="" ,ES: NETFLIX DISCOVERY CHANNEL FHD
+http://211979720923948857.ofdp1112.xyz:80/live/PAU240716/ERT5124/948857.ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/france%20netf/netflix%20tv.png" ,ES: NETFLIX DRAMA FHD
+http://211979720923948858.ofdp1112.xyz:80/live/PAU240716/ERT5124/948858.ts
+#EXTINF:-1 tvg-logo="" ,ES: NETFLIX HORROR 2 FHD
+http://211979720923947739.ofdp1112.xyz:80/live/PAU240716/ERT5124/947739.ts
+#EXTINF:-1 tvg-logo="" ,ES: NETFLIX HORROR FHD
+http://211979720923948859.ofdp1112.xyz:80/live/PAU240716/ERT5124/948859.ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/france%20netf/netflix%20tv.png" ,ES: NETFLIX KIDS 2 HD
+http://211979720923948860.ofdp1112.xyz:80/live/PAU240716/ERT5124/948860.ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/france%20netf/netflix%20tv.png" ,ES: NETFLIX KIDS HD
+http://211979720923948861.ofdp1112.xyz:80/live/PAU240716/ERT5124/948861.ts
+#EXTINF:-1 tvg-logo="" ,ES: NETFLIX MOVIES 2 FHD
+http://211979720923941475.ofdp1112.xyz:80/live/PAU240716/ERT5124/941475.ts
+#EXTINF:-1 tvg-logo="" ,ES: NETFLIX THRILLER 2 FHD
+http://211979720923948862.ofdp1112.xyz:80/live/PAU240716/ERT5124/948862.ts

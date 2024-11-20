@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,CULTURA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=CULTURA.m3u
+#EXTINF:-1,KARAOKE Y MUSICA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=KARAOKE%20Y%20MUSICA.m3u
+#EXTINF:-1,MÚSICA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=M%C3%9ASICA.m3u
+#EXTINF:-1,NOTICIAS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=NOTICIAS.m3u
+#EXTINF:-1,RELIGIOSOS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=RELIGIOSOS.m3u
+#EXTINF:-1,USA NEWS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=USA%20NEWS.m3u
+#EXTINF:-1,USA PRUEBA 2
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=USA%20PRUEBA%202.m3u
+#EXTINF:-1,USA REGIONALS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=USA%20REGIONALS.m3u
+#EXTINF:-1,USA STARZ & SHOWTIME
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=USA%20STARZ%20%26%20SHOWTIME.m3u
+#EXTINF:-1,USA UNIVISIÓN  - UNIMAS - TELEMUNDO
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=USA%20UNIVISI%C3%93N%20%20-%20UNIMAS%20-%20TELEMUNDO.m3u
+#EXTINF:-1,WWE
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=WWE.m3u
+#EXTINF:-1,ZONA VIX
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=IPTV&genero=General&online=ZONA%20VIX.m3u

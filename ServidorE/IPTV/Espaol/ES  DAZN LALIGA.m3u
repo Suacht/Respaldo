@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" ,ES: DAZN LALIGA 2 FHD
+http://211979720923320780.ofdp1112.xyz:80/live/PAU240716/ERT5124/320780.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="" ,ES: DAZN LALIGA 2 HD
+http://211979720923320779.ofdp1112.xyz:80/live/PAU240716/ERT5124/320779.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" ,ES: DAZN LALIGA FHD
+http://211979720923320782.ofdp1112.xyz:80/live/PAU240716/ERT5124/320782.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" ,ES: DAZN LALIGA FHD HEVC
+http://211979720923958755.ofdp1112.xyz:80/live/PAU240716/ERT5124/958755.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" ,ES: DAZN LALIGA HD
+http://211979720923320781.ofdp1112.xyz:80/live/PAU240716/ERT5124/320781.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" ,ES:DAZN LALIGA SD
+http://211979720923320792.ofdp1112.xyz:80/live/PAU240716/ERT5124/320792.ts

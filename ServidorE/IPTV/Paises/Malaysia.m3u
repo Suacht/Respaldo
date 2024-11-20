@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" ,MY: ASTRO ARENA FHD
+http://211979720923941805.ofdp1112.xyz:80/live/PAU240716/ERT5124/941805.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" ,MY: ASTRO AWANI HD
+http://211979720923954101.ofdp1112.xyz:80/live/PAU240716/ERT5124/954101.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" ,MY: ASTRO OASIS HD
+http://211979720923916968.ofdp1112.xyz:80/live/PAU240716/ERT5124/916968.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="" ,MY: ASTRO SUPERSPORT 3 HD
+http://211979720923886370.ofdp1112.xyz:80/live/PAU240716/ERT5124/886370.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" ,MY: ASTRO VAANAVIL SD
+http://211979720923919624.ofdp1112.xyz:80/live/PAU240716/ERT5124/919624.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" ,MY: BBC EARTH HD
+http://211979720923958209.ofdp1112.xyz:80/live/PAU240716/ERT5124/958209.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" ,MY: HITS MOVIES SD
+http://211979720923958210.ofdp1112.xyz:80/live/PAU240716/ERT5124/958210.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" ,MY: NICK JUNIOR HD
+http://211979720923940591.ofdp1112.xyz:80/live/PAU240716/ERT5124/940591.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png" ,MY: NTV 7 FHD
+http://211979720923960632.ofdp1112.xyz:80/live/PAU240716/ERT5124/960632.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" ,MY: TV 3 FHD
+http://211979720923953307.ofdp1112.xyz:80/live/PAU240716/ERT5124/953307.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" ,MY: TV 9 FHD
+http://211979720923912455.ofdp1112.xyz:80/live/PAU240716/ERT5124/912455.ts

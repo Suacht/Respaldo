@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WNBFmp.png" ,PR ] WAPA DEPORTES
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9_YqZ2yO3c12KyVGYDKIkRhwc8MwM_v-XM-gYp9J6OsF/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crt3P4N.png" ,PR I TELEONCE (2)
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9zvFLIYWdoA_8etWnQAfDA9RA-xCYDwqmiVXKXFh1D-w/ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZWICS5rTHAzQEycyIM11LHzde4z7rJp0Lmd3uj0HEA8BIts4SET_ryPSp3RcW3Yc_uojeQX7ZA=s900-c-k-c0x00ffffff-no-rj" ,PR | TELEMUNDO
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu97g7g3y-UpLsoZlQgoWyOaQ6ajB46M48MPWNA0CjsI5s/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" ,PR | TELEMUNDO (2)
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu92cbrUG56Ld004BhwI9B3VuC0KWCIw-Hxz4eDYOBGya9/ts
+#EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2023/03/Logo-TeleOnce.-Facebook-350x250.jpg" ,PR | TELEONCE
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu93sBOSyQca-ko3DJZ3INnBdhhmrv0u2WTgjm04Vl6dNN/ts
+#EXTINF:-1 tvg-logo="https://www.primerahora.com/resizer/v2/HUYR2AO47BAHXG6NQK7KRG5UUY.JPG?auth=2fbbce47f86254d5c8ccccbe35ccd29b52efed20211364762e5c0fc0ca718d1d&quality=75" ,PR | WAPA AMERICA
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu981C1zAdiwlfwKYq3yt6ctROlkpWl5LwEVSCQ1n1kakg/ts
+#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/b3aa2aae-6c36-11ed-8535-bf50fc0dffc9.png?resize=600%2C315" ,PR | WAPA OPC 2
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu9w_MbSIHDnprmxwTjsFZyvypqXkUW1nEEDBkdoCbxPHr/ts
+#EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/b3aa2aae-6c36-11ed-8535-bf50fc0dffc9.png?resize=600%2C315" group-title="" ,PR | WAPA TV
+http://aorusxtv.xyz:8080/play/tyBjIP66J1fS0Xs0PaLu904HtvvI3EEi1gR0KSOJgtoQAepkC9PFv2Hf1GjvmBxM/ts

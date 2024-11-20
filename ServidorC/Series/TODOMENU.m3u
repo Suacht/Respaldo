@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 ,Accion
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Accion&online=TODO.m3u
+
+#EXTINF:-1 ,Animacion
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Animacion&online=TODO.m3u
+
+#EXTINF:-1 ,Anime
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Anime&online=TODO.m3u
+
+#EXTINF:-1 ,Biografias
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Biografias&online=TODO.m3u
+
+#EXTINF:-1 ,Comedia
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Comedia&online=TODO.m3u
+
+#EXTINF:-1 ,Documental
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Documental&online=TODO.m3u
+
+#EXTINF:-1 ,DORAMAS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=DORAMAS&online=TODO.m3u
+
+#EXTINF:-1 ,Drama
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Drama&online=TODO.m3u
+
+#EXTINF:-1 ,Ficcion
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Ficcion&online=TODO.m3u
+
+#EXTINF:-1 ,INFANTILES
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=INFANTILES&online=TODO.m3u
+
+#EXTINF:-1 ,NETFLIX DRAMA
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=NETFLIX%20DRAMA&online=TODO.m3u
+
+#EXTINF:-1 ,Tele Realidad
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Tele%20Realidad&online=TODO.m3u
+
+#EXTINF:-1 ,Telenovelas
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Telenovelas&online=TODO.m3u
+
+#EXTINF:-1 ,Telenovelas Colombianas
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Telenovelas%20Colombianas&online=TODO.m3u
+
+#EXTINF:-1 ,Terror
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Terror&online=TODO.m3u
+
+#EXTINF:-1 ,TURKAS
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=TURKAS&online=TODO.m3u
+
+#EXTINF:-1 ,Zona Amazon Prime
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20Amazon%20Prime&online=TODO.m3u
+
+#EXTINF:-1 ,Zona Apple TV
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20Apple%20TV&online=TODO.m3u
+
+#EXTINF:-1 ,Zona Disney
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20Disney&online=TODO.m3u
+
+#EXTINF:-1 ,Zona HBO MAX
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20HBO%20MAX&online=TODO.m3u
+
+#EXTINF:-1 ,Zona Hulu
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20Hulu&online=TODO.m3u
+
+#EXTINF:-1 ,Zona Netflix
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20Netflix&online=TODO.m3u
+
+#EXTINF:-1 ,Zona Retro
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20Retro&online=TODO.m3u
+
+#EXTINF:-1 ,Zona Retro Kids
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20Retro%20Kids&online=TODO.m3u
+
+#EXTINF:-1 ,Zona Star
+http://playstr3am.myartsonline.com/PlayStream.php?servidor=ServidorC&seccion=Series&genero=Zona%20Star&online=TODO.m3u
+

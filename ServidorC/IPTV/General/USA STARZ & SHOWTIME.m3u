@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHOTO.png" group-title="" ,Showtime 2 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/36420
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHO-E.PNG" ,Showtime Extreme HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47725
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dffhv3w-f60d9bcf-581c-457b-9232-c13c932c9aac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGZmaHYzdy1mNjBkOWJjZi01ODFjLTQ1N2ItOTIzMi1jMTNjOTMyYzlhYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Rn8YLONJgF-qVgDhp24MlfgOI2V3cDqeY-OjxOACsQ" ,Showtime Extreme HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/36421
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ee/cc/98/eecc984e634f5966ea3b52f45cd1520d.png" ,Showtime HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/54397
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHO-E.PNG" ,Showtime Next HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47610
+#EXTINF:-1 tvg-logo="http://home-playtv.com:2052/stream.php?id=47611#load-balancinghttps://i.ibb.co/s3zXGzN/SHOWTIME-WOMEN.png" ,Showtime Showcase HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47611
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ee/cc/98/eecc984e634f5966ea3b52f45cd1520d.png" ,Showtime West HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47728
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3zXGzN/SHOWTIME-WOMEN.png" ,Showtime Women HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47612
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ee/cc/98/eecc984e634f5966ea3b52f45cd1520d.png" ,Starz Cinema HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/54396
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ee/cc/98/eecc984e634f5966ea3b52f45cd1520d.png" ,Starz Encore Action HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/71840
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ee/cc/98/eecc984e634f5966ea3b52f45cd1520d.png" ,Starz Encore Classic 
+http://home-playtv.com:8080/GHGXS/VWCJZ/71837
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" ,Starz Encore Classic HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47718
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHO-E.PNG" ,Starz Encore East HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47724
+#EXTINF:-1 tvg-logo="http://www.wyattresearch.com/wp-content/uploads/2015/06/Starz_Logo-650x204.png" ,Starz Encore Espal
+http://home-playtv.com:8080/GHGXS/VWCJZ/166117
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHO-E.PNG" ,Starz Encore Family HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47717
+#EXTINF:-1 tvg-logo="http://epg.justco.cc/guide/logos/STARZENCORE.png" ,Starz Encore HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47720
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHO-E.PNG" ,Starz Encore Suspense HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47716
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ee/cc/98/eecc984e634f5966ea3b52f45cd1520d.png" ,Starz Encore Suspense HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/71834
+#EXTINF:-1 tvg-logo="http://www.wyattresearch.com/wp-content/uploads/2015/06/Starz_Logo-650x204.png" ,STARZ Kids & Family
+http://home-playtv.com:8080/GHGXS/VWCJZ/108634
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ee/cc/98/eecc984e634f5966ea3b52f45cd1520d.png" ,Starz Latino HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/71841

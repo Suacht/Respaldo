@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://iili.io/HNc5vWu.png" group-title="" ,FINETWORK DAZN 1
+http://211979720923648490.ofdp1112.xyz:80/live/PAU240716/ERT5124/648490.ts
+#EXTINF:-1 tvg-logo="https://iili.io/HNc58ib.png" ,FINETWORK DAZN 2
+http://211979720923648491.ofdp1112.xyz:80/live/PAU240716/ERT5124/648491.ts
+#EXTINF:-1 tvg-logo="https://iili.io/HNc5kxe.png" ,FINETWORK DAZN 3
+http://211979720923648492.ofdp1112.xyz:80/live/PAU240716/ERT5124/648492.ts
+#EXTINF:-1 tvg-logo="https://iili.io/HNc5Ufj.png" ,FINETWORK DAZN 4
+http://211979720923648493.ofdp1112.xyz:80/live/PAU240716/ERT5124/648493.ts
+#EXTINF:-1 tvg-logo="https://iili.io/HNc5g0x.png" ,FINETWORK DAZN 5
+http://211979720923648494.ofdp1112.xyz:80/live/PAU240716/ERT5124/648494.ts

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,TV _ CULTURA
+http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorA&seccion=IPTV&genero=General&online=TV%20_%20CULTURA.m3u
+#EXTINF:-1,TV _ DIRECTV
+http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorA&seccion=IPTV&genero=General&online=TV%20_%20DIRECTV.m3u
+#EXTINF:-1,TV _ GALAVISION
+http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorA&seccion=IPTV&genero=General&online=TV%20_%20GALAVISION.m3u
+#EXTINF:-1,TV _ TELEMUNDO
+http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorA&seccion=IPTV&genero=General&online=TV%20_%20TELEMUNDO.m3u
+#EXTINF:-1,TV _ UNIMAS
+http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorA&seccion=IPTV&genero=General&online=TV%20_%20UNIMAS.m3u
+#EXTINF:-1,TV _ UNIVISION
+http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorA&seccion=IPTV&genero=General&online=TV%20_%20UNIVISION.m3u
+#EXTINF:-1,TV I NOTICIAS
+http://playstr3am.myartsonline.com/PlayStr3am.php?servidor=ServidorA&seccion=IPTV&genero=General&online=TV%20I%20NOTICIAS.m3u

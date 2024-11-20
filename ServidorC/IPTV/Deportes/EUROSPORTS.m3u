@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg" ,Arena Sport 3 SR
+http://home-playtv.com:8080/GHGXS/VWCJZ/58278
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/newlogo/c_more_se_golf_hd.png" group-title="" ,C More Golf
+http://home-playtv.com:8080/GHGXS/VWCJZ/62613
+#EXTINF:-1 tvg-logo="" ,DK-- TV2 SPORT
+http://home-playtv.com:8080/GHGXS/VWCJZ/58545
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2017/08/eredivisie-premier-league-football-590x270.jpg" ,ESPN 1 EREDIVISIE
+http://home-playtv.com:8080/GHGXS/VWCJZ/216454
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/f8901a528a47e1da157bab004007c625.jpg" ,Extreme Sports
+http://home-playtv.com:8080/GHGXS/VWCJZ/64661
+#EXTINF:-1 tvg-logo="https://www.gran-turismo.com/gtsport/decal/6124914264514790928_1.png" ,GR: nova sports 2 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/185094
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fitalie%2Fsky+sport+serie+a+hd.gif" ,IT | Sky Sport Serie A HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/55728
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,NL | FOX Sports 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/55742
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,NL | FOX Sports 3 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/55744
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,NL | FOX Sports 4 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/55745
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,NL | FOX Sports 6 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/55747
+#EXTINF:-1 tvg-logo="" ,PL-- Polsat Sport Fight FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/62909
+#EXTINF:-1 tvg-logo="http://mdprime.live:8080/images/e573be7255639ef810482a8f31ec209b.png" ,PT | A Bola TV 
+http://home-playtv.com:8080/GHGXS/VWCJZ/50127
+#EXTINF:-1 tvg-logo="http://mdprime.live:8080/images/d7e912687f40d9dd9edf3eef713f1dc9.png" ,PT | Canal 11 
+http://home-playtv.com:8080/GHGXS/VWCJZ/50126
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47447
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 2 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47448
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 3 HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/47449
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 4 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47450
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 5 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47451
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 6 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47452
+#EXTINF:-1 tvg-logo="http://mdprime.live:8080/images/89d582b7a776e314399e166dfec88980.png" ,PT | EuroSport 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47454
+#EXTINF:-1 tvg-logo="http://conectweb.site/canais%20pt/Kombat%20Sport%20logo.png" ,PT | Kombat Sport HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47456
+#EXTINF:-1 tvg-logo="http://portocanal.sapo.pt/uploads/defaults/default-16x9.png" ,PT | Porto Canal HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47457
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" ,PT | Sport TV 3
+http://home-playtv.com:8080/GHGXS/VWCJZ/40681
+#EXTINF:-1 tvg-logo="http://mdprime.live:8080/images/b4b800fad169d2fd207778581c67dcd9.png" ,PT | Sporting TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/47453
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/bb/e0/2dbbe0146bf16c7574c1e84680fab1e9.png" ,RO | Digi Sport 2 
+http://home-playtv.com:8080/GHGXS/VWCJZ/58534
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/bb/e0/2dbbe0146bf16c7574c1e84680fab1e9.png" ,RO | Digi Sport 3
+http://home-playtv.com:8080/GHGXS/VWCJZ/58535
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/bb/e0/2dbbe0146bf16c7574c1e84680fab1e9.png" ,RO-- Digi Sport 4
+http://home-playtv.com:8080/GHGXS/VWCJZ/58536
+#EXTINF:-1 tvg-logo="" ,RO-- Look Sport
+http://home-playtv.com:8080/GHGXS/VWCJZ/62910
+#EXTINF:-1 tvg-logo="https://www.sportradar.com/wp-content/uploads/sites/21/2014/08/viasatsport.png" ,Ru- Viasat Sport
+http://home-playtv.com:8080/GHGXS/VWCJZ/64660
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/6/6f/Sportklubrshrsl.png" ,Sport klub HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/62920
+#EXTINF:-1 tvg-logo="https://www.bowlingverenigingtilburg.nl/images/Ziggo-Sport-logo-2015.png" ,Ziggo Sport Extra2
+http://home-playtv.com:8080/GHGXS/VWCJZ/185082
+#EXTINF:-1 tvg-logo="https://www.bowlingverenigingtilburg.nl/images/Ziggo-Sport-logo-2015.png" ,ZIGGO SPORT EXTRA 1
+http://home-playtv.com:8080/GHGXS/VWCJZ/64644

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlN2Y1OTQtMjBhMy00ODE0LTk0OTctMWFkMjkyZjJkYWE4XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/545441.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlN2Y1OTQtMjBhMy00ODE0LTk0OTctMWFkMjkyZjJkYWE4XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/545442.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlN2Y1OTQtMjBhMy00ODE0LTk0OTctMWFkMjkyZjJkYWE4XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/545435.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlN2Y1OTQtMjBhMy00ODE0LTk0OTctMWFkMjkyZjJkYWE4XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/545436.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlN2Y1OTQtMjBhMy00ODE0LTk0OTctMWFkMjkyZjJkYWE4XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/545437.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlN2Y1OTQtMjBhMy00ODE0LTk0OTctMWFkMjkyZjJkYWE4XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/545438.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlN2Y1OTQtMjBhMy00ODE0LTk0OTctMWFkMjkyZjJkYWE4XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/545439.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFlN2Y1OTQtMjBhMy00ODE0LTk0OTctMWFkMjkyZjJkYWE4XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/545440.mp4
+

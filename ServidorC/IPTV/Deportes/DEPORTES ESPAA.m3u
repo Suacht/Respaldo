@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" ,DEP ES | Barca TV HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/33519
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" ,DEP ES | Caza y Pesca
+http://home-playtv.com:8080/GHGXS/VWCJZ/47669
+#EXTINF:-1 tvg-logo="https://tv.cazavision.com/images/logo-whitePT.png" ,DEP ES | Cazavision 
+http://home-playtv.com:8080/GHGXS/VWCJZ/47670
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-formula-1-366.png" ,DEP ES | DAZN Fórmula 1 FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/33523
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-formula-1-366.png" ,DEP ES | DAZN Fórmula F1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/59587
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="" ,DEP ES | DAZN La Liga 1 FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/440259
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" ,DEP ES | DAZN La Liga 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/440260
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" ,DEP ES | DAZN La Liga 1 SD
+http://home-playtv.com:8080/GHGXS/VWCJZ/440261
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" ,DEP ES | DAZN La Liga 2 FHD
+http://home-playtv.com:8080/GHGXS/VWCJZ/440262
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" ,DEP ES | DAZN La Liga 2 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/440263
+#EXTINF:-1 tvg-logo="https://img.favpng.com/11/0/22/eurosport-2-logo-television-png-favpng-fWfVDPur2CybCxk3NanD1Upcj.jpg" ,DEP ES | Eurosport 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/47435
+#EXTINF:-1 tvg-logo="https://img.favpng.com/11/0/22/eurosport-2-logo-television-png-favpng-fWfVDPur2CybCxk3NanD1Upcj.jpg" ,DEP ES | Eurosport 2 HD ES
+http://home-playtv.com:8080/GHGXS/VWCJZ/47437
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png" ,DEP ES | GOL TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/119379
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png" ,DEP ES | GOL TV HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/119381
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" ,DEP ES | GOL TV HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/203808
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsPJG1r/liga1.png" ,DEP ES | La Liga 1 VIP
+http://home-playtv.com:8080/GHGXS/VWCJZ/209705
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsPJG1r/liga1.png" ,DEP ES | La Liga 1 VIP OP 2
+http://home-playtv.com:8080/GHGXS/VWCJZ/203785
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znSxvvX/liga2.png" ,DEP ES | La Liga 2 VIP
+http://home-playtv.com:8080/GHGXS/VWCJZ/209707
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKKGbn8/liga3.png" ,DEP ES | La Liga 3 VIP
+http://home-playtv.com:8080/GHGXS/VWCJZ/209710
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSCvcQ1/liga4.png" ,DEP ES | La Liga 4 VIP
+http://home-playtv.com:8080/GHGXS/VWCJZ/209713
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MG91hY8/liga5.png" ,DEP ES | La Liga 5 SD VIP
+http://home-playtv.com:8080/GHGXS/VWCJZ/209716
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" ,DEP ES | La Liga (DAZN La Liga 2)
+http://home-playtv.com:8080/GHGXS/VWCJZ/440269
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" ,DEP ES | La Liga (DAZN La Liga)
+http://home-playtv.com:8080/GHGXS/VWCJZ/440268
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" ,DEP ES | La Liga (ESPN+) Solo Eventos
+http://home-playtv.com:8080/GHGXS/VWCJZ/440264
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" ,DEP ES | La Liga (M+ La Liga 2)
+http://home-playtv.com:8080/GHGXS/VWCJZ/440267
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" ,DEP ES | La Liga (M+ La Liga)
+http://home-playtv.com:8080/GHGXS/VWCJZ/440266
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" ,DEP ES | La Liga (SKY Sports)
+http://home-playtv.com:8080/GHGXS/VWCJZ/440265
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" ,DEP ES | La Liga HD VIP
+http://home-playtv.com:8080/GHGXS/VWCJZ/209727
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" ,DEP ES | La Liga HD VIP ⭐️
+http://home-playtv.com:8080/GHGXS/VWCJZ/54155
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" ,DEP ES | La Liga SD VIP
+http://home-playtv.com:8080/GHGXS/VWCJZ/217311
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" ,DEP ES | M+ La Liga 1
+http://home-playtv.com:8080/GHGXS/VWCJZ/203781
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,DEP ES | Movistar  Deportes
+http://home-playtv.com:8080/GHGXS/VWCJZ/203769
+#EXTINF:-1 tvg-logo="" ,DEP ES | Movistar  Deportes 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/117140
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar  Liga de Campeones  HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/35880
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/b8171ed5235d8f4f5d854f523fbbbafb.png" ,DEP ES | Movistar Golf HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/33526
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 1 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/203795
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 2 
+http://home-playtv.com:8080/GHGXS/VWCJZ/117139
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 2 HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/203797
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 3
+http://home-playtv.com:8080/GHGXS/VWCJZ/186859
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 4
+http://home-playtv.com:8080/GHGXS/VWCJZ/186860
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 5
+http://home-playtv.com:8080/GHGXS/VWCJZ/186861
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bbQ1s2C/campeones6.png" ,DEP ES | Movistar Liga de Campeones 6
+http://home-playtv.com:8080/GHGXS/VWCJZ/222437
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones ⭐️
+http://home-playtv.com:8080/GHGXS/VWCJZ/54157
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" ,DEP ES | Movistar Toros
+http://home-playtv.com:8080/GHGXS/VWCJZ/33528
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" ,DEP ES | Movistar Toros HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/517237
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vamos-es.png" ,DEP ES | Movistar Vamos ⭐️
+http://home-playtv.com:8080/GHGXS/VWCJZ/203766
+#EXTINF:-1 tvg-logo="http://tvgolatino.com:8080/images/d374184ab224ce5cd020dd43ae92f5d4.png" ,DEP ES | Multideporte
+http://home-playtv.com:8080/GHGXS/VWCJZ/51319
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2020/02/Mundotoro-Principal-750x536.png" ,DEP ES | One Toro
+http://home-playtv.com:8080/GHGXS/VWCJZ/517236
+#EXTINF:-1 tvg-logo="http://starplus.club:8080/images/8d33aaafe8f0580de60f417ba06756ab.png" ,DEP ES | Real Madrid TV SD
+http://home-playtv.com:8080/GHGXS/VWCJZ/310522
+#EXTINF:-1 tvg-logo="http://serviciosvisuales.ga:25461/images/530d8a613086740a1add5811ab22d5ee.png" ,DEP ES | Sevilla FC TV
+http://home-playtv.com:8080/GHGXS/VWCJZ/169288
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/2/26/20111025105920%21Teledeporte_logo.png" ,DEP ES | Teledeporte
+http://home-playtv.com:8080/GHGXS/VWCJZ/203811
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" ,DEP ES | Vamos HD 
+http://home-playtv.com:8080/GHGXS/VWCJZ/47430
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" ,DEP ES | Vamos HD
+http://home-playtv.com:8080/GHGXS/VWCJZ/54162

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F002%2F156%2Fspartacus-dioses-de-la-arena-1.jpg&nuevoancho=690&medio=abc" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/99302.mkv
+
+#EXTINF:-1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F002%2F156%2Fspartacus-dioses-de-la-arena-1.jpg&nuevoancho=690&medio=abc" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/99303.mkv
+
+#EXTINF:-1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F002%2F156%2Fspartacus-dioses-de-la-arena-1.jpg&nuevoancho=690&medio=abc" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/99304.mkv
+
+#EXTINF:-1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F002%2F156%2Fspartacus-dioses-de-la-arena-1.jpg&nuevoancho=690&medio=abc" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/99305.mkv
+
+#EXTINF:-1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F002%2F156%2Fspartacus-dioses-de-la-arena-1.jpg&nuevoancho=690&medio=abc" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/99306.mkv
+
+#EXTINF:-1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F002%2F156%2Fspartacus-dioses-de-la-arena-1.jpg&nuevoancho=690&medio=abc" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/99307.mkv
+

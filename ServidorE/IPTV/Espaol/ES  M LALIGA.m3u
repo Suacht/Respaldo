@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" ,ES: LALIGA Sports TV 24/7 FHD
+http://211979720923660538.ofdp1112.xyz:80/live/PAU240716/ERT5124/660538.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" ,ES: LALIGA TV BAR FHD
+http://211979720923268042.ofdp1112.xyz:80/live/PAU240716/ERT5124/268042.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" ,ES: LALIGA TV BAR HD
+http://211979720923165407.ofdp1112.xyz:80/live/PAU240716/ERT5124/165407.ts
+#EXTINF:-1 tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" ,ES: LALIGA+ FHD
+http://211979720923660537.ofdp1112.xyz:80/live/PAU240716/ERT5124/660537.ts
+#EXTINF:-1 tvg-logo="" ,ES: M LALIGA SMARTBANK 1 FHD
+http://211979720923325771.ofdp1112.xyz:80/live/PAU240716/ERT5124/325771.ts
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" ,ES: M LALIGA SMARTBANK 1 HD
+http://211979720923320790.ofdp1112.xyz:80/live/PAU240716/ERT5124/320790.ts
+#EXTINF:-1 tvg-logo="" ,ES: M LALIGA SMARTBANK 1 SD
+http://211979720923325772.ofdp1112.xyz:80/live/PAU240716/ERT5124/325772.ts
+#EXTINF:-1 tvg-logo="" ,ES: M LALIGA SMARTBANK 2 HD
+http://211979720923329115.ofdp1112.xyz:80/live/PAU240716/ERT5124/329115.ts
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" ,ES: M LALIGA SMARTBANK FHD
+http://211979720923320785.ofdp1112.xyz:80/live/PAU240716/ERT5124/320785.ts
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" ,ES: M LALIGA SMARTBANK HD
+http://211979720923320786.ofdp1112.xyz:80/live/PAU240716/ERT5124/320786.ts
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" ,ES: M LALIGA SMARTBANK SD
+http://211979720923320789.ofdp1112.xyz:80/live/PAU240716/ERT5124/320789.ts
+#EXTINF:-1 tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" ,ES: M LaLiga SmartbankTV 3 FHD
+http://211979720923489190.ofdp1112.xyz:80/live/PAU240716/ERT5124/489190.ts
+#EXTINF:-1 tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" ,ES: M LaLiga SmartbankTV 5 HD
+http://211979720923489195.ofdp1112.xyz:80/live/PAU240716/ERT5124/489195.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" ,ES: M+ LALIGA 2 HD
+http://211979720923165398.ofdp1112.xyz:80/live/PAU240716/ERT5124/165398.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="" ,ES: M+ LALIGA FHD
+http://211979720923165385.ofdp1112.xyz:80/live/PAU240716/ERT5124/165385.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" ,ES: M+ LALIGA FHD HEVC
+http://211979720923262413.ofdp1112.xyz:80/live/PAU240716/ERT5124/262413.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" ,ES: M+ LALIGA HD
+http://211979720923165392.ofdp1112.xyz:80/live/PAU240716/ERT5124/165392.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" ,ES: M+ LALIGA SD
+http://211979720923165393.ofdp1112.xyz:80/live/PAU240716/ERT5124/165393.ts
+#EXTINF:-1 tvg-logo="" ,ES:LALIGA Sports TV FHD
+http://211979720923928392.ofdp1112.xyz:80/live/PAU240716/ERT5124/928392.ts
+#EXTINF:-1 tvg-logo="" ,ES:LALIGA Sports TV HD
+http://211979720923928393.ofdp1112.xyz:80/live/PAU240716/ERT5124/928393.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" ,ES:LALIGA TV 3 HD
+http://211979720923953990.ofdp1112.xyz:80/live/PAU240716/ERT5124/953990.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" ,ES:LALIGA TV 4 HD
+http://211979720923953991.ofdp1112.xyz:80/live/PAU240716/ERT5124/953991.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ppwgwy1692438970.png" ,ES:LALIGA TV HYPERMOTION 2 HD
+http://211979720923571906.ofdp1112.xyz:80/live/PAU240716/ERT5124/571906.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ppwgwy1692438970.png" ,ES:LALIGA TV HYPERMOTION FHD
+http://211979720923571903.ofdp1112.xyz:80/live/PAU240716/ERT5124/571903.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ppwgwy1692438970.png" ,ES:LALIGA TV HYPERMOTION HD
+http://211979720923571904.ofdp1112.xyz:80/live/PAU240716/ERT5124/571904.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ppwgwy1692438970.png" ,ES:LALIGA TV HYPERMOTION SD
+http://211979720923571905.ofdp1112.xyz:80/live/PAU240716/ERT5124/571905.ts

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/458057.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p3oOluSyg2WkUxgShqc0Ji68YiN.jpg" group-title="Temporada 2",1
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/296885.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddLvNMyADwUpiNOS42XXxdl4b6f.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/458058.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rCYPediP7oA0ybibYCDeRmCBKJo.jpg" group-title="Temporada 2",2
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/296886.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgs0AMFBHPenfwIsxqLSGqbnOhw.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/458059.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nibFSc6mQLHeFAkfKEifnObtYRR.jpg" group-title="Temporada 2",3
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/236310.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntavqh2ruslPIOVeRRFMvdi5WzM.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/458060.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nuTsLlLNacklbITyQPRvKOAtXlg.jpg" group-title="Temporada 2",4
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/236311.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ff187LdnqgrrOQWlzGShPR5sLS.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/458061.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/g90PNNYusg548V8wncsK4lUb1rY.jpg" group-title="Temporada 2",5
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/241104.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9IKlyZ788IOJKlpDXiiaq8lO2H.jpg" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/458062.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/a4FJJ4jPpYc34jmtXzgm2uAS6V7.jpg" group-title="Temporada 2",6
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/241529.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMQsSORQsV2tfUw1ezyGiCbO6l8.jpg" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/458063.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1qXV8oAPhIqkqaNouwb9JC28SfV.jpg" group-title="Temporada 2",7
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/242617.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJL0AGDU3oE06hERQfu4acGPm7d.jpg" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/458064.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/po4G5fgneIoiuk7TWlvcusWM1HS.jpg" group-title="Temporada 2",8
+http://home-playtv.com:8080/series/GHGXS/VWCJZ/243139.mkv
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="" ,ES: SUPERCOPA FHD
+http://211979720923760430.ofdp1112.xyz:80/live/PAU240716/ERT5124/760430.ts
+#EXTINF:-1 tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" ,ES: SUPERCOPA HD
+http://211979720923760431.ofdp1112.xyz:80/live/PAU240716/ERT5124/760431.ts
+#EXTINF:-1 tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" ,ES: SUPERCOPA SD
+http://211979720923760432.ofdp1112.xyz:80/live/PAU240716/ERT5124/760432.ts

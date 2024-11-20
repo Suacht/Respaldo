@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/GiPeqCq52yu0eR8SL-4RdHR1FzQvI0Cj.png" ,ES: CINE VERDI FHD
+http://211979720923956500.ofdp1112.xyz:80/live/PAU240716/ERT5124/956500.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/uPnuS8JeCxvHiCtu-KAw4FaTKqTyqufn.png" ,ES: CLASSIC MANIA TV FHD
+http://211979720923956501.ofdp1112.xyz:80/live/PAU240716/ERT5124/956501.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/mRl8O5atAqxrEkII_DMLaprtsdSHSlGx.png" ,ES: COCINA FAMILIAR FHD
+http://211979720923956502.ofdp1112.xyz:80/live/PAU240716/ERT5124/956502.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/XeuC-B0NLFHyopFrHkVdGM5PKAdfYo9q.png" ,ES: DISTRITO TV FHD
+http://211979720923956503.ofdp1112.xyz:80/live/PAU240716/ERT5124/956503.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/xZSV-Fl4ZYit-Ra_-bumT5E7leGeK7ED.png" ,ES: DVIAJE FHD
+http://211979720923956504.ofdp1112.xyz:80/live/PAU240716/ERT5124/956504.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/88Kyrz0fvBr5bAZDt8uXNysJxzO5Yeyn.png" ,ES: FEELGOOD FHD
+http://211979720923956505.ofdp1112.xyz:80/live/PAU240716/ERT5124/956505.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/i7h1Pz9Erzfq5rgzdutp9_GbMpAZwYuO.png" ,ES: FUEL TV SD
+http://211979720923956506.ofdp1112.xyz:80/live/PAU240716/ERT5124/956506.ts
+#EXTINF:-1 tvg-logo="" ,ES: GRAN HERMANO 24H HD
+http://211979720923956507.ofdp1112.xyz:80/live/PAU240716/ERT5124/956507.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/tGM6n4R-ARQyGYng48xU0ybrGIczRz2h.png" ,ES: MASCOTASTV FHD
+http://211979720923956508.ofdp1112.xyz:80/live/PAU240716/ERT5124/956508.ts
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_63d7d182cbf06800233de624.png" ,ES: NATURE TIME FHD
+http://211979720923962878.ofdp1112.xyz:80/live/PAU240716/ERT5124/962878.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/FXUzrPmfq11ZTSIz2tD6mhNO_dnHGhd-.png" ,ES: NAUTICA TV SD
+http://211979720923956509.ofdp1112.xyz:80/live/PAU240716/ERT5124/956509.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/IDgDcdY04ROK8gF73_ll_PEctRuefd-U.png" ,ES: NAUTICAL CHANNEL FHD
+http://211979720923956510.ofdp1112.xyz:80/live/PAU240716/ERT5124/956510.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/Hq9FM_5xdP9g_5mw_WfDELTdKIwugJSr.png" ,ES: PANORAMA MOTOR FHD
+http://211979720923887113.ofdp1112.xyz:80/live/PAU240716/ERT5124/887113.ts
+#EXTINF:-1 tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/OD7jHS_a4xu8RhBTg3na2h87IqTcORq-.png" group-title="" ,ES: SURF CHANNEL FHD
+http://211979720923881177.ofdp1112.xyz:80/live/PAU240716/ERT5124/881177.ts
